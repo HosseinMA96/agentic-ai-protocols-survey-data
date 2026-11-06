@@ -1,0 +1,53 @@
+delta protocol-centric: 441 | journal/conference/chapter/review: 256 | preprints, theses, software, datasets, other: 185
+peer-type with security terms in title: 51 | measurement/benchmark terms: 10
+  SEC 2024-11-12 International Journal of Engineering & Extended Technologies | Trust Boundaries in the Model Context Protocol: Tool Poisoning, Server Impersonation, and Mitigations
+  SEC 2025-01-01 International Journal of Computer Technology and Electronics | Adaptive Model Context Protocols for Trustworthy and Secure Agentic AI Systems
+  SEC 2025-01-01 Open Collections | From blockchain trust models to native security protocols : enhancements of the A2A communication framework
+  SEC 2025-05-31 INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING  | Model Context Protocol: A Context-Aware Framework for Enhancing Cybersecurity in Dynamic Environments
+  SEC 2025-09-10 International Conference on Artificial Intelligence Technolo | The Missing S: Securing the Model Context Protocol
+  SEC 2025-10-01 Computer Standards & Interfaces | Integrating agentic risk signalling in trusted research environments: Automating VEX with Agent2Agent protocol
+  SEC 2025-10-06 IEEE International Conference on Computing (ICOCO) | A2A Routing Service with MCP Integration: Bridging Security, Auditability, and Governance in AI Agent Systems
+  SEC 2025-10-22 IEEE International Symposium for Design and Technology in El | Security Posture Evaluation of Model Context Protocol Servers Against Prompt Injection
+  SEC 2025-11-04 Mobility in the Evolving Internet Architecture | Secure Model Context Protocol for Large Language Models with Dual Signatures
+  SEC 2025-11-05 Zenodo (CERN European Organization for Nuclear Research) | MCP(Model Context Protocol) FOR CYBERSECURITY
+  SEC 2025-12-03 IEEE Annual Congress on Artificial Intelligence of Things (A | Preserving oneM2M Security Semantics in LLM-IoT Integration with Model Context Protocol
+  SEC 2025-12-08 Annual Computer Security Applications Conference Workshops ( | Building A Secure Agentic AI Application Leveraging Google’s A2A Protocol
+  SEC 2025-12-10 International Journal of Innovative Research in Engineering  | Zero-Trust Security Frameworks for Model Context Protocol (MCP) Server Communications
+  SEC 2026-01-01 Texts in computer science | AI for Cybersecurity in Model Context Protocols (MCPs) and AI Agents
+  SEC 2026-01-01 Conference on Empirical Methods in Natural Language Processi | ShieldMCP: An Interactive System for Runtime Security of Model Context Protocol Tool Calls
+  SEC 2026-01-01 Lecture notes in networks and systems | Security Defense Mechanisms in Model Context Protocol Implementations: A Systematic Literature Review
+  SEC 2026-01-01 Zenodo (CERN European Organization for Nuclear Research) | The Model Context Protocol: An Integrated Framework for AI-Driven Vulnerability Risk Assessment
+  SEC 2026-01-01 International Journal of Artificial Intelligence and Machine | Natural Language Orchestrator: Secure API Interoperability Via The Model Context Protocol
+  SEC 2026-01-01 Technix International Journal for Engineering Research | Handing Over the Cart: Consumer Trust and the Intention to Delegate Purchases to AI Shopping Assistants in the
+  SEC 2026-01-20 Zenodo (CERN European Organization for Nuclear Research) | The Agent Payments Protocol (AP2): Architecture, Interoperability, Security, and Cross-Industry Applications
+  SEC 2026-02-18 IEEE International Conference on AI in Cybersecurity (ICAIC) | A Systematic Security Analysis of Model Context Protocol: Vulnerabilities, Exploits, and Mitigations
+  SEC 2026-02-18 IEEE International Conference on AI in Cybersecurity (ICAIC) | Agentic Commerce: A Comprehensive Analysis of Cybersecurity Risks, Privacy Challenges, and Trust Mechanisms in
+  SEC 2026-02-23 CRC Press eBooks | Securing IoT 2.0: Safety, Trust, and Governance for the Internet of Agents
+  SEC 2026-03-19 International Symposium on Digital Forensics and Security (I | A Systematization of Privacy Threats and Defenses in Modern Agentic Web Browsers
+  SEC 2026-03-22 International Research Journal of Modernization in Engineeri | SECURING MCP SERVERS AND A2A AGENTS USING API GATEWAYS: A FLEX GATEWAY-DRIVEN APPROACH FOR HEALTHCARE
+  SEC 2026-04-01 International Research Journal of Modernization in Engineeri | PRIVYMCP: A LOCALIZED PRIVACY-PRESERVING GATEWAY FOR MODEL CONTEXT PROTOCOL IN AGENTIC WORKFLOWS
+  SEC 2026-05-05 Journal of Cybersecurity and Privacy | Model Context Protocol Threat Modeling and Analysis of Vulnerabilities to Prompt Injection with Tool Poisoning
+  SEC 2026-05-18 IEEE Conference on Computer Communications (INFOCOM) | Token Mismanagement Risks in Multi-Agent Systems: Security Implications for A2A-based Industrial AI Collaborat
+  SEC 2026-06-01 IEEE International Conference on Blockchain and Cryptocurren | Hexa-Trust System for Reliable Agent-to-Agent Payment
+  SEC 2026-06-01 IEEE International Conference on Distributed Computing Syste | Fast Semantic Retrieval with Balanced Load and Implicit Privacy in Large-Scale Internet of Agents
+  SEC 2026-06-01 International Conference on Artificial Intelligence and Elec | A Reliable Trust Evaluation Scheme for Trustworthy Block Propagation in Blockchain-Empowered Internet of Agent
+  SEC 2026-06-01 Journal of Computational Analysis and Applications | Securing Agentic Commerce: A Constraint-Based Authorization Layer for Non Human Identity and Autonomous AI Pay
+  SEC 2026-06-10 International Conference on Inventive Computing and Informat | Integrated Framework for Secure Communication among Multiple Agents using MCP and A2A
+  SEC 2026-06-12 International Conference on System, Computation, Automation  | Agent Card Poisoning: Measuring Discovery-Layer Injection Attacks and Defenses in A2A Systems
+  SEC 2026-06-13 Zenodo (CERN European Organization for Nuclear Research) | Geoprivacy Leaks in Autonomous Agent-to-Agent (A2A) Conversations
+  SEC 2026-06-19 International Scientific Journal of Engineering and Manageme | A Layered Cryptographic Trust Architecture (LCTA) for Secure Agentic Commerce in Autonomous AI Marketplaces
+  SEC 2026-06-27 Smart innovation, systems and technologies | Beyond Connectivity: Architecting Decentralised Trust for the Emerging Internet of Agents (IoA)
+  SEC 2026-07-01 ACM SIGWEB Newsletter | Toward Collaborative Steering in Trustworthy Agentic Web Recommendation Systems
+  SEC 2026-07-15 ACM Transactions on Software Engineering and Methodology | Confused Deputy Attack against Model Context Protocol
+  SEC 2026-07-25 World Journal of Advanced Research and Reviews | Trusted financial data for agentic commerce: A multi-agent framework for credit risk, fraud detection, and sec
+  SEC 2026-07-28 AI and Ethics | Delegating trust in agentic commerce: a PKI-based governance architecture for South Korea
+  SEC 2026-08-01 International Conference on Distributed Systems, Computer Ne | Mcploit: a Model Context Protocol Enumeration and Exploitation Framework
+  SEC 2026-08-01 International Conference on Soft Computing for Security Appl | Post-Quantum Security Framework for Model Context Protocol Using ContextGuard
+  SEC 2026-08-01 DOAJ (DOAJ: Directory of Open Access Journals) | Design and optimization of privacy-enhanced interoperability framework for Internet of agents
+  SEC 2026-08-02 International Journal of Research & Technology | Mitigating the Autonomy–Friction Paradox: A Standardized Trust-Aware Framework for Agent-to-Agent Stablecoin P
+  SEC 2026-08-18 Zenodo (CERN European Organization for Nuclear Research) | A2A Under Attack
+  SEC 2026-09-01 International Conference on I-SMAC (IoT in Social, Mobile, A | Securing Autonomous Agent Ecosystems using Policy-Guided Guardrails for A2A and MCP Communication
+  SEC 2026-09-01 Engineering Reports | Compositional Security for Blockchain‐Based Agentic Commerce: Cross‐Layer Binding, Predicate‐Constrained Settl
+  SEC 2026-09-17 The Pinnacle A Journal by Scholar-Practitioners | Artificial Intelligence - Model Context Protocol - Review of Real-World Security Threats
+  SEC 2026-10-29 Sustainability | Developing Consumer Trust in Sustainable Agentic Commerce: Conditional Signals, Auditable Governance, and Just
+  SEC 2026-10-31 Journal of Computer Science and Technology Studies | Evaluating Security and Reliability of Stateless Model Context Protocol Gateways

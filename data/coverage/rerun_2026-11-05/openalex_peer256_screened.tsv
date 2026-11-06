@@ -1,0 +1,257 @@
+n	type	title	venue	doi	category	cited_as
+1	conference-paper	5G RAN Simulation Enhancement via the Model Context Protocol	Conference on Innovation in Clouds, Internet and Networks an	10.1109/icin69025.2026.11481802	A	
+2	conference-paper	A Capacity-Aware Task Allocation Scheme in Internet of Agents	International Conference on Communications	10.1109/icc59461.2026.11588028	O	
+3	conference-paper	A Decision Framework for Inter-agent Communication Protocol Selection	Lecture notes in computer science	10.1007/978-3-032-40774-0_40	P	
+4	conference-paper	A Generalised Robot Control Architecture with Large Language Model and Model Context Protocol	International Conference on Control, Automation and Robotics	10.1109/iccar69571.2026.11549721	A	
+5	article	A Layered Cryptographic Trust Architecture (LCTA) for Secure Agentic Commerce in Autonomous AI Marketplaces	International Scientific Journal of Engineering and Manageme	10.55041/isjem07968	C	
+6	conference-paper	A Model Context Protocol Application for Long-Term Memory Management	International Conference on Foundation and Large Language Mo	10.1109/fllm67465.2025.11391050	A	
+7	conference-paper	A Multi-Agent Graph RAG Framework with ReAct and A2A Protocol	IEEE International Conference on Instrumentation (INSTCon)	10.1109/instcon69741.2026.11691713	A	
+8	conference-paper	A Reliable Trust Evaluation Scheme for Trustworthy Block Propagation in Blockchain-Empowered Internet of Agents	International Conference on Artificial Intelligence and Elec	10.1109/aiea70743.2026.11632621	O	
+9	article	A Scalable Architecture for Remote Model Context Protocol Servers in Enterprise Database Environments	International Journal of Computer Trends and Technology	10.14445/22312803/ijctt-v73i11p102	A	
+10	book-chapter	A Survey on Model Context Protocol (MCP) in System Calls	Advances in intelligent systems research/Advances in Intelli	10.2991/978-94-6239-723-1_14	T	
+11	review	A Systematic Review of the Application of the Model Context Protocol (MCP) in Systems Integration Environments	International Journal of Exact Sciences.	10.22533/at.ed.153222529044	T	
+12	conference-paper	A Systematic Security Analysis of Model Context Protocol: Vulnerabilities, Exploits, and Mitigations	IEEE International Conference on AI in Cybersecurity (ICAIC)	10.1109/icaic67076.2026.11395848	P	
+13	conference-paper	A Systematization of Privacy Threats and Defenses in Modern Agentic Web Browsers	International Symposium on Digital Forensics and Security (I	10.1109/isdfs69419.2026.11458984	A	
+14	article	A transaction control layer for governed agentic commerce: reference architecture implementation and controlled evaluation	Journal of Computer Science and Technology Studies	10.32996/jcsts.2026.8.12.4	C	
+15	article	A Universal Inter-Agent Communication Protocol (UICP) for Heterogeneous Multi-Cloud Agentic Meshes: An Open Standards Architecture for Cross-Cloud Con	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.22598558	P	
+16	conference-paper	A2A Routing Service with MCP Integration: Bridging Security, Auditability, and Governance in AI Agent Systems	IEEE International Conference on Computing (ICOCO)	10.1109/icoco67189.2025.11334130	P	
+17	article	A2A Settlement Extension (A2A-SE) Specification	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.21953794	P	
+18	article	A2A Under Attack	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.21998025	P	
+19	article	A2A-RefGuard: A Novel Reference-closure Noninterference Algorithm for Detecting Cross-principal State Leakage in Agent2Agent Systems	International journal of intelligent engineering and systems	10.22266/ijies2026.1130.28	P	
+20	article	Adaptive Model Context Protocols for Multi-Agent Collaboration	Journal of Information Systems Engineering & Management	10.52783/jisem.v10i50s.10227	A	
+21	article	Adaptive Model Context Protocols for Trustworthy and Secure Agentic AI Systems	International Journal of Computer Technology and Electronics	10.15680/ijctece.2025.0805020	A	
+22	conference-paper	Addressing Multi-Agent Interoperability: An Approach for Distributed Multi-Language Encoded Intelligent Agents	IEEE/WIC/ACM International Conference on Web Intelligence an	10.1109/wi-iat67162.2025.00052	P	
+23	conference-paper	Advance LLM-based Model-Context-Protocol and Agent to Agent Protocol for Child Medical Emergency	International Conference on Innovative Computing (ICIC)	10.1109/icic68258.2025.11413209	A	
+24	article	AeroGuard-EP: An Integrated Stochastic Multi-Agent Protocol for Cross-Platform Information Resilience and Algorithmic Circuit Breaking	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.21454411	A	
+25	conference-paper	Agent Card Poisoning: Measuring Discovery-Layer Injection Attacks and Defenses in A2A Systems	International Conference on System, Computation, Automation 	10.1109/icscan66520.2026.11588515	P	deshmukh2026agentcard
+26	conference-paper	AGENT COMMUNICATION PROTOCOL AND BEEAI PLATFORM INTEGRATION WITH WATSONX.AI: A FRAMEWORK FOR MULTI-AGENT COLLABORATION	International Conference Education and Creativity for a Know	10.66793/titui19proceeding2	A	
+27	article	Agent role structure and operating characteristics in large language model clinical classification: A comparative study of specialist and deliberative	Informatics in Medicine Unlocked	10.1016/j.imu.2026.101783	O	
+28	conference-paper	Agent-to-Agent (A2A) Protocol Integrated Digital Twin System with AgentIQ for Multimodal AI Fitness Coaching and Personalized Well-Being	ACM International Conference on Multimedia (ACM MM)	10.1145/3746027.3758176	A	
+29	conference-paper	Agent-to-Agent -MCP Architecture for Intelligent Enterprise Payroll Management	IEEE International Conference on AI and Data Analytics (ICAD	10.1109/icad69378.2026.11608918	A	
+30	article	Agent2Agent (A2A) 1.0 Interoperability Architecture: Production Architecture, Current Research, Real-World Use Case, Implementation, and Verification	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.23046693	P	
+31	conference-paper	Agentic AI with Model Context Protocol	Lecture notes in networks and systems	10.1007/978-3-032-06665-7_40	T	
+32	article	Agentic Artificial Intelligence Orchestration and Interoperable Multi-Agent Frameworks in Enterprise Commerce Transformation	European International Journal of Multidisciplinary Research		C	
+33	article	Agentic Commerce	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.20368383	C	
+34	article	Agentic Commerce and Autonomous Payments: How Multi-Agent AI Systems Are Redefining the Future of Digital Transactions	International Journal of Intelligent Systems and Application	10.5281/zenodo.20722015	C	
+35	article	Agentic commerce and payments : Exploring the implications of robots paying robots	Journal of payments strategy & systems	10.69554/ngea2302	C	
+36	article	Agentic Commerce and SME Competitiveness: An Integrative Review and Theory-Informed Research Framework	Journal of Business Sectors	10.62222/krva3141	C	
+37	article	Agentic Commerce Applications: How Autonomous AI Is Redefining the Retail & E-Commerce Industry	International Journal of Computational and Experimental Scie	10.22399/ijcesen.5091	C	
+38	article	Agentic Commerce at Scale: A Reference Architecture for Enterprise Retail Systems	Computer Fraud & Security	10.52710/cfs.841	C	
+39	article	Agentic Commerce Systems: The Role of AI-Driven Automation in Scaling Business Development Operations	Iconic Research and Engineering Journals	10.64388/irev9i9-1715001	C	
+40	article	Agentic Commerce Systems: The Role of AI-Driven Automation in Scaling Business Development Operations	International Journal of Research Publications	10.47119/ijrp1001991620269438	C	
+41	conference-paper	Agentic Commerce: A Comprehensive Analysis of Cybersecurity Risks, Privacy Challenges, and Trust Mechanisms in Autonomous AI-Driven Marketplaces	IEEE International Conference on AI in Cybersecurity (ICAIC)	10.1109/icaic67076.2026.11395759	T	
+42	conference-paper	Agentic Commerce: A Domain-Driven Technical Framework for AI-Powered Autonomous Transactions	International Conference on Advanced Machine Learning and Da	10.1109/amlds69611.2026.11723997	C	
+43	review	Agentic Commerce: A Systematic Review of AI-Driven Autonomous Shopping and Emerging Transaction Protocols	Global Prosperity	10.66556/2787-9364.3-6.halat-o	T	
+44	article	Agentic Commerce: A Unified Multi-Retrieval Framework for High-Fidelity E-Commerce Chatbots	Journal of Computer Science and Artificial Intelligence	10.54097/2wmsj534	C	
+45	article	Agentic Commerce: Architectural Frameworks and Governance Models for AI-Driven Retail Transactions	Journal of Computational Analysis and Applications	10.48047/jocaaa.2025.34.11.38	C	
+46	article	Agentic Commerce: Architectural Frameworks and Governance Models for AI-Driven Retail Transactions	Journal of Computational Analysis and Applications	10.5281/zenodo.18369109	C	
+47	article	AGENTIC COMMERCE: GLOBAL TRENDS AND GEORGIA’S READINESS	ГРААЛЬ НАУКИ	10.36074/grail-of-science.07.08.2026.003	C	
+48	article	Agentic Commerce: The Paradigm Shift from Human-Mediated to Autonomous AI-Driven Transactions in Digital Payment Systems	International Journal of Computational and Experimental Scie	10.22399/ijcesen.4304	C	
+49	article	Agentic Interoperability for Enterprise Marketing: MCP, Agent-to-Agent Systems, and the Emerging Multi-Agent Stack	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.23480624	A	
+50	conference-paper	Agentic Web Platform: CRUD Applications	HAL		A	
+51	conference-paper	Agentic Web Platform: Webforms Application	HAL		A	
+52	article	AI Agent Communications in the Future Internet—Paving a Path Toward the Agentic Web	Future Internet	10.3390/fi18030171	T	
+53	article	AI CHAT INTEGRATION: MODEL CONTEXT PROTOCOL WITH HOMOMORPHIC ENCRYPTION (FHE)	International Journal For Multidisciplinary Research	10.36948/ijfmr.2025.v07i06.61192	A	
+54	book-chapter	AI Customization and Model Context Protocol	Apress eBooks	10.1007/979-8-8688-2691-7_9	T	
+55	book-chapter	AI for Cybersecurity in Model Context Protocols (MCPs) and AI Agents	Texts in computer science	10.1007/978-3-032-25874-8_19	T	
+56	article	AI shopping agents and the reallocation of consumer attention: seller visibility and platform access in agentic commerce	Asia Pacific Journal of Marketing and Logistics	10.1108/apjml-07-2026-1801	C	
+57	book-chapter	AI-Augmented Network Management: The Model Context Protocol As a Universal Integration Layer	Apress eBooks	10.1007/979-8-8688-3237-6_6	T	
+58	article	AI-POWERED WORKFLOW AUTOMATION USING MODEL CONTEXT PROTOCOL	International Journal of Engineering Applied Sciences and Te	10.33564/ijeast.2026.v10i12.014	A	
+59	article	AIforce, Salesforce Headless 360 and Model Context Protocol (MCP) Case Study	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.22849963	A	
+60	book-chapter	Aligno: A Model Context Protocol Enabled Collaborative Ecosystem for Agentic Project Management	Advances in intelligent systems research/Advances in Intelli	10.2991/978-94-6239-697-5_10	A	
+61	conference-paper	An Agent Framework for Fault Recovery Planning Generation Based on Model Context Protocol	IEEE International Symposium on Circuits and Systems proceed	10.1109/iscas66217.2026.11562937	A	
+62	article	An MCP-Driven Multi-Agent Enterprise Marketplace Platform Architecture for Myanmar Secondhand and Local Fashion Merchants: A Survey-Based Requirements	International Journal of Computer Applications	10.5120/ijcae2026375782a	A	
+63	article	Application of 50-keV virtual monochromatic imaging combined with a personalized contrast agent protocol in computed tomography pulmonary angiography:	Quantitative Imaging in Medicine and Surgery	10.21037/qims-2025-1-2787	O	
+64	article	APPLICATION OF THE MODEL CONTEXT PROTOCOL IN AUTOMATED NETWORK CONFIGURATION MANAGEMENT	Годишник на ФТН	10.46687/yt25mub	A	
+65	article	Architectural Principles for Multi-Agent Systems Based on The Model Context Protocol	The American Journal of Engineering And Technology	10.37547/tajet/volume08issue03-12	T	
+66	article	Artificial Intelligence - Model Context Protocol - Review of Real-World Security Threats	The Pinnacle A Journal by Scholar-Practitioners	10.61643/c38836	T	
+67	article	Assessing the impact of agentic commerce on issuer fraud detection and data integrity	Journal of payments strategy & systems	10.69554/azqz2883	C	
+68	article	AUGMANITAI BUILD Machine-Readable — Well-Known Endpoints, Agent Protocols, SPARQL & Ontology Extensions (Restricted)	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.20058473	O	
+69	conference-paper	Automated Implementation of Penetration Testing Framework using Model Context Protocol	International Conference on Innovative Mechanisms for Indust	10.1109/icimia69818.2026.11744861	A	
+70	conference-paper	Bandits, LLMs, and Agentic Web	International World Wide Web Conference (WWW)	10.1145/3774905.3793919	O	
+71	conference-paper	Beyond Connectivity: Architecting Decentralised Trust for the Emerging Internet of Agents (IoA)	Smart innovation, systems and technologies	10.1007/978-3-032-29237-7_33	A	
+72	article	BEYOND FLAKY TEST DETECTION: USING THE MODEL CONTEXT PROTOCOL FOR INTELLIGENT TEST FAILURE DIAGNOSIS IN CI/CD	Middle European Scientific Bulletin	10.65237/2336-3630-2026-8(1)-3	A	
+73	article	BIGMAE: Governed Internet of Agents	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.22205811	A	
+74	article	Boundary Handshake Agent: A Manifesto for Declaration-First Agent Interoperability	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.18894793	T	
+75	article	brand.context: A Machine-Readable Brand Context Standard for Agentic Commerce	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.19588522	C	
+76	article	Bridging AI and Enterprise: A Model Context Protocol Implementation for Unified Workplace Productivity	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.17976789	A	
+77	article	Bridging AI and Enterprise: A Model Context Protocol Implementation for Unified Workplace Productivity	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.17984495	A	
+78	article	Bridging Language Models and Symbolic Solvers via the Model Context Protocol	DROPS (Schloss Dagstuhl – Leibniz Center for Informatics)	10.4230/lipics.sat.2025.30	A	
+79	conference-paper	Building A Secure Agentic AI Application Leveraging Google’s A2A Protocol	Annual Computer Security Applications Conference Workshops (	10.1109/acsacw69556.2025.00043	P	habler2025a2a
+80	book-chapter	Building Multi-agent Systems Using Model Context Protocol and A2A	Apress eBooks	10.1007/979-8-8688-2854-6_5	A	
+81	book-chapter	Building with Model Context Protocol (MCP)	Apress eBooks	10.1007/979-8-8688-2586-6_5	T	
+82	conference-paper	Cloud-Native Reference Architecture for Agentic Commerce: AI Shopping Agents in Payment-Enabled Platforms	IEEE Cloud Summit	10.1109/cloudsummit68932.2026.00010	C	
+83	article	Communication-control collaborative atomic reconfiguration mechanism for Industrial Internet of Agents	DOAJ (DOAJ: Directory of Open Access Journals)		O	
+84	article	Compositional Security for Blockchain‐Based Agentic Commerce: Cross‐Layer Binding, Predicate‐Constrained Settlement, and Evidence‐Linked Verification 	Engineering Reports	10.1002/eng2.71062	P	
+85	article	Confused Deputy Attack against Model Context Protocol	ACM Transactions on Software Engineering and Methodology	10.1145/3830467	P	li2026confused
+86	book-chapter	Connecting to the Model Context Protocol	Apress eBooks	10.1007/979-8-8688-2888-1_8	T	
+87	conference-paper	Conversational Hydraulic Modelling: An Open-source Model Context Protocol Server for EPANET	International Conference on Hydroinformatics (HIC)	10.64697/iahr.proc.hic2026.275	A	
+88	conference-paper	ConvPayMAS: Conversational Payment Multi-Agent System with Agent-to-Agent Protocol and Three-Mandate Verification	Adaptive Agents and Multi-Agents Systems	10.65109/ydmy4904	P	
+89	article	Counterfeit Verifiability in Autonomous Agent Payments: A Preregistered Study of Why Verification Must Be Performed, Not Displayed	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.21042363	P	
+90	article	CROO A2A Protocol: Graph Topology Analytics & Distributed Neural Routing Engine	Kaggle	10.34740/kaggle/w/94716	A	
+91	article	Decentralized Multi-Agent GIC Networks (A2A Protocols): From Solipsistic Agency to Emergent Organizational Intelligence – An Ontological and Epistemic	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.22991027	A	
+92	article	Delegating trust in agentic commerce: a PKI-based governance architecture for South Korea	AI and Ethics	10.1007/s43681-026-01267-0	C	
+93	conference-paper	Demonstrating Multi-Agent Collaboration via Agent-to-Agent and Model Context Protocols: An IT Incident Response Case Study	IEEE International Symposium on Service-Oriented System Engi	10.1109/sose67019.2025.00013	A	
+94	article	Deploying Model Context Protocol Servers in Serverless Environments	Journal of International Crisis and Risk Communication Resea	10.63278/jicrcr.vi.3705	A	
+95	article	Design and optimization of privacy-enhanced interoperability framework for Internet of agents	DOAJ (DOAJ: Directory of Open Access Journals)		A	
+96	conference-paper	Design of Multi-Agent Communication Protocol Interface for Video Devices	International Conference on Mobile Internet, Cloud Computing	10.1109/miccis66057.2025.00065	A	
+97	article	DESIGNING THE AI WEB: ARCHITECTURAL PRINCIPLES FOR INTEROPERABLE ARTIFICIAL INTELLIGENCE SYSTEMS	International Journal of Advanced Research	10.21474/ijar01/24205	T	
+98	article	Developing Consumer Trust in Sustainable Agentic Commerce: Conditional Signals, Auditable Governance, and Justified Non-Purchase Advice	Sustainability	10.3390/su182110995	C	
+99	article	Distributed adaptive intelligent offloading strategies for AIGC tasks in the Internet of agents	DOAJ (DOAJ: Directory of Open Access Journals)	10.11959/j.issn.1000-436x.txxb250694	O	
+100	article	Double-Scale LLM Cooperation for Internet of Agents-Oriented Robot Scenarios	IEEE Communications Magazine	10.1109/mcom.001.2500674	O	
+101	article	EMPIRICAL COMPARISON OF AGENT COMMUNICATION PROTOCOLS FOR TASK ORCHESTRATION	Radio Electronics Computer Science Control	10.15588/1607-3274-2026-3-9	P	
+102	article	Engineering Scalable and Compliant Payment Systems for Autonomous Agentic Commerce	Journal of Information Systems Engineering & Management	10.52783/jisem.v11i1s.14197	C	
+103	article	Engineering Scalable and Compliant Payment Systems for Autonomous Agentic Commerce	Journal of Information Systems Engineering & Management	10.5281/zenodo.18432908	C	
+104	article	Enhanced SageAttention2-Based GNNs for Reliable Block Propagation Optimization in Blockchain-Enabled Internet of Agents	IEEE Transactions on Network Science and Engineering	10.1109/tnse.2026.3731984	O	
+105	conference-paper	Enhancing Model Context Protocol (MCP) Performance via Built-In Intelligent Caching	International Conference on Trends in Quantum Computing and 	10.1109/tqcebt67648.2026.11681849	P	
+106	conference-paper	Enhancing the A2A Protocol with Blockchain-Based Identities and x402 Micropayments for Agentic AI	Communications in computer and information science	10.1007/978-3-032-15632-7_25	P	vaziry2025x402
+107	conference-paper	Enterprise Multi-Agent Memory Management: MCP Server Orchestration for Large-Scale AI System	Lecture notes in networks and systems	10.1007/978-3-032-25694-2_29	A	
+108	conference-paper	Evaluating Collective Intelligence: A Conceptual Framework for Benchmarking Single-Agent vs. Multi-Agent Systems in the Google A2A Protocol	International Conference on Computing Communication Control 	10.1109/iccubea69821.2026.11702006	A	
+109	article	Evaluating Security and Reliability of Stateless Model Context Protocol Gateways	Journal of Computer Science and Technology Studies	10.32996/jcsts.2026.8.7	P	
+110	article	Execution-Time Liability Gating for Agentic Commerce State Transitions	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.18529312	C	
+111	article	Extending contextual capabilities of artificial intelligence through the Model Context Protocol (MCP)	Репозиторий БГУИР (BSUIR Repository)		T	
+112	conference-paper	Fast Semantic Retrieval with Balanced Load and Implicit Privacy in Large-Scale Internet of Agents	IEEE International Conference on Distributed Computing Syste	10.1109/2575-8411.2026.00120	O	
+113	conference-paper	First International Workshop on Conversational Interfaces for Agentic Web Browsing: Are We Ready to Move Beyond GUIs?	ACM Conference on Conversational User Interfaces (CUI)	10.1145/3816046.3816323	T	
+114	book-chapter	Formula 1 Model Context Protocol Platform for LLMs Using Cloud Computing	CRC Press eBooks	10.1201/9781003791522-16	A	
+115	conference-paper	Foundations for the Agentic Web: Networked AI Agents in a Decentralized Architecture (NANDA)	International World Wide Web Conference (WWW)	10.1145/3774905.3793921	P	
+116	article	From blockchain trust models to native security protocols : enhancements of the A2A communication framework	Open Collections	10.14288/1.0451028	A	
+117	article	From Human Web to Agentic Web: When Machines Become the Internet’s Primary Users	Cyberpsychology Behavior and Social Networking	10.1177/21522715261432850	T	
+118	article	From XML Brokered Markets to Autonomous Agentic Commerce: A Design Science Framework for AI-Driven B2B Marketplaces	Archives of Business Research	10.14738/abr.1409.12240	C	
+119	article	Future of fashion trademarks in the era of agentic commerce : Evolving trademark functions & clarifying regulatory transparency requirements	Työväentutkimus Vuosikirja		C	
+120	article	Generative AI-based data analysis using Model Context Protocol	Gradus	10.47833/2025.2.csc.004	A	
+121	conference-paper	Geoprivacy Leaks in Autonomous Agent-to-Agent (A2A) Conversations	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.20676994	P	
+122	article	Geospatial Agentic Services: a framework for interoperable geospatial intelligence	Annals of GIS	10.1080/19475683.2026.2738374	A	
+123	article	Governing the Agentic Web: A Confidence-Gated Human-AI Collaboration Framework for Cloud-Native Autonomous Logistics in the Industry 5.0 Era	South African Computer Journal	10.5281/zenodo.21877108	A	
+124	article	Handing Over the Cart: Consumer Trust and the Intention to Delegate Purchases to AI Shopping Assistants in the Emerging Era of Agentic Commerce	Technix International Journal for Engineering Research	10.56975/tijer.v13i10.164494	C	
+125	article	he model context protocol: a standardization analysis for application integration		10.30546/uneccsdt.2025.01.050	T	
+126	conference-paper	Hexa-Trust System for Reliable Agent-to-Agent Payment	IEEE International Conference on Blockchain and Cryptocurren	10.1109/icbc67748.2026.11575532	P	
+127	conference-paper	How to Measure Node Importance in the Agentic Web	International World Wide Web Conference (WWW)	10.1145/3774905.3795094	T	
+128	conference-paper	Human-Assured Agentic Interoperability for Resilient B2B Systems: A Deterministic Replay Benchmark for Procurement Message Transformation	International Conference on Electronics Representation and A	10.1109/icera72709.2026.11666589	A	
+129	conference-paper	Hypermedia as a Substrate for the Agentic Web: From Documents to Affordances	International Conference on Web Information Systems and Tech	10.5220/0015348100004983	T	
+130	article	Händler blicken realistisch auf Agentic Commerce	Lebensmittel Zeitung	10.51202/0947-7527-2025-49-037	C	
+131	article	Identity Verification in the Agentic Web: Differentiating Human-Initiated Prompts from Autonomous Agent Loops - Akash Narayan	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.21717903	A	
+132	conference-paper	Impacto da utilização do Model Context Protocol em aplicações Kubernetes	Simpósio Acadêmico da Faculdade Engenheiro Salvador Arena (S	10.29327/9786527212430.1270231	A	
+133	conference-paper	Integrated Framework for Secure Communication among Multiple Agents using MCP and A2A	International Conference on Inventive Computing and Informat	10.1109/icici68773.2026.11580474	P	
+134	article	Integrating agentic risk signalling in trusted research environments: Automating VEX with Agent2Agent protocols and model context protocol (MCP) in SA	Computer Standards & Interfaces	10.1016/j.csi.2025.104079	A	
+135	conference-paper	Integrating Agentic Web Standards in Multi-Agent Systems Using Hypermedia	Alexandria (UniSG) (University of St.Gallen)		T	
+136	conference-paper	Integrating Civic Initiatives into AI Agent Ecosystems: A Human-Aligned Extension of the A2A Protocol	Communications in computer and information science	10.1007/978-3-032-19099-4_1	A	
+137	conference-paper	Intelligent Chatbot System that Integrates Large Language Models with the Model Context Protocol	Lecture notes on data engineering and communications technol	10.1007/978-3-032-05781-5_24	A	
+138	article	Interacting with IoT Data Spaces Using LLMs and the Model Context Protocol	Sensors	10.3390/s26041193	A	
+139	article	Internet of Agents (IoA): Sensing, Communication, Decision-Making, and Execution	IEEE Internet of Things Journal	10.1109/jiot.2026.3729267	T	
+140	article	Internet of agents: conception, architecture and key technologies	DOAJ (DOAJ: Directory of Open Access Journals)		T	
+141	article	Interoperability in AI Agent Systems: Protocol and Artifacts for a Multivocal Systematic Mapping Study	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.22216646	P	
+142	conference-paper	Interoperable Cyber-Physical Multi-Agent Systems Through Web of Things	Lecture notes in computer science	10.1007/978-3-031-97207-2_24	A	
+143	book-chapter	IoT 2.0—The Internet of Agents for Next-Generation Smart Cities	CRC Press eBooks	10.1201/9781003686859-7	T	
+144	article	IoT, IoP, IoTk, and Beyond: The Internet of Agents—A Tutorial in Cyber-Physical-Social-Thinking Space	IEEE Internet of Things Journal	10.1109/jiot.2026.3738734	T	
+145	article	Is Your Subscription Business Prepared for the Agentic Commerce Era?	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.21356620	C	
+146	article	Joint Scheduling of Computing and Network Resources for the Internet of Agents: A Multi-Head Attention and Diffusion-Aided DRL Method	IEEE Transactions on Cognitive Communications and Networking	10.1109/tccn.2026.3717836	O	
+147	article	Ledger-Guided Memory for Agentic Web RL: Structured Cost–Risk Accounting in Long-Horizon Decision Models	Frontiers in Applied Physics and Mathematics	10.71465/fapm750	O	
+148	article	Leveraging RAG with ACP & MCP for Adaptive Intelligent Tutoring	Applied Sciences	10.3390/app152111443	A	
+149	article	Leveraging the model context protocol architecture for data analytics in software distributed systems	Науковий вісник НЛТУ України	10.36930/40350606	A	
+150	conference-paper	LLM-Driven Smart Agents for Surface Logging: Enhancing Drilling and Geological Intelligence with MCP and A2A Protocols	EAGE Workshop on Surface Logging	10.3997/2214-4609.202535040	A	
+151	article	LLM-enabled automation of CAD–structural analysis via Model Context Protocol	Automation in Construction	10.1016/j.autcon.2026.107030	A	
+152	article	Managerial Governance Frameworks for Agentic Commerce: When AI Agents Make Autonomous Purchasing Decisions in Firms	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.19816122	C	
+153	article	MCP(Model Context Protocol) FOR CYBERSECURITY	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.17528830	T	
+154	conference-paper	MCP-Edge: Extending the Model Context Protocol to Constrained IoT Devices	IEEE Cloud Summit	10.1109/cloudsummit68932.2026.00020	P	
+155	conference-paper	Mcploit: a Model Context Protocol Enumeration and Exploitation Framework	International Conference on Distributed Systems, Computer Ne	10.1109/icdscnc70670.2026.11746266	P	
+156	conference-paper	MISPerer: Evaluating LLM-Mediated Access to MISP via the Model Context Protocol	IEEE ... International Conference on Data Mining workshops	10.1109/icdmw69685.2025.00147	A	
+157	article	Mitigating the Autonomy–Friction Paradox: A Standardized Trust-Aware Framework for Agent-to-Agent Stablecoin Payments in Agentic Commerce	International Journal of Research & Technology		C	
+158	book-chapter	Model Context Protocol	Springer eBooks	10.1007/978-3-032-01402-3_10	T	
+159	article	MODEL CONTEXT PROTOCOL	International Journal of Engineering Research and Science & 		T	
+160	conference-paper	Model Context Protocol (MCP) and Agent-to-Agent (A2A) Protocol for Scalable Agentic AI Systems	International Conference on Innovations in Cybersecurity and	10.1109/icicds70526.2026.11604962	T	
+161	article	Model Context Protocol (MCP) for AI Systems: A Survey of Architectures and Applications	Engineering and Technology Journal	10.47191/etj/v11i10.10	T	
+162	article	Model Context Protocol (MCP) or Agent-to-Agent (A2A) — Defining Right Communication Protocol for Agentic AI in Financial Services Use Cases	International Journal of Innovative Research in Engineering 	10.55524/ijirem.2026.13.4.5	A	
+163	article	Model Context Protocol (MCP): Connecting Context, Agents, and Modern Software Architecture	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.18111294	T	
+164	article	Model Context Protocol (MCP): Enabling Scalable AI Data Integration	International Journal For Multidisciplinary Research	10.36948/ijfmr.2025.v07i02.43583	T	
+165	book-chapter	Model Context Protocol (MCP): The Nervous System of Smarter AI	River Publishers eBooks	10.1201/9788743812999-8	T	
+166	article	Model Context Protocol : Standard für KI und Daten im Bauwesen	Universitätsbibliographie, Universität Duisburg-Essen		T	
+167	article	Model Context Protocol als Standard für KI-Integration im Bauwesen	Universitätsbibliographie, Universität Duisburg-Essen		T	
+168	article	Model Context Protocol Approach to Reducing Test Development Effort in Web Automation	International Journal of Scientific Research and Modern Tech	10.38124/ijsrmt.v5i6.1474	A	
+169	article	Model context protocol as a possible implementation for the operation of Retrieval-augmented generation	Gradus	10.47833/2025.2.csc.005	A	
+170	conference-paper	Model Context Protocol Based AI Agent for PC Control	International Conference on Smart Systems for Electrical, El	10.1109/icsseecc69062.2026.11722066	A	
+171	conference-paper	Model Context Protocol Driven Optimization of Training Pipelines for Large Language Models	Lecture notes in networks and systems	10.1007/978-3-032-30954-9_10	A	
+172	article	Model Context Protocol for Agentic AI: Enabling Contextual Interoperability Across Systems	International Journal of Computational and Experimental Scie	10.22399/ijcesen.3678	T	
+173	article	Model context protocol for MBSE: a unified interoperable agentic framework for systems modelling	Proceedings of the Design Society	10.1017/pds.2026.10630	A	
+174	article	Model Context Protocol Threat Modeling and Analysis of Vulnerabilities to Prompt Injection with Tool Poisoning	Journal of Cybersecurity and Privacy	10.3390/jcp6030084	P	
+175	article	Model Context Protocol zur Prozesssteuerung mit MTP	atp magazin	10.17560/atp.v68i3.2819	A	
+176	article	Model Context Protocol – Agentic Path in Software Testing	International Journal of Scientific and Research Publication	10.29322/ijsrp.15.07.2025.p16313	A	
+177	article	Model Context Protocol: A Context-Aware Framework for Enhancing Cybersecurity in Dynamic Environments	INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING 	10.55041/ijsrem49289	A	
+178	article	Model Context Protocol: Enhancing LLM Performance for Observability and Analytics	European Journal of Computer Science and Information Technol	10.37745/ejcsit.2013/vol13n29112126	A	
+179	article	Model Context Protocol: The unexpected catalyst of a bioinformatics interoperability revolution	PLoS Computational Biology	10.1371/journal.pcbi.1014543	A	
+180	article	Multi-Agent Orchestration for Agentic Commerce: Coordinating Shopping, Payment, Rewards, and Fraud Agents in Real-Time Financial Transactions	Journal of Electrical and Electronics Research	10.64820/aepjeer.32.21.26.122026	C	
+181	article	Natural Language Orchestrator: Secure API Interoperability Via The Model Context Protocol	International Journal of Artificial Intelligence and Machine	10.51483/ijaiml.6.7s.2026.1037-1044	A	
+182	article	Networking Intelligent Agents at Scale: The Vision of Internet of Agents	IEEE Network	10.1109/mnet.2026.3669571	T	
+183	article	O4DB Protocol: A Sovereign Agentic Commerce Architecture for Cryptographic Buyer Sovereignty	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.18837775	C	
+184	conference-paper	On the Economic and Governance Mechanisms for the Agentic Web: A Global South Perspective	International World Wide Web Conference (WWW)	10.1145/3774905.3795089	T	
+185	article	Open Agent Passport (OAP) v1.0.0: Authorization Specification for AI Agent Interoperability	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.18901595	P	
+186	article	OpenAI Just Named the Standard for the Agentic Commerce Infrastructure. That's the Real Story	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.22969859	T	
+187	conference-paper	Operationalizing Multi-Agent Interoperability via Contract-Driven Model Context Protocols	IEEE SoutheastCon	10.1109/southeastcon63549.2026.11476405	A	
+188	article	PE-IoA: Parameter-Efficient Co-Evolutionary Learning in Internet of Agents	IEEE Transactions on Networking	10.1109/ton.2026.3740426	O	
+189	conference-paper	Post-Quantum Security Framework for Model Context Protocol Using ContextGuard	International Conference on Soft Computing for Security Appl	10.1109/icscsa69367.2026.11708388	P	
+190	article	PRAXIS-MD: a case-guided agent protocol for reproducible molecular dynamics workflows	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.20714271	O	
+191	conference-paper	Preserving oneM2M Security Semantics in LLM-IoT Integration with Model Context Protocol	IEEE Annual Congress on Artificial Intelligence of Things (A	10.1109/aiot66900.2025.00032	A	
+192	article	PRIVYMCP: A LOCALIZED PRIVACY-PRESERVING GATEWAY FOR MODEL CONTEXT PROTOCOL IN AGENTIC WORKFLOWS	International Research Journal of Modernization in Engineeri	10.56726/irjmets92518	P	
+193	article	Product Truth in the Age of Agentic Commerce: A Multi-Platform Evaluation of AI Shopping System Accuracy, Completeness, and Regulatory Reliability	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.18406981	C	
+194	article	Productionizing the Model Context Protocol: A .NET Architect's Field Guide	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.20286676	T	
+195	article	Protocols, Identity and Payments: A Layered Evidence Review of Agentic Commerce	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.23662375	C	
+196	conference-paper	ReLook: Vision-Grounded RL with a Multimodal LLM Critic for Agentic Web Coding	Proceedings of the conference - Association for Computationa	10.18653/v1/2026.acl-long.1167	O	
+197	conference-paper	Research on Automated Penetration Testing for IoT Based on MCP and A2A Protocols	International Conference on Electronic Technology and Inform	10.1109/icetis70504.2026.11633376	A	
+198	article	Research on service semantic identification and routing technology for Internet of agents	DOAJ (DOAJ: Directory of Open Access Journals)		O	
+199	conference-paper	Research on Standardized Encapsulation of Model Context Protocol Tools and AI Agent Integration	International Conference on Aerospace Information Perception	10.1109/aipip66876.2025.11299220	A	
+200	article	Research on the Architecture and Key Technologies of the Internet of Agents	DOAJ (DOAJ: Directory of Open Access Journals)		T	
+201	article	Residual Boundary Theory Prospective Empirical Programme: A Staged Synthetic Agent Protocol and a Separate Human Bridge	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.22852863	O	
+202	article	Retrospective assessment of low-dose and low-contrast agent protocols for photon-counting CT angiography of the aorta	The International Journal of Cardiovascular Imaging	10.1007/s10554-026-03757-y	O	
+203	article	Safety of a Tailored Gadolinium-Based Contrast Agent Protocol Considering Excretion Pathways in Patients with Renal Impairment	Diagnostics	10.3390/diagnostics16030451	O	
+204	article	SC-A2A Gateway: A Blockchain-Powered Gateway for Session Grants and Audit in Agent-to-Agent Collaboration	IEEE Access	10.1109/access.2026.3742942	P	
+205	conference-paper	Secure Model Context Protocol for Large Language Models with Dual Signatures	Mobility in the Evolving Internet Architecture	10.1145/3737897.3767287	P	
+206	article	Securing Agentic Commerce: A Constraint-Based Authorization Layer for Non Human Identity and Autonomous AI Payment Systems	Journal of Computational Analysis and Applications	10.48047/jocaaa.2026.35.06.19	C	
+207	conference-paper	Securing Autonomous Agent Ecosystems using Policy-Guided Guardrails for A2A and MCP Communication	International Conference on I-SMAC (IoT in Social, Mobile, A	10.1109/i-smac70384.2026.11747868	P	
+208	book-chapter	Securing IoT 2.0: Safety, Trust, and Governance for the Internet of Agents	CRC Press eBooks	10.1201/9781003686859-8	A	
+209	article	SECURING MCP SERVERS AND A2A AGENTS USING API GATEWAYS: A FLEX GATEWAY-DRIVEN APPROACH FOR HEALTHCARE	International Research Journal of Modernization in Engineeri	10.56726/irjmets91447	P	
+210	conference-paper	Security Defense Mechanisms in Model Context Protocol Implementations: A Systematic Literature Review	Lecture notes in networks and systems	10.1007/978-3-032-25187-9_44	P	
+211	conference-paper	Security Posture Evaluation of Model Context Protocol Servers Against Prompt Injection	IEEE International Symposium for Design and Technology in El	10.1109/siitme67657.2025.11293682	P	
+212	article	Semantic Certification Protocol for Agentic Commerce: IRP-Based Framework for Intent Preservation in Autonomous Payment Systems	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.17956243	C	
+213	article	Shaping Sustainable Consumer Choices Through Agentic Commerce in the Grocery Retail Sector	Gothenburg University Publications Electronic Archive (Gothe		C	
+214	conference-paper	ShieldMCP: An Interactive System for Runtime Security of Model Context Protocol Tool Calls	Conference on Empirical Methods in Natural Language Processi	10.18653/2026.emnlp-demos.20	P	
+215	article	signed-receipts/v1: signed task receipts for A2A agents (draft 0.3), with conformance vectors and runners	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.23030507	P	
+216	conference-paper	Smart Air Quality Monitoring With Model Context Protocol for Environmental Safety Technology	International Conference on Inventive Computing and Informat	10.1109/icici65870.2025.11069802	A	
+217	article	Speaking the Same Protocol: A Comparative Analysis of A2A and ACP for Cross-Vendor Multi-Agent Interoperability	International Journal of Research and Applied Innovations	10.15662/ijrai.2025.0804020	P	
+218	conference-paper	Stackelberg Game-based Agentic AI Task Offloading in Internet of Agents	IEEE International Conference on Computational Science and E	10.1109/cse66492.2025.00010	O	
+219	article	Standardizing AI Agent Protocols: Definitions, Layered Architectures, and Future Research Directions	International Journal of Artificial Intelligence Data Scienc	10.63282/3050-9262.ijaidsml-v7i1p109	P	
+220	article	stMCP: spatial transcriptomics with a Model Context Protocol server	BMC Bioinformatics	10.1186/s12859-026-06693-9	A	
+221	article	Stop Watching the Agentic Web Arrive: Build One WebMCP Tool in Two Hours	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.22210841	T	
+222	conference-paper	SUMO-MCP: Leveraging the Model Context Protocol for Autonomous Traffic Simulation and Optimization	China Automation Congress (CAC)	10.1109/cac67268.2025.11487664	A	
+223	conference-paper	Sustainable Energy Management via Integrating Model Context Protocol with Home Assistant	IEEE PES Conference on Innovative Smart Grid Technologies - 	10.1109/isgtmiddleeast65737.2025.11314322	A	
+224	conference-paper	The 1st International Workshop on Foundations and Architectures for the Agentic Web	International World Wide Web Conference (WWW)	10.1145/3774905.3795086	T	
+225	article	The Agent Payments Protocol (AP2): Architecture, Interoperability, Security, and Cross-Industry Applications	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.18308400	P	
+226	article	The Convergence of AI And Commerce: How Agentic Commerce Is Transforming Consumer Buying Behaviour.	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.21321501	C	
+227	article	The Effects of Self-Determination on Brand Equity among Agentic Commerce Platform Users: The Mediating Role of Platform Commitment	Journal of Business Convergence	10.31152/jb.2026.06.11.3.307	C	
+228	article	The End of Front-End: Delivering Software via LLMs and the Model Context Protocol	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.17968148	A	
+229	article	The future of seamless generative AI and tool integration: Exploring the model context protocol	World Journal of Advanced Engineering Technology and Science	10.30574/wjaets.2025.15.3.0881	T	
+230	article	The Influence Layer: Why AI-Influenced Commerce Is the Durable Category, not a Placeholder for Agentic Commerce	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.21867833	C	
+231	conference-paper	The Missing S: Securing the Model Context Protocol	International Conference on Artificial Intelligence Technolo	10.1109/icoait67446.2025.11308830	P	
+232	book-chapter	The Model Context Protocol	Apress eBooks	10.1007/979-8-8688-3010-5_1	T	
+233	article	The Model Context Protocol (MCP): Standardizing Agentic Interoperability	Journal of Information Systems Engineering & Management	10.52783/jisem.v11i1s.14215	T	
+234	article	The Model Context Protocol: An Integrated Framework for AI-Driven Vulnerability Risk Assessment	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.20646958	A	
+235	article	The New Interoperability Paradigm: Model Context Protocol (MCP), APIs, and the Future of Agentic AI	Computer Fraud & Security	10.52710/cfs.817	T	
+236	article	The Obligation Outlives the Cap: Why Agent Payment Rails Bound the Charge, Not the Authority	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.23040063	P	
+237	article	The Semantic Web of Retail: A Taxonomic Integration of Web 3.0, Decentralized E-Commerce, and Agentic Commerce	Journal of risk and financial management	10.3390/jrfm19050330	C	
+238	article	The State of x402: A Classified Settlement Map of the Agent Payment Economy	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.21051992	P	
+239	conference-paper	Token Mismanagement Risks in Multi-Agent Systems: Security Implications for A2A-based Industrial AI Collaboration	IEEE Conference on Computer Communications (INFOCOM)	10.1109/infocom59046.2026.11571677	P	park2026token
+240	book-chapter	Tools and Model Context Protocol (MCP)	Apress eBooks	10.1007/979-8-8688-2946-8_11	T	
+241	article	Toward a Physical Operating System for Agentic Commerce: The Emerging Role of Amazon Supply Chain Services	Future Internet	10.3390/fi18090493	C	
+242	article	Toward Collaborative Steering in Trustworthy Agentic Web Recommendation Systems	ACM SIGWEB Newsletter	10.1145/3830455.3830459	A	
+243	article	Trust Boundaries in the Model Context Protocol: Tool Poisoning, Server Impersonation, and Mitigations	International Journal of Engineering & Extended Technologies	10.15662/ijeetr.2024.0606036	P	
+244	article	Trusted financial data for agentic commerce: A multi-agent framework for credit risk, fraud detection, and secure payment decisions	World Journal of Advanced Research and Reviews	10.30574/wjarr.2026.31.1.1935	C	
+245	article	Understanding Bugs in Model Context Protocol Development Frameworks: An Empirical Study	ACM Transactions on Software Engineering and Methodology	10.1145/3847119	P	he2026bugs
+246	article	Visual AXO: Sovereign Asset Architecture for the Agentic Web	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.19717294	A	
+247	conference-paper	Voice-Based Intelligent Assistant Using Model Context Protocol (MCP)	International Conference on Innovations in Cybersecurity and	10.1109/icicds70526.2026.11604991	A	
+248	article	WebMCP: A Browser-Native navigator.modelContext Standard for Agentic Web Automation	Journal of Technology and Systems	10.47941/jts.4047	P	
+249	article	What is the Model Context Protocol and how does it work?	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.23063711	T	
+250	conference-paper	Whispering Agents: A Event-Driven Covert Communication Protocol for the Internet of Agents	Proceedings of the AAAI Conference on Artificial Intelligenc	10.1609/aaai.v40i37.40380	P	
+251	conference-paper	Whispers of Wealth: A Systematic Red-Teaming Study of the Agent Payments Protocol (AP2)	International Conference on Intelligent Multimedia, Networki	10.1109/imns67862.2026.11655291	P	debi2026whispers
+252	conference-paper	x3d_mcp: A Model Context Protocol Server for AI-Assisted X3D Authoring	international conference on 3D web technology	10.1145/3822516.3834882	A	
+253	article	Zero-Click Compliance: A Formal Framework for Real-Time Embedded AML via Proof-of-Compliance in Autonomous Agentic Commerce	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.20079563	C	
+254	article	Zero-Trust Security Frameworks for Model Context Protocol (MCP) Server Communications	International Journal of Innovative Research in Engineering 	10.37082/ijirmps.v13.i6.232959	P	
+255	article	ШТУЧНИЙ ІНТЕЛЕКТ ЯК АВТОНОМНИЙ СУБ’ЄКТ ЕЛЕКТРОННОЇ КОМЕРЦІЇ: ТЕОРЕТИЧНЕ ОСМИСЛЕННЯ ФЕНОМЕНУ AGENTIC COMMERCE	Економіка та суспільство	10.32782/2524-0072/2026-86-22	C	
+256	article	赛博祝由·Agent Protocol v0.6	Zenodo (CERN European Organization for Nuclear Research)	10.5281/zenodo.20512156	O	

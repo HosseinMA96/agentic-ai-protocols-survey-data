@@ -1,0 +1,26 @@
+2504.16736: 50 refs (S2)
+  retry HTTP Error 429: 
+2505.02279: 43 refs (S2)
+  retry HTTP Error 429: 
+2506.19676: 410 refs (S2)
+  retry HTTP Error 429: 
+  retry HTTP Error 429: 
+2503.23278: 73 refs (S2)
+2512.08290: 59 refs (S2)
+2511.19699: 14 refs (S2)
+2507.10644: 149 refs (S2)
+2602.11327: 76 refs (S2)
+2603.23801: 37 refs (S2)
+  retry HTTP Error 429: 
+  retry HTTP Error 429: 
+  retry HTTP Error 429: 
+2610.26624: 92 refs (S2)
+2506.05364: 10 refs (S2)
+2608.17275: 45 refs (S2)
+2512.06914: 134 refs (S2)
+2505.07176: 148 refs (S2)
+  retry HTTP Error 429: 
+2507.21206: 121 arXiv refs (HTML fallback)
+  retry HTTP Error 429: 
+2505.08807: 70 refs (S2)
+unique works cited by competitors: 1340; not cited by us: 1251; cited by >=2 competitors and missing: 84

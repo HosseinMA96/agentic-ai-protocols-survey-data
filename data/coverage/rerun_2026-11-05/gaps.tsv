@@ -1,0 +1,1252 @@
+n_comp	cites	year	arxiv	doi	title
+5	20721	2020	2005.11401		Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+4	337	2024	2406.02630	10.1145/3716628	AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways
+3	66211	2020	2005.14165		Language Models are Few-Shot Learners
+3	23702	2022	2201.11903		Chain of Thought Prompting Elicits Reasoning in Large Language Models
+3	6378	2023	2304.03442	10.1145/3586183.3606763	Generative Agents: Interactive Simulacra of Human Behavior
+3	1331	2024	2402.01680		Large Language Model based Multi-Agents: A Survey of Progress and Challenges
+3	403	2024	2401.05459		Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security
+3	151	2024	2406.09187		GuardAgent: Safeguard LLM Agents via Knowledge-Enabled Reasoning
+3	88	2024	2410.14923		Imprompter: Tricking LLM Agents into Improper Tool Use
+3	85	2024	2411.09523		Navigating the Risks: A Survey of Security, Privacy, and Ethics Threats in LLM-Based Agents
+3	43	2025		10.1109/ACSACW69556.2025.00043	Building A Secure Agentic AI Application Leveraging Google’s A2A Protocol
+3	0	2025			Announcing the agent2agent protocol (a2a)
+2	201691	2017	1706.03762		Attention is All you Need
+2	28314	2023	2303.08774		GPT-4 Technical Report
+2	6013	2025	2501.12948	10.1038/s41586-025-09422-z	DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning
+2	5319	2023	2305.10601		Tree of Thoughts: Deliberate Problem Solving with Large Language Models
+2	4455	2023	2312.10997		Retrieval-Augmented Generation for Large Language Models: A Survey
+2	3979	2022	2206.07682		Emergent Abilities of Large Language Models
+2	2609	2023	2305.14325		Improving Factuality and Reasoning in Language Models through Multiagent Debate
+2	2594	2023	2307.16789		ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs
+2	2138	2023	2307.06435	10.1145/3744746	A Comprehensive Overview of Large Language Models
+2	1879	2023	2310.08419	10.1109/SaTML64287.2025.00010	Jailbreaking Black Box Large Language Models in Twenty Queries
+2	1530	2000		10.1190/tle17111508.1	Foundation
+2	1395	2023	2307.05782	10.1007/978-981-96-6259-3	Large Language Models
+2	988	2023	2310.04451		AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models
+2	964	2023	2306.05499		Prompt Injection attack against LLM-integrated Applications
+2	903	2024	2404.13501	10.1145/3748302	A Survey on the Memory Mechanism of Large Language Model-based Agents
+2	753	2024		10.1007/s44336-024-00009-2	A survey on LLM-based multi-agent systems: workflow, infrastructure, and challenges
+2	648	2025	2505.10468	10.1016/j.inffus.2025.103599	AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges
+2	611	2024	2407.12784		AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases
+2	605	2023	2310.12815		Formalizing and Benchmarking Prompt Injection Attacks and Defenses
+2	588	2024	2402.00888	10.1145/3712001	Security and Privacy Challenges of Large Language Models: A Survey
+2	396	2024	2402.07867		PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models
+2	389	2024	2408.04682		ToolSandbox: A Stateful, Conversational, Interactive Evaluation Benchmark for LLM Tool Use Capabilities
+2	389	2024	2407.18921	10.1109/COMST.2025.3527641	Mobile Edge Intelligence for Large Language Models: A Contemporary Survey
+2	327	2023	2307.04738	10.1109/ICRA57147.2024.10610855	RoCo: Dialectic Multi-Robot Collaboration with Large Language Models
+2	309	2024	2404.18231		From Persona to Personalization: A Survey on Role-Playing Language Agents
+2	252	2025	2504.19678	10.1109/ACCESS.2026.3698694	From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review
+2	237	2024	2407.19354	10.1145/3773080	The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies
+2	212	2024	2401.06201		EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction
+2	204	2025	2504.19793		Prompt Injection Attack to Tool Selection in LLM Agents
+2	201	2024	2403.04783		AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks
+2	192	2025	2504.11703		Progent: Securing AI Agents with Privilege Control
+2	169	2024	2410.07283		Prompt Infection: LLM-to-LLM Prompt Injection within Multi-Agent Systems
+2	147	2024	2402.02455	10.1109/COMST.2025.3543197	A Survey on Decentralized Identifiers and Verifiable Credentials
+2	145	2025	2504.15585		A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment
+2	118	2025	2504.00587		AgentNet: Decentralized Evolutionary Coordination for LLM-based Multi-Agent Systems
+2	115	2024	2404.02183		Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization
+2	114	2024	2407.20859		Breaking Agents: Compromising Autonomous LLM Agents Through Malfunction Amplification
+2	107	2025	2503.15547		Prompt Flow Integrity to Prevent Privilege Escalation in LLM Agents
+2	104	2024	2406.11200	10.52202/079017-0817	AvaTaR: Optimizing LLM Agents for Tool Usage via Contrastive Reasoning
+2	99				A Survey on Model Context Protocol: Architecture, State-of-the-art, Challenges and Future Directions
+2	91	2024	2402.08416		Pandora: Jailbreak GPTs by Retrieval Augmented Generation Poisoning
+2	89	2024	2409.14457	10.1109/COMST.2025.3576176	Large Model-Based Agents: State-of-the-Art, Cooperation Paradigms, Security and Privacy, and Future Trends
+2	79	2024	2402.10178		TDAG: A Multi-Agent Framework based on Dynamic Task Decomposition and Agent Generation
+2	74	2023	2311.15209		See and Think: Embodied Agent in Virtual Environment
+2	52	2025	2504.00218		Agents Under Siege: Breaking Pragmatic Multi-Agent LLM Systems with Optimized Prompt Attacks
+2	43	2025	2505.24019		LLM Agents Should Employ Security Principles
+2	34	2024	2410.14479		Backdoored Retrievers for Prompt Injection Attacks on Retrieval Augmented Generation of Large Language Models
+2	31	2025	2502.09809		AgentGuard: Repurposing Agentic Orchestrator for Safety Evaluation of Tool Orchestration
+2	29	2022	2212.13992	10.1109/TNET.2024.3379439	Social-Aware Clustered Federated Learning With Customized Privacy Preservation
+2	22	2025			MindGuard: Tracking, Detecting, and Attributing MCP Tool Poisoning Attack via Decision Dependence Graph
+2	21	2025	2503.04479		ToolFuzz - Automated Agent Tool Testing
+2	19	2024	2410.09713		Agentic Information Retrieval
+2	19	2024			Large Model Agents: State-of-the-Art, Cooperation Paradigms, Security and Privacy, and Future Trends
+2	18	2025	2507.03904		Agent Exchange: Shaping the Future of AI Agent Economics
+2	15	2025	2505.11063		Think Twice Before You Act: Enhancing Agent Behavioral Safety with Thought Correction
+2	12	2024	2410.22339	10.1109/ACCESS.2025.3588425	DAWN: Designing Distributed Agents in a Worldwide Network
+2	11	2025	2505.24239		An Adversary-Resistant Multi-Agent LLM System via Credibility Scoring
+2	7	2025	2504.04070		Enforcement Agents: Enhancing Accountability and Resilience in Multi-Agent AI Frameworks
+2	0				agents.json specification
+2	0	2025			A survey of the model context protocol (mcp): Standardizing context to enhance large language models (llms)
+2	0				Introduction to agent communication protocol (acp)
+2	0				Introducing model context protocol (mcp) in copilot studio: Simplified integration with ai apps and agents
+2	0				Proposal for improving google a2a protocol: Safeguarding sensitive data in multi-agent systems
+2	0				A review of prominent paradigms for llm-based agents: Tool use (including rag), planning, and feedback learning
+2	0				Deep dive: Mcp and a2a attack vectors for ai agents
+2	0				Rag-thief: Scalable extraction of private data from retrieval-augmented generation applications with agent-based attacks
+2	0	2025			MCP-Guard: A Defense Framework for Model Context Protocol Integrity in Large Language Model Applications
+2	0	2025			. Mind your server: A systematic study of parasitic toolchain attacks on the MCP ecosystem
+2	0				“Owasp top 10 for large language model applications,”
+2	0				“Mcp security notification: Tool poisoning attacks,”
+2	0	2024			“GPTSwarm: Language agents as optimizable graphs,”
+2	0				Intelligent Agents in AI
+1	246482	2015	1512.03385	10.1109/cvpr.2016.90	Deep Residual Learning for Image Recognition
+1	132759	2012		10.1145/3065386	ImageNet classification with deep convolutional neural networks
+1	116271	2014	1409.1556		Very Deep Convolutional Networks for Large-Scale Image Recognition
+1	113535	1997		10.1162/neco.1997.9.8.1735	Long Short-Term Memory
+1	64175	1998		10.1109/5.726791	Gradient-based learning applied to document recognition
+1	59601	2021	2103.00020		Learning Transferable Visual Models From Natural Language Supervision
+1	38592	2016	1609.02907		Semi-Supervised Classification with Graph Convolutional Networks
+1	25586	2020	2002.07217		Decision-Making with Auto-Encoding Variational Bayes
+1	24050	2021		10.1371/journal.pmed.1003583	The PRISMA 2020 statement: An updated guideline for reporting systematic reviews
+1	22536	2023	2302.13971		LLaMA: Open and Efficient Foundation Language Models
+1	20735	2024	2407.21783		The Llama 3 Herd of Models
+1	18947	2023	2307.09288		Llama 2: Open Foundation and Fine-Tuned Chat Models
+1	15456	2015	1511.06434		Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
+1	14551	1993		10.1006/KNAC.1993.1008	A translation approach to portable ontology specifications
+1	13408	1990		10.1207/S15516709COG1402_1	Finding Structure in Time
+1	11253	1969		10.1017/CBO9781139173438	Speech Acts: An Essay in the Philosophy of Language
+1	10093	2014		10.1007/s10796-014-9492-7	The internet of things: a survey
+1	8595	2022	2204.02311		PaLM: Scaling Language Modeling with Pathways
+1	8506	2008		10.1145/1390156.1390294	Extracting and composing robust features with denoising autoencoders
+1	7815	2014	1405.2957	10.1109/JSAC.2014.2328098	What Will 5G Be?
+1	7772	2021	2108.07258		On the Opportunities and Risks of Foundation Models
+1	7742	2015		10.1109/COMST.2015.2444095	Internet of Things: A Survey on Enabling Technologies, Protocols, and Applications
+1	7590	2017	1708.05031	10.1145/3038912.3052569	Neural Collaborative Filtering
+1	6604	1981		10.1109/TIT.1983.1056650	On the security of public key protocols
+1	6585	2023	2303.11366	10.52202/075280-0377	Reflexion: language agents with verbal reinforcement learning
+1	6346	2017	1706.03741		Deep Reinforcement Learning from Human Preferences
+1	6015	2021	2107.13586	10.1145/3560815	Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing
+1	5897	2023	2307.03172	10.1162/tacl_a_00638	Lost in the Middle: How Language Models Use Long Contexts
+1	5592	1988		10.1007/BF00055564	Status quo bias in decision making
+1	5500	2023	2303.17651		Self-Refine: Iterative Refinement with Self-Feedback
+1	5387	1997		10.17487/RFC2119	Key words for use in RFCs to Indicate Requirement Levels
+1	5374	2024	2410.21276		GPT-4o System Card
+1	5245	2023	2303.18223	10.1007/s11704-026-60308-3	A Survey of Large Language Models
+1	5115	2021		10.33022/ijcs.v10i2.3009	Manajemen Data Kontrak Berbasis Web Pada CV. Multi Studio Engineering
+1	5063	2023	2307.15818		RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control
+1	5038	2010	1011.0686		A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning
+1	4978	1989		10.1137/0218012	The Knowledge Complexity of Interactive Proof Systems
+1	4879	2004			OWL Web ontology language overview
+1	4795	2002			An Introduction to MultiAgent Systems
+1	4783	2023	2310.06770		SWE-bench: Can Language Models Resolve Real-World GitHub Issues?
+1	4699	2021	2109.01134	10.1007/s11263-022-01653-1	Learning to Prompt for Vision-Language Models
+1	4598	2023	2303.12712		Sparks of Artificial General Intelligence: Early experiments with GPT-4
+1	4574	2023	2309.16609		Qwen Technical Report
+1	4535	2018	1808.09781		Self-Attentive Sequential Recommendation
+1	4415	2024			DeepSeek-V3 Technical Report
+1	4400	2016	1606.07792	10.1145/2988450.2988454	Wide & Deep Learning for Recommender Systems
+1	4335	2024	2406.09246		OpenVLA: An Open-Source Vision-Language-Action Model
+1	4232	2023	2311.05232	10.1145/3703155	A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions
+1	4121	2022	2204.01691		Do As I Can, Not As I Say: Grounding Language in Robotic Affordances
+1	4112	2003		10.1145/775152.775242	The Eigentrust algorithm for reputation management in P2P networks
+1	4052	2023	2307.15043		Universal and Transferable Adversarial Attacks on Aligned Language Models
+1	4051	1999			Multiagent systems: a modern approach to distributed artificial intelligence
+1	4025	2017	1703.04730		Understanding Black-box Predictions via Influence Functions
+1	3984	2015		10.1109/JPROC.2014.2374752	Software-Defined Networking: A Comprehensive Survey
+1	3951	2007		10.1016/j.dss.2005.05.019	A survey of trust and reputation systems for online service provision
+1	3846	2019	1904.06690	10.1145/3357384.3357895	BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer
+1	3677	1995			BDI Agents: From Theory to Practice
+1	3669	2016	1606.06565		Concrete Problems in AI Safety
+1	3565	2020	2012.07805		Extracting Training Data from Large Language Models
+1	3445	2023	2304.10592		MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models
+1	3444	2023	2303.03378		PaLM-E: An Embodied Multimodal Language Model
+1	3440	1995		10.17487/rfc8200	Internet Protocol, Version 6 (IPv6) Specification
+1	3381	2015	1511.06939		Session-based Recommendations with Recurrent Neural Networks
+1	3306	2017	1703.04247	10.24963/ijcai.2017/239	DeepFM: A Factorization-Machine based Neural Network for CTR Prediction
+1	3185	2022	2212.06817		RT-1: Robotics Transformer for Real-World Control at Scale
+1	3172	1999		10.1093/acprof:oso/9780198295457.001.0001	Governing in Europe: Effective and Democratic?
+1	3056	2023	2310.11511		Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection
+1	3039	1996		10.1007/BFb0013570	Is it an Agent, or Just a Program?: A Taxonomy for Autonomous Agents
+1	2834	2004			Rdf vocabulary description language 1.0 : Rdf schema
+1	2807	2023	2305.16291		Voyager: An Open-Ended Embodied Agent with Large Language Models
+1	2577	2009		10.1016/J.WEBSEM.2009.07.002	DBpedia - A crystallization point for the Web of Data
+1	2531	2024	2404.16130		From Local to Global: A Graph RAG Approach to Query-Focused Summarization
+1	2466	2023	2307.13854		WebArena: A Realistic Web Environment for Building Autonomous Agents
+1	2410	2024	2405.15793		SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering
+1	2407	2005		10.1201/9781420036336.ch16	The Transmission Control Protocol
+1	2362	2023	2307.02483		Jailbroken: How Does LLM Safety Training Fail?
+1	2236	2023		10.1111/nyas.15007	Holistic Evaluation of Language Models
+1	2222	2019	1905.02175		Adversarial Examples Are Not Bugs, They Are Features
+1	2188	2021	2112.09332		WebGPT: Browser-assisted question-answering with human feedback
+1	2182	2023	2305.10355		Evaluating Object Hallucination in Large Vision-Language Models
+1	2163	1999		10.17487/RFC2246	The TLS Protocol Version 1.0
+1	2147	2024			OpenAI o1 System Card
+1	2078	2016	1605.06676		Learning to Communicate with Deep Multi-Agent Reinforcement Learning
+1	2060	2019		10.1177/0008125619864925	A Brief History of Artificial Intelligence: On the Past, Present, and Future of Artificial Intelligence
+1	2034	2023	2302.11382	10.64346/plop2023p05	A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT
+1	1904	1997		10.1049/ip-sen:19971026	Agent-based software engineering
+1	1872	2023	2303.17580		HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face
+1	1819	2024	2402.04249		HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal
+1	1792	2017	1707.07328	10.18653/v1/D17-1215	Adversarial Examples for Evaluating Reading Comprehension Systems
+1	1753	2020	2005.04118		Beyond Accuracy: Behavioral Testing of NLP Models with CheckList
+1	1751	2023	2306.13549	10.1093/nsr/nwae403	A survey on multimodal large language models
+1	1748	2025	2503.14734		GR00T N1: An Open Foundation Model for Generalist Humanoid Robots
+1	1737	2023	2304.00685	10.1109/TPAMI.2024.3369699	Vision-Language Models for Vision Tasks: A Survey
+1	1689	2023	2308.09687	10.1609/aaai.v38i16.29720	Graph of Thoughts: Solving Elaborate Problems with Large Language Models
+1	1603	2023	2308.03688		AgentBench: Evaluating LLMs as Agents
+1	1565	2000		10.1023/A:1008942012299	Multiagent Systems: A Survey from a Machine Learning Perspective
+1	1559	2023		10.1038/s41586-023-06792-0	Autonomous chemical research with large language models
+1	1548	1996		10.1007/3-540-61042-1_43	Breaking and Fixing the Needham-Schroeder Public-Key Protocol Using FDR
+1	1542	2020	2010.03768		ALFWorld: Aligning Text and Embodied Environments for Interactive Learning
+1	1534	2023	2305.19118		Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate
+1	1532	2023	2312.06674		Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations
+1	1510	2022	2212.10509		Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions
+1	1495	2019		10.6028/nist.sp.800-207-draft	Zero Trust Architecture
+1	1484	2016	1605.07736		Learning Multiagent Communication with Backpropagation
+1	1444	2023	2307.07924	10.18653/v1/2024.acl-long.810	ChatDev: Communicative Agents for Software Development
+1	1441	2022	2202.03286		Red Teaming Language Models with Language Models
+1	1419	2023	2312.02003	10.1016/j.hcc.2024.100211	A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly
+1	1403	2023	2311.12983		GAIA: a benchmark for General AI Assistants
+1	1369	1999			Jade - a fipa-compliant agent framework
+1	1323	2019	1910.14599		Adversarial NLI: A New Benchmark for Natural Language Understanding
+1	1310	1998			Programming and Deploying Java¿ Mobile Agents with Aglets¿
+1	1287	2023	2310.08864	10.1109/ICRA57147.2024.10611477	Open X-Embodiment: Robotic Learning Datasets and RT-X Models : Open X-Embodiment Collaboration0
+1	1257	2017	1711.01991		Mitigating adversarial effects through randomization
+1	1254	2024	2405.06211	10.1145/3637528.3671470	A Survey on RAG Meeting LLMs: Towards Retrieval-Augmented Large Language Models
+1	1253	2001		10.1109/CSFW.2001.930138	An efficient cryptographic protocol verifier based on prolog rules
+1	1237	2023	2309.01219	10.1162/coli.a.16	Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models
+1	1236	2009		10.2307/20650309	Investigating user resistance to information systems implementation: a status quo bias perspective
+1	1227	2022	2211.09527		Ignore Previous Prompt: Attack Techniques For Language Models
+1	1213	1999	cs/9901011	10.1145/1629607.1629613	A brief history of the internet
+1	1182	2013		10.1111/j.1467-9248.2012.00962.x	Democracy and Legitimacy in the European Union Revisited: Input, Output and ‘Throughput’
+1	1144	2021		10.1109/CVPR46437.2021.00553	VinVL: Revisiting Visual Representations in Vision-Language Models
+1	1134	2020		10.32388/xkp7qn	Function
+1	1128	2014		10.2139/SSRN.2361599	Is Bitcoin a Real Currency? An economic appraisal
+1	1115	2024	2402.17753		Evaluating Very Long-Term Conversational Memory of LLM Agents
+1	1106	2021	2108.09293	10.1145/3610721	Asleep at the Keyboard? Assessing the Security of GitHub Copilot’s Code Contributions
+1	1085	2024		10.1016/j.eswa.2024.124167	Artificial intelligence in education: A systematic literature review
+1	1072	2005		10.1007/s10462-004-0041-5	Review on Computational Trust and Reputation Models
+1	1054	2010			Agent-Based Models以及股票市場的實證現象
+1	997	1953		10.1090/S0002-9947-1953-0053041-6	Classes of recursively enumerable sets and their decision problems
+1	987	2018	1802.07228		The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation
+1	970	2005		10.1201/9781420036336.ch15	The Internet Protocol
+1	944	2006		10.1126/SCIENCE.1130992	The Economics of Information Security
+1	943	2020		10.1109/ICCA51439.2020.9264412	A Survey on federated learning*
+1	941	2024	2406.18665		RouteLLM: Learning to Route LLMs with Preference Data
+1	927	2022	2209.07858		Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned
+1	913	2012		10.2307/41410404	Shackled to the Status Quo: The Inhibiting Effects of Incumbent System Habit, Switching Costs, and Inertia on New System Acceptance
+1	908	2023	2302.06476	10.18653/v1/2023.emnlp-main.85	Is ChatGPT a General-Purpose Natural Language Processing Task Solver?
+1	880	2003		10.1016/j.websem.2004.07.005	Semantic Annotation, Indexing, and Retrieval
+1	877	2023	2305.10250		MemoryBank: Enhancing Large Language Models with Long-Term Memory
+1	868	2023	2308.10848		AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents
+1	860	2019			PLONK: Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge
+1	851	2022	2210.02406		Decomposed Prompting: A Modular Approach for Solving Complex Tasks
+1	838	2023	2309.00614		Baseline Defenses for Adversarial Attacks Against Aligned Language Models
+1	836	2025	2503.13657		Why Do Multi-Agent LLM Systems Fail?
+1	832	2025		10.1109/ACCESS.2025.3532853	Agentic AI: Autonomous Intelligence for Complex Goals—A Comprehensive Survey
+1	830	2024	2403.02691		InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents
+1	827	2006		10.1136/bmj.332.7546.921-a	Eclipse
+1	827	2013		10.1007/978-3-642-39799-8_48	The TAMARIN Prover for the Symbolic Analysis of Security Protocols
+1	821	2005			MulVAL: A Logic-based Network Security Analyzer
+1	817	2023	2308.03825	10.1145/3658644.3670388	"Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models
+1	813	2023		10.1007/s10439-023-03272-4	Prompt Engineering with ChatGPT: A Guide for Academic Writers
+1	798	2022	2205.07460		Diffusion Models for Adversarial Purification
+1	790	2024	2402.19473		Retrieval-Augmented Generation for AI-Generated Content: A Survey
+1	787	2023	2306.02561		LLM-Blender: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion
+1	780	2024	2401.06373		How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs
+1	778	1989		10.1145/378444.378449	Security problems in the TCP/IP protocol suite
+1	773	1995		10.1145/332180.332194	email
+1	772	2019		10.4324/9781351214469-17	Tools
+1	769	2001		10.1111/J.1430-9134.2001.00173.X	The Social Cost of Cheap Pseudonyms
+1	764	2024	2402.01030		Executable Code Actions Elicit Better LLM Agents
+1	761	2023	2310.04406		Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models
+1	746	2023	2305.13860		Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study
+1	715	2010			Multi-Agent Systems: A Survey
+1	698	2002			Specifying Systems: The TLA+ Language and Tools for Hardware and Software Engineers
+1	697	2024	2401.11817		Hallucination is Inevitable: An Innate Limitation of Large Language Models
+1	696	2022	2209.14375		Improving alignment of dialogue agents via targeted human judgements
+1	683	2021	2104.14337		Dynabench: Rethinking Benchmarking in NLP
+1	679	2023		10.2196/50638	Prompt Engineering as an Important Emerging Skill for Medical Professionals: Tutorial
+1	657	2018	1805.07733		Learning Attentional Communication for Multi-Agent Cooperation
+1	656	2018	1811.07871		Scalable agent alignment via reward modeling: a research direction
+1	638	2023	2302.07842		Augmented Language Models: a Survey
+1	631	2024	2406.04692		Mixture-of-Agents Enhances Large Language Model Capabilities
+1	627	2023	2305.11747		HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models
+1	620	2023	2308.05374		Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment
+1	619	2020		10.1109/MSP.2020.2978507	MIMO Radar for Advanced Driver-Assistance Systems and Autonomous Driving: Advantages and Challenges
+1	619	2025	2502.18864	10.1038/s41586-026-10644-y	Accelerating scientific discovery with Co-Scientist
+1	613	1985		10.1007/978-1-349-12020-8_1	DEPARTMENT OF DEFENSE TRUSTED COMPUTER SYSTEM EVALUATION CRITERIA
+1	593	2000		10.17487/RFC2818	HTTP Over TLS
+1	591	2025	2501.04227	10.18653/v1/2025.findings-emnlp.320	Agent Laboratory: Using LLM Agents as Research Assistants
+1	574	1993		10.17487/RFC1519	Classless Inter-Domain Routing (CIDR): an Address Assignment and Aggregation Strategy
+1	570	2024	2407.01489		Agentless: Demystifying LLM-based Software Engineering Agents
+1	569	2003		10.1023/A:1024119208153	Interdependent Security
+1	562	2024	2401.01313		A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models
+1	562	2024	2402.06363		StruQ: Defending Against Prompt Injection with Structured Queries
+1	555	2024	2401.14887	10.1145/3626772.3657834	The Power of Noise: Redefining Retrieval for RAG Systems
+1	546	2023	2304.01933		LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models
+1	542	2025	2506.06941		The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity
+1	531	2005		10.17487/rfc4033	DNS Security Introduction and Requirements
+1	530	2024	2404.14618		Hybrid LLM: Cost-Efficient and Quality-Aware Query Routing
+1	522	2023	2311.05608		FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts
+1	522	2024	2410.10762		AFlow: Automating Agentic Workflow Generation
+1	517	2000			FOUNDATION FOR INTELLIGENT PHYSICAL AGENTS
+1	516	2023	2305.13172		Editing Large Language Models: Problems, Methods, and Opportunities
+1	512	2024	2408.08435		Automated Design of Agentic Systems
+1	505	2023	2305.13534		How Language Model Hallucinations Can Snowball
+1	499	2022		10.1145/3490099.3511105	Wordcraft: Story Writing With Large Language Models
+1	493	2021		10.1007/s10462-021-10097-x	Consensus in multi-agent systems: a review
+1	491	2023			AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation
+1	487	2015		10.1145/2857274.2857276	Schema.org: Evolution of Structured Data on the Web
+1	483	1996		10.17487/RFC2026	The Internet Standards Process - Revision 3
+1	483	2018	1810.09202		Graph Convolutional Reinforcement Learning
+1	474	2023			Unleashing the potential of prompt engineering in Large Language Models: a comprehensive review
+1	474	2025	2501.09136		Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG
+1	472	2023	2306.05817	10.1145/3678004	How Can Recommender Systems Benefit from Large Language Models: A Survey
+1	471	2005		10.17487/rfc4034	Resource Records for the DNS Security Extensions
+1	470	2018	1806.10360	10.1145/3243734.3243846	A Formal Analysis of 5G Authentication
+1	467	2012		10.1002/HTTPS://DX.DOI.ORG/10.6028/NIST.SP.800-30R1	Guide for Conducting Risk Assessments
+1	465	2016		10.1177/1049909114549182	Advances and Challenges
+1	456	2014		10.1109/ISSNIP.2014.6827678	Performance evaluation of MQTT and CoAP via a common middleware
+1	455	2019	1903.10346		Imperceptible, Robust, and Targeted Adversarial Examples for Automatic Speech Recognition
+1	454	2023	2309.13007		ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs
+1	453	2023	2311.03191		DeepInception: Hypnotize Large Language Model to Be Jailbreaker
+1	442	2023	2312.14197	10.1145/3690624.3709179	Benchmarking and Defending against Indirect Prompt Injection Attacks on Large Language Models
+1	439	2023	2308.14752	10.1016/j.patter.2024.100988	AI deception: A survey of examples, risks, and potential solutions
+1	439	2023	2305.14078		Large Language Models as Commonsense Knowledge for Large-Scale Task Planning
+1	439	2015		10.14722/NDSS.2015.23283	Poisoning Network Visibility in Software-Defined Networks: New Attacks and Countermeasures
+1	439	2021	2111.05328		Data Augmentation Can Improve Robustness
+1	431	2025	2506.02153		Small Language Models are the Future of Agentic AI
+1	430	2024	2404.04834	10.1145/3712003	LLM-Based Multi-Agent Systems for Software Engineering: Literature Review, Vision, and the Road Ahead
+1	425	2020	2012.15606	10.18653/v1/2021.acl-long.4	HateCheck: Functional Tests for Hate Speech Detection Models
+1	417	2004		10.1007/1-4020-8090-5_1	System Reliability and Free Riding
+1	416	2022	2210.08726	10.18653/v1/2023.acl-long.910	RARR: Researching and Revising What Language Models Say, Using Language Models
+1	414	2024	2405.02246		What matters when building vision-language models?
+1	413	2023	2302.05733	10.1109/SPW63631.2024.00018	Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks
+1	411	1997		10.1145/250243.250248	AGENTS
+1	407	2023	2302.08500	10.1007/s43681-023-00289-2	Auditing large language models: a three-layered approach
+1	400	2024	2412.14093		Alignment faking in large language models
+1	390	2018	1802.08802		Reinforcement Learning on Web Interfaces Using Workflow-Guided Exploration
+1	388	2015			Rocking Drones with Intentional Sound Noise on Gyroscopic Sensors
+1	386	2023	2310.02170		A Dynamic LLM-Powered Agent Network for Task-Oriented Agent Collaboration
+1	386	2017	1703.10069		Multiagent Bidirectionally-Coordinated Nets: Emergence of Human-level Coordination in Learning to Play StarCraft Combat Games
+1	382	2023	2308.06394		Detecting and Preventing Hallucinations in Large Vision Language Models
+1	380	2024	2401.10019		R-Judge: Benchmarking Safety Risk Awareness for LLM Agents
+1	378	2023	2303.13780	10.2139/ssrn.4390455	Towards Making the Most of ChatGPT for Machine Translation
+1	376	2024	2401.16158		Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception
+1	360	2023	2306.02224		Auto-GPT for Online Decision Making: Benchmarks and Additional Opinions
+1	359	2017	1705.02900		Keeping the Bad Guys Out: Protecting and Vaccinating Deep Learning with JPEG Compression
+1	358	2020		10.1109/JIOT.2020.2969326	A Survey on Access Control in the Age of Internet of Things
+1	357	2024	2405.17935	10.1007/s11704-024-40678-2	Tool learning with large language models: a survey
+1	356	2018	1812.09755		Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks
+1	356	2022	2212.05206	10.1038/s43588-023-00527-x	Human-like intuitive behavior and reasoning biases emerged in large language models but disappeared in ChatGPT
+1	356	2023	2309.02705		Certifying LLM Safety against Adversarial Prompting
+1	355	2024	2412.14470		Agent-SafetyBench: Evaluating the Safety of LLM Agents
+1	353	2024		10.52202/079017-4121	Many-shot Jailbreaking
+1	353	2023	2308.07308		LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked
+1	347	2023	2307.14539		Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models
+1	344	2019	1906.01820		Risks from Learned Optimization in Advanced Machine Learning Systems
+1	344	2019		10.1109/ACCESS.2019.2950872	Privacy-Preserving Solutions for Blockchain: Review and Challenges
+1	343	2023	2309.17452		ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving
+1	342	2023	2309.10062	10.1109/IROS58592.2024.10802322	SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models
+1	338	2023	2307.05300	10.18653/v1/2024.naacl-long.15	Unleashing the Emergent Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration
+1	335	1999		10.1007/3-540-48153-2_6	Model Checking TLA+ Specifications
+1	331	2023	2302.10198		Can ChatGPT Understand Too? A Comparative Study on ChatGPT and Fine-tuned BERT
+1	322	2012		10.17487/rfc6480	An Infrastructure to Support Secure Internet Routing
+1	321	2024	2402.17193		When Scaling Meets LLM Finetuning: The Effect of Data, Model and Finetuning Method
+1	321	2024	2402.18679		Data Interpreter: An LLM Agent For Data Science
+1	319	2024	2402.08983		SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware Decoding
+1	317	2017		10.2139/SSRN.3018534	Regulating a Revolution: From Regulatory Sandboxes to Smart Regulation
+1	317	2023	2310.06816		Text Embeddings Reveal (Almost) As Much As Text
+1	312	2024	2406.07155		Scaling Large-Language-Model-based Multi-Agent Collaboration
+1	309	1988			Building a Secure Computer System
+1	308	2014		10.1145/2674005.2674991	The Cost of the "S" in HTTPS
+1	304	2019	1908.06083	10.18653/v1/D19-1461	Build it Break it Fix it for Dialogue Safety: Robustness from Adversarial Human Attack
+1	299	2024	2401.17197	10.1145/3626772.3657807	Data-efficient Fine-tuning for LLM-based Recommendation
+1	299	2023	2310.16218	10.1145/3698590	Knowledge Editing for Large Language Models: A Survey
+1	296	2018		10.1201/9780429506475-12	Threat Modeling
+1	296	2024	2407.01502		AI Agents That Matter
+1	294	1996		10.17487/RFC1958	Architectural Principles of the Internet
+1	290	2023	2307.08715	10.14722/ndss.2024.24188	MASTERKEY: Automated Jailbreaking of Large Language Model Chatbots
+1	290	2023	2310.07298		Beyond Memorization: Violating Privacy Via Inference with Large Language Models
+1	285	2019	1902.01554		Learning to Schedule Communication in Multi-agent Reinforcement Learning
+1	285	2021		10.1109/JAS.2021.1003820	Physical Safety and Cyber Security Analysis of Multi-Agent Systems: A Survey of Recent Advances
+1	284	2024	2402.16893		The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG)
+1	283	2015		10.17487/RFC7519	JSON Web Token (JWT)
+1	279	2023	2311.13743	10.1109/TBDATA.2025.3593370	FinMem: A Performance-Enhanced LLM Trading Agent With Layered Memory and Character Design
+1	277	2023	2303.05510		Planning with Large Language Models for Code Generation
+1	274	2024	2404.11584		The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey
+1	269	2020	2010.07079		Recipes for Safety in Open-domain Chatbots
+1	265	2004			Hypertext Transfer Protocol——HTTP/1.0
+1	264	2023	2301.13350	10.1109/JIOT.2023.3263909	A Survey on Digital Twins: Architecture, Enabling Technologies, Security and Privacy, and Future Prospects
+1	259	2017		10.1007/978-3-642-34799-3	Multi-Agent Systems
+1	258	2024	2403.17710	10.1145/3658644.3690291	Optimization-based Prompt Injection Attack to LLM-as-a-Judge
+1	252	2025	2503.21460		Large Language Model Agent: A Survey on Methodology, Applications and Challenges
+1	252	2023	2303.04381		Automatically Auditing Large Language Models via Discrete Optimization
+1	251	2023		10.1109/COMST.2022.3208196	Machine Learning-Powered Encrypted Network Traffic Analysis: A Comprehensive Survey
+1	250	2023	2310.10436	10.18653/v1/2024.acl-long.829	EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities
+1	250	2025	2503.09572		Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks
+1	243	2023	2310.19156		Poisoning Retrieval Corpora by Injecting Adversarial Passages
+1	243	2024	2401.03428	10.1002/widm.70111	Exploring Large Language Model‐Based Intelligent Agents: Definitions, Methods, and Prospects
+1	242	2024	2402.05120		More Agents Is All You Need
+1	240	2021	2111.04333	10.1109/TIFS.2022.3208815	THREATRACE: Detecting and Tracing Host-Based Threats in Node Level Through Provenance Graph Learning
+1	239	2022		10.17487/rfc9315	Intent-Based Networking - Concepts and Definitions
+1	237	2017	1709.06692		A Voting-Based System for Ethical Decision Making
+1	237	2009			An Introduction to MultiAgent Systems, Second Edition
+1	236	2024	2408.07199		Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents
+1	236	2023	2307.01881		ProPILE: Probing Privacy Leakage in Large Language Models
+1	234	1998		10.1007/BF01324942	MASIF: The OMG mobile agent system interoperability facility
+1	234	2010		10.1145/1868447.1868453	HTTP as the narrow waist of the future internet
+1	232	2025	2502.14143		Multi-Agent Risks from Advanced AI
+1	230	2025	2504.02605		Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving
+1	229	2024	2402.16906	10.18653/v1/2024.findings-acl.49	Debug like a Human: A Large Language Model Debugger via Verifying Runtime Execution Step by Step
+1	228	2023	2311.10813		A Language Agent for Autonomous Driving
+1	226	2024	2412.11664		C3oT: Generating Shorter Chain-of-Thought without Compromising Effectiveness
+1	225	2025		10.1080/08874417.2025.2483832	AI Agents and Agentic Systems: A Multi-Expert Analysis
+1	225	2024		10.1038/s42256-024-00944-1	LLM-based agentic systems in medicine and healthcare
+1	221	2023	2309.15943	10.1109/ICRA57147.2024.10610676	Scalable Multi-Robot Collaboration with Large Language Models: Centralized or Decentralized Systems?
+1	219	2022		10.1109/JAS.2022.105506	Cooperative and Competitive Multi-Agent Systems: From Optimization to Games
+1	216	2024	2412.13171		Compressed Chain of Thought: Efficient Reasoning Through Dense Representations
+1	215	2023	2311.07689		MART: Improving LLM Safety with Multi-round Automatic Red-Teaming
+1	210	2025	2504.18575		WASP: Benchmarking Web Agent Security Against Prompt Injection Attacks
+1	209	2025	2504.01382		An Illusion of Progress? Assessing the Current State of Web Agents
+1	208	2026		10.18260/jet.43.1.5	Prompt Engineering for ChatGPT: A Quick Guide to Techniques, Tips, and Best Practices
+1	208	2002		10.1145/581771.581775	Formal verification of standards for distance vector routing protocols
+1	207	1991		10.1109/21.135681	A retrospective view of FA/C distributed problem solving
+1	206	2023	2312.00438		Dolphins: Multimodal Language Model for Driving
+1	203	2024	2407.06567		FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making
+1	199	2024	2405.15556	10.1109/SaTML68715.2026.00029	Certifiably Robust RAG against Retrieval Corruption
+1	196	1974		10.17487/RFC0675	Specification of Internet Transmission Control Program
+1	194	2024	2409.11295		EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage
+1	194	2024	2401.01286		A Comprehensive Study of Knowledge Editing for Large Language Models
+1	193	2022		10.1109/comst.2021.3131711	Blockchain-Empowered Space-Air-Ground Integrated Networks: Opportunities, Challenges, and Solutions
+1	190	2024	2403.04957		Automatic and Universal Prompt Injection Attacks against Large Language Models
+1	190	2003		10.17487/RFC3552	Guidelines for Writing RFC Text on Security Considerations
+1	190	2017			Measuring HTTPS Adoption on the Web
+1	190	2024	2403.04960		IsolateGPT: An Execution Isolation Architecture for LLM-Based Agentic Systems
+1	187	2009			Protocol Politics: The Globalization of Internet Governance
+1	186	2024	2404.03648	10.1145/3637528.3671620	AutoWebGLM: A Large Language Model-based Web Navigating Agent
+1	186	2023	2305.10626		Language Models Meet World Models: Embodied Experiences Enhance Language Models
+1	185	2025	2504.07164		R2E-Gym: Procedural Environments and Hybrid Verifiers for Scaling Open-Weights SWE Agents
+1	185	2007		10.1145/1293731.1293735	Specifying protocols for multi-agent systems interaction
+1	184	2021		10.1007/978-1-4842-6628-1_3	Server
+1	183	2024	2401.13138	10.1145/3630106.3658948	Visibility into AI Agents
+1	182	2025	2505.23643		Securing AI Agents with Information-Flow Control
+1	180	2016			Enterprise Integration Patterns Designing Building And Deploying Messaging Solutions
+1	180	2019		10.1142/9789811203909_0017	Tencent
+1	179	2024	2401.06949		ORGANA: A Robotic Assistant for Automated Chemistry Experimentation and Characterization
+1	176	2024	2402.17453		DS-Agent: Automated Data Science by Empowering Large Language Models with Case-Based Reasoning
+1	175	2023	2308.10335	10.1609/aaai.v38i19.30185	Can LLM Replace Stack Overflow? A Study on Robustness and Reliability of Large Language Model Code Generation
+1	175	2001			Web Services: Why and How
+1	171	2025	2504.17550		HalluLens: LLM Hallucination Benchmark
+1	171	2019	1901.04704		DeepCF: A Unified Framework of Representation Learning and Matching Function Learning in Recommender System
+1	167	2024	2402.18104		Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction
+1	167	2022	2210.01790		Goal Misgeneralization: Why Correct Specifications Aren't Enough For Correct Goals
+1	167	2025	2505.23885		OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
+1	162	2024	2410.06703		ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents
+1	162	2024	2402.07510	10.52202/079017-2336	Secret Collusion among AI Agents: Multi-Agent Deception via Steganography
+1	161	2024			GuardAgent: Safeguard LLM Agents by a Guard Agent via Knowledge-Enabled Reasoning
+1	161	2025	2505.03574		LlamaFirewall: An open source guardrail system for building secure AI agents
+1	158	2018	1808.02079		Low-Latency Networking: Where Latency Lurks and How to Tame It
+1	158	2023	2308.13724	10.1109/ICRA57147.2024.10610065	ISR-LLM: Iterative Self-Refined Large Language Model for Long-Horizon Sequential Task Planning
+1	154	2024		10.1038/s41467-024-54457-x	An automatic end-to-end chemical synthesis development platform powered by large language models
+1	153	2017		10.1109/INFOCOM.2017.8057009	FloodDefender: Protecting data and control plane resources under SDN-aimed DoS attacks
+1	153	2024	2406.13352		AgentDojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents
+1	151	2025	2503.09648	10.1145/3711896.3736561	A Survey on Trustworthy LLM Agents: Threats and Countermeasures
+1	151	2025	2502.02533		Multi-Agent Design: Optimizing Agents with Better Prompts and Topologies
+1	151	2025	2506.18096		Deep Research Agents: A Systematic Examination And Roadmap
+1	150	2025	2502.13172		Unveiling Privacy Risks in LLM Agent Memory
+1	148	2024	2406.04031	10.1109/TIFS.2025.3583249	Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt
+1	147	2019		10.1145/3319535.3363192	Let's Encrypt: An Automated Certificate Authority to Encrypt the Entire Web
+1	147	2024	2411.00348		Attention Tracker: Detecting Prompt Injection Attacks in LLMs
+1	147	2024	2410.11782		G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks
+1	145	2025	2503.09089		LocAgent: Graph-Guided LLM Agents for Code Localization
+1	142	2024			LLM-Fuzzer: Scaling Assessment of Large Language Model Jailbreaks
+1	142	2024	2405.01221	10.1109/COMST.2024.3516819	A Survey on Semantic Communication Networks: Architecture, Security, and Privacy
+1	141	1999			Reversibility for efficient computing
+1	141	2024	2406.12814		Dissecting Adversarial Robustness of Multimodal LM Agents
+1	140	2024	2402.15116	10.1007/s44267-025-00093-y	Large multimodal agents: a survey
+1	140	2024	2402.01109		Vaccine: Perturbation-aware Alignment for Large Language Model
+1	138	2024	2408.00989		On the Resilience of LLM-Based Multi-Agent Collaboration with Faulty Agents
+1	138	2023			Training Socially Aligned Language Models in Simulated Human Society
+1	136	2023	2308.01862		Wider and Deeper LLM Networks are Fairer LLM Evaluators
+1	134	2025	2506.04133		TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems
+1	133	2024		10.1016/j.commatsci.2024.112793	AI methods in materials design, discovery and manufacturing: A review
+1	133	2009		10.1016/J.TELPOL.2009.09.001	Cybersecurity: Stakeholder incentives, externalities, and policy options
+1	133	2023	2305.18395		Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks
+1	132	2023	2310.08118		Can Large Language Models Really Improve by Self-critiquing Their Own Plans?
+1	131	2025	2506.07398		G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems
+1	131	2024		10.1609/aaaiss.v2i1.27688	Memory Matters: The Need to Improve Long-Term Memory in LLM-Agents
+1	130	2016			Rethinking Connection Security Indicators
+1	129	2023	2308.07269		EasyEdit: An Easy-to-use Knowledge Editing Framework for Large Language Models
+1	129	2025	2503.24047		Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents
+1	128	2023	2305.17066	10.26599/CVM.2025.9450460	Mindstorms in Natural Language-Based Societies of Mind
+1	128	2025	2505.20286		Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution
+1	127	2025	2502.15589		LightThinker: Thinking Step-by-Step Compression
+1	126	2023	2311.11855		Evil Geniuses: Delving into the Safety of LLM-based Agents
+1	125	2023			Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding
+1	124	1895		10.1016/s0041-3879(61)80006-8	General Analysis
+1	123	2019	1912.05304		Learning Agent Communication under Limited Bandwidth by Message Pruning
+1	122	2025	2503.04957		SafeArena: Evaluating the Safety of Autonomous Web Agents
+1	121	2021		10.1109/TNNLS.2021.3121546	Event-Triggered Communication Network With Limited-Bandwidth Constraint for Multi-Agent Reinforcement Learning
+1	120	2005		10.1145/1080091.1080123	Rigorous specification and conformance testing techniques for network protocols, as applied to TCP, UDP, and sockets
+1	120	2019	1906.07132	10.18653/v1/P19-1262	Avoiding Reasoning Shortcuts: Adversarial Evaluation, Training, and Model Development for Multi-Hop QA
+1	119	2017			"I Have No Idea What I'm Doing" - On the Usability of Deploying HTTPS
+1	119	2006		10.1109/MAHC.2006.42	'Rough Consensus and Running Code' and the Internet-OSI Standards War
+1	119	2025	2501.18492		GuardReasoner: Towards Reasoning-based LLM Safeguards
+1	118	2025	2505.08638		TRAIL: Trace Reasoning and Agentic Issue Localization
+1	118	2024	2401.05778		Risk Taxonomy, Mitigation, and Assessment Benchmarks of Large Language Model Systems
+1	117	2024	2409.19091		System-Level Defense against Indirect Prompt Injection Attacks: An Information Flow Control Perspective
+1	116	2023	2304.09991	10.1145/3600211.3604712	Supporting Human-AI Collaboration in Auditing LLMs with LLMs
+1	115	2023	2308.15022		Recursively Summarizing Enables Long-Term Dialogue Memory in Large Language Models
+1	115	2025	2502.05174		MELON: Provable Defense Against Indirect Prompt Injection Attacks in AI Agents
+1	111	2024	2401.11880		PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety
+1	109	2021	2103.01745		IdentityDP: Differential Private Identification Protection for Face Images
+1	108	2024	2401.06561		Intention Analysis Makes LLMs A Good Jailbreak Defender
+1	108	2024	2401.17167		Planning, Creation, Usage: Benchmarking LLMs for Comprehensive Tool Utilization in Real-World Complex Scenarios
+1	108	2009			ANSI escape code: ANSI art, Control character, AVATAR, Computer terminal, American National Standards Institute, International Organization for Standardization, ... International Electrotechnical Commission
+1	107	2024	2404.15269		Aligning LLM Agents by Learning Latent Preference from User Edits
+1	107	2024	2406.05804		A Review of Prominent Paradigms for LLM-Based Agents: Tool Use, Planning (Including RAG), and Feedback Learning
+1	107	2023	2308.04371		Cumulative Reasoning with Large Language Models
+1	105	2023		10.1109/TVT.2022.3228198	Multi-Agent Reinforcement Learning-Based Coordinated Dynamic Task Allocation for Heterogenous UAVs
+1	105	2024	2402.10753		ToolSword: Unveiling Safety Issues of Large Language Models in Tool Learning Across Three Stages
+1	105	2024	2401.05268	10.18653/v1/2024.acl-long.165	AutoAct: Automatic Agent Learning from Scratch for QA via Self-Planning
+1	105	2021	2110.01307		Collective eXplainable AI: Explaining Cooperative Strategies and Agent Contribution in Multiagent Reinforcement Learning With Shapley Values
+1	104	2024	2405.18166		Defending Large Language Models Against Jailbreak Attacks via Layer-specific Editing
+1	103	2025	2505.02077		Open Challenges in Multi-Agent Security: Towards Secure Systems of Interacting AI Agents
+1	102	2022		10.1016/j.bcra.2022.100069	Tokenomics and blockchain tokens: A design-oriented morphological framework
+1	101	2024	2407.09811		CellAgent: An LLM-driven Multi-Agent Framework for Automated Single-cell Data Analysis
+1	101	2024	2407.07791	10.1007/s11432-024-4663-2	Flooding spread of manipulated knowledge in LLM-based multi-agent communities
+1	100	2023	2312.15523		The Persuasive Power of Large Language Models
+1	100	2024		10.1145/3589334.3645511	Mechanism Design for Large Language Models
+1	100	2024			PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models
+1	99	2024	2401.17538		Post-Quantum Cryptography for Internet of Things: A Survey on Performance and Optimization
+1	98	2024	2402.16459		Defending LLMs against Jailbreaking Attacks via Backtranslation
+1	98	2025	2504.18875		Generative to Agentic AI: Survey, Conceptualization, and Challenges
+1	96	2025	2502.02542		OverThink: Slowdown Attacks on Reasoning LLMs
+1	96	2007		10.1300/J383v04n01_11	Semantic Web Technologies
+1	96	2018		10.1007/978-3-319-94580-4_9	Multi-Agent Systems and Blockchain: Results from a Systematic Literature Review
+1	95	2025	2501.10120		PaSa: An LLM Agent for Comprehensive Academic Paper Search
+1	95	2025		10.3390/fi17020057	AI Agents Meet Blockchain: A Survey on Secure and Scalable Collaboration for Multi-Agents
+1	94	2016		10.1109/CloudNet.2016.9	SDN-Guard: DoS Attacks Mitigation in SDN Networks
+1	92	2015		10.4236/JIS.2015.61003	Externalities and the Magnitude of Cyber Security Underinvestment by Private Sector Firms: A Modification of the Gordon-Loeb Model
+1	92	2024	2407.04689		RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation
+1	89	2023	2312.04861	10.1109/TITS.2025.3554781	Exploring Radar Data Representations in Autonomous Driving: A Comprehensive Review
+1	88	2024	2405.20773		Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Characte
+1	88	2024	2405.16533	10.1145/3696410.3714825	Tool Learning in the Wild: Empowering Language Models as Automatic Tool Agents
+1	85	2024	2402.16717		CodeChameleon: Personalized Encryption Framework for Jailbreaking Large Language Models
+1	85	2005		10.17487/rfc4035	Protocol Modifications for the DNS Security Extensions
+1	85	2024	2406.14773		Mitigating the Privacy Issues in Retrieval-Augmented Generation (RAG) via Pure Synthetic Data
+1	84	2024	2412.00473		Jailbreak Large Vision-Language Models Through Multi-Modal Linkage
+1	84	2020	2002.04235	10.1007/s10458-022-09580-8	Learning structured communication for multi-agent reinforcement learning
+1	83	2024	2405.17894	10.1145/3664647.3681092	White-box Multimodal Jailbreaks Against Large Vision-Language Models
+1	83	2017			Attacking the Brain: Races in the SDN Control Plane
+1	83	2025	2505.18889		Security Concerns for Large Language Models: A Survey
+1	83	2025	2504.18904		RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning
+1	83	2025	2502.11271		OctoTools: An Agentic Framework with Extensible Tools for Complex Reasoning
+1	81	2024	2403.02817		Here Comes The AI Worm: Unleashing Zero-click Worms that Target GenAI-Powered Applications
+1	81	2025		10.14722/ndss.2025.241772	I Know What You Asked: Prompt Leakage via KV-Cache Sharing in Multi-Tenant LLM Serving
+1	81				Formal Methods in System Design Manuscript No. Safely Composing Security Protocols
+1	81	2025	2510.02373		A-MemGuard: A Proactive Defense Framework for LLM-Based Agent Memory
+1	81	2025	2503.10657		RouterEval: A Comprehensive Benchmark for Routing LLMs to Explore Model-level Scaling Up in LLMs
+1	80	2006			Bootstrapping the Adoption of Internet Security Protocols
+1	80	2023	2311.08592		AART: AI-Assisted Red-Teaming with Diverse Data Generation for New LLM-powered Applications
+1	79	2024	2406.07973	10.1145/3764113	Unique Security and Privacy Threats of Large Language Models: A Comprehensive Survey
+1	78	2024	2410.10650		Generative AI and Its Impact on Personalized Intelligent Tutoring Systems
+1	78	2024	2407.13301		CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis
+1	78	2025	2502.11705		LLM Agents Making Agent Tools
+1	77	2006		10.1109/EDOC.2006.18	Bridging Multi Agent Systems and Web Services: towards interoperability between Software Agents and Semantic Web Services
+1	77	2020		10.1109/SP40000.2020.00001	Detection of Electromagnetic Interference Attacks on Sensor Systems
+1	75	2022	2205.05718		Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks
+1	75	2024	2402.16444		ShieldLM: Empowering LLMs as Aligned, Customizable and Explainable Safety Detectors
+1	75	2024	2504.13192	10.1145/3637528.3671837	CheatAgent: Attacking LLM-Empowered Recommender Systems via LLM Agent
+1	74	2025	2502.12561	10.1145/3706599.3719729	UXAgent: An LLM Agent-Based Usability Testing Framework for Web Design
+1	74	2024		10.1002/advs.202401401	The Future of Material Scientists in an Age of Artificial Intelligence
+1	74	1996		10.1145/230871.230878	Human behavior
+1	74	2024	2405.18649		Training LLMs to Better Self-Debug and Explain Code
+1	73	2025	2502.16866	10.1109/MCOM.001.2500073	Toward Agentic AI: Generative Information Retrieval Inspired Intelligent Communications and Networking
+1	72	2025	2502.01506		TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets
+1	72	2004			National Conference of Commissioners on Uniform State Laws
+1	71	2025	2509.18970		LLM-based Agents Suffer from Hallucinations: A Survey of Taxonomy, Methods, and Directions
+1	70	2014		10.1016/J.JLP.2014.04.001	System Safety Principles: A Multidisciplinary Engineering Perspective
+1	70	2025	2504.12330	10.1145/3746027.3754761	HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation
+1	69	2024	2405.14314		Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration
+1	68	2025	2505.18279		Collaborative Memory: Multi-User Memory Sharing in LLM Agents with Dynamic Access Control
+1	67	2023	2310.08582		Tree-Planner: Efficient Close-loop Task Planning with Large Language Models
+1	67	2024	2407.20242		BadRobot: Jailbreaking Embodied LLM Agents in the Physical World
+1	66	1997		10.17487/RFC2223	Instructions to RFC Authors
+1	66	2022		10.1109/TVT.2021.3131744	Blockchain-Based Secure and Cooperative Private Charging Pile Sharing Services for Vehicular Networks
+1	66	2025	2504.19956	10.1109/ACAI68217.2025.11406310	Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for Generative AI Agents
+1	65	2024	2406.14596	10.52202/079017-2418	VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought
+1	65	2025	2503.13415		A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives
+1	65	2024	2409.15254		Archon: An Architecture Search Framework for Inference-Time Techniques
+1	64	2025	2503.12188		Multi-Agent Systems Execute Arbitrary Malicious Code
+1	64	2023	2310.03046		EcoAssistant: Using LLM Assistant More Affordably and Accurately
+1	64	2023	2304.12998		ChatLLM Network: More brains, More intelligence
+1	64	2025		10.18653/v1/2025.findings-acl.1141	CONSENSAGENT: Towards Efficient and Effective Consensus in Multi-Agent LLM Interactions Through Sycophancy Mitigation
+1	64	2025	2502.05957		AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents
+1	63	2023		10.1109/ACCESS.2023.3307467	On the (in)Security of the Control Plane of SDN Architecture: A Survey
+1	63	2025	2505.19301	10.1109/AIxDKE67294.2026.00024	A Novel Zero-Trust Identity Framework for Agentic AI: Decentralized Authentication and Fine-Grained Access Control
+1	62	2020		10.1007/978-3-030-64096-5	Distributed Artificial Intelligence: Second International Conference, DAI 2020, Nanjing, China, October 24–27, 2020, Proceedings
+1	61	1995		10.7551/mitpress/3615.003.0003	A Standard for the Transmission of IP Datagrams on Avian Carriers
+1	60	2022	2206.03780	10.1007/978-3-031-16092-9_7	Attestation Mechanisms for Trusted Execution Environments Demystified
+1	60	2024	2410.17401		AdvAgent: Controllable Blackbox Red-teaming on Web Agents
+1	59	2025	2501.11759		Poison-RAG: Adversarial Data Poisoning Attacks on Retrieval-Augmented Generation in Recommender Systems
+1	59	2024	2404.04735		MACM: Utilizing a Multi-Agent System for Condition Mining in Solving Complex Mathematical Problems
+1	59	2025	2510.23883	10.1109/ACCESS.2026.3675554	Agentic AI Security: Threats, Defenses, Evaluation, and Open Challenges
+1	59	2019		10.65109/mcfh1592	A Decade in Hindsight: The Missing Bridge Between Multi-Agent Systems and the World Wide Web
+1	59	2024	2407.14937		Operationalizing a Threat Model for Red-Teaming Large Language Models (LLMs)
+1	58	2023	2308.12503		CGMI: Configurable General Multi-Agent Interaction Framework
+1	57	2024	2401.16212		Better Call GPT, Comparing Large Language Models Against Lawyers
+1	57	2020	2010.04801	10.1145/3452296.3472910	Semi-automated protocol disambiguation and code generation
+1	57	2024	2410.06101		Coevolving with the Other You: Fine-Tuning LLM with Sequential Cooperative Multi-Agent Reinforcement Learning
+1	57	2025		10.1109/JSAC.2025.3560042	Exploring LLM-Based Multi-Agent Situation Awareness for Zero-Trust Space-Air-Ground Integrated Network
+1	56	2025	2508.01249		AgentArmor: Enforcing Program Analysis on Agent Runtime Trace to Defend Against Prompt Injection
+1	56	2025	2505.04806		Red Teaming the Mind of the Machine: A Systematic Evaluation of Prompt Injection and Jailbreak Vulnerabilities in LLMs
+1	56	2023		10.14722/ndss.2023.24616	Paralyzing Drones via EMI Signal Injection on Sensory Communication Channels
+1	54	2024	2401.17244		LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation
+1	54	2004		10.17487/RFC3935	A Mission Statement for the IETF
+1	54	2024	2401.02777		From LLM to Conversational Agent: A Memory Enhanced Architecture with Fine-Tuning of Large Language Models
+1	54	2023	2312.00326	10.14778/3712221.3712222	Agent-OM: Leveraging LLM Agents for Ontology Matching
+1	52	2025	2502.10794	10.1109/CVPR52734.2025.00884	Distraction is All You Need for Multimodal Large Language Model Jailbreaking
+1	52	2024	2405.19103		Voice Jailbreak Attacks Against GPT-4o
+1	52	2026	2602.21012		International AI Safety Report 2026
+1	52	2025	2510.19207	10.1109/SaTML68715.2026.00017	Defending Against Prompt Injection with DataFilter
+1	52	2025			Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents
+1	51	2023	2310.02129		Unveiling the Pitfalls of Knowledge Editing for Large Language Models
+1	51	2025			TrustRAG: Enhancing Robustness and Trustworthiness in RAG
+1	51	2023	2311.13373	10.24963/ijcai.2024/627	Large Language Model as a Policy Teacher for Training Reinforcement Learning Agents
+1	51	2025	2505.05849		AgentVigil: Generic Black-Box Red-teaming for Indirect Prompt Injection against LLM Agents
+1	50	2025	2503.04392		AgentSafe: Safeguarding Large Language Model-based Multi-agent Systems via Hierarchical Data Management
+1	50	2025	2502.11799		Table-Critic: A Multi-Agent Framework for Collaborative Criticism and Refinement in Table Reasoning
+1	50	2024	2410.14273		REEF: Representation Encoding Fingerprints for Large Language Models
+1	50	2004		10.17487/RFC8179	Intellectual Property Rights in IETF Technology
+1	50	1989		10.1145/63526.63530	The Cornell commission: on Morris and the worm
+1	49	2024	2412.13879	10.18653/v1/2025.findings-acl.580	Crabs: Consuming Resource via Auto-generation for LLM-DoS Attack under Black-box Settings
+1	49	2023		10.1109/TIFS.2023.3275768	LtRFT: Mitigate the Low-Rate Data Plane DDoS Attack With Learning-To-Rank Enabled Flow Tables
+1	49	2024	2407.18369		AI Safety in Generative AI Large Language Models: A Survey
+1	49	2025	2506.14205		AgentSynth: Scalable Task Generation for Generalist Computer-Use Agents
+1	48	2025	2501.16150	10.1613/jair.1.19490	A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions
+1	48	2021	2104.05849		Reward Mechanism for Blockchains Using Evolutionary Game Theory
+1	47	2025	2506.15674		Leaky Thoughts: Large Reasoning Models Are Not Private Thinkers
+1	47	2023	2308.12276	10.1109/FIE61694.2024.10893132	GAIDE: A Framework for Using Generative AI to Assist in Course Content Development
+1	47	2024	2404.12737	10.1145/3708530	LLM App Store Analysis: A Vision and Roadmap
+1	47	2024	2403.17246		TwoStep: Multi-agent Task Planning using Classical Planners and Large Language Models
+1	47	2024	2412.10198	10.18653/v1/2025.naacl-long.101	From Allies to Adversaries: Manipulating LLM Tool-Calling through Adversarial Injection
+1	47	2024	2410.22284		Embedding-based classifiers can detect prompt injection attacks
+1	47	2023	2310.02003		L2MAC: Large Language Model Automatic Computer for Extensive Code Generation
+1	47	2021		10.1109/ISSE51541.2021.9582551	Sovrin Network for Decentralized Digital Identity: Analysing a Self-Sovereign Identity System Based on Distributed Ledger Technology
+1	47	2024	2405.20774		Can We Trust Embodied Agents? Exploring Backdoor Attacks against Embodied LLM-Based Decision-Making Systems
+1	46	2025	2504.18041		RAG LLMs are Not Safer: A Safety Analysis of Retrieval-Augmented Generation for Large Language Models
+1	46	2024	2410.10760		Denial-of-Service Poisoning Attacks against Large Language Models
+1	46	2025		10.1109/TIFS.2025.3555410	Compromising LLM Driven Embodied Agents With Contextual Backdoor Attacks
+1	45	2024	2412.08608		AdvWave: Stealthy Adversarial Jailbreak Attack against Large Audio-Language Models
+1	45	2023		10.1016/j.inffus.2023.102050	Adversarial Deep Learning based Dampster-Shafer data fusion model for intelligent transportation system
+1	44	2025	2502.01822		Firewalls to Secure Dynamic LLM Agentic Networks
+1	44	2024	2411.04788	10.1145/3677052.3698645	Enhancing Investment Analysis: Optimizing AI-Agent Collaboration in Financial Research
+1	44	2018			FlowCog: Context-aware Semantics Extraction and Analysis of Information Flow Leaks in Android Apps
+1	43	2025	2502.16804		Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances
+1	43	2025	2505.11049		GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning
+1	43	2024			Unique Security and Privacy Threats of Large Language Model: A Comprehensive Survey
+1	42	2025	2508.02110		Attractive Metadata Attack: Inducing LLM Agents to Invoke Malicious Tools
+1	42	2025	2503.00237		Agentic AI Needs a Systems Theory
+1	42	2024	2408.08902		Audit-LLM: Multi-Agent Collaboration for Log-based Insider Threat Detection
+1	41	2025	2501.13299		Hypothesis Generation for Materials Discovery and Design Using Goal-Driven and Constraint-Guided LLM Agents
+1	41	2024	2406.08689	10.1109/RAIE66699.2025.00013	Security of AI Agents
+1	41	2023	2310.04381		Hermes: Unlocking Security Analysis of Cellular Network Protocols by Synthesizing Finite State Machines from Natural Language Specifications
+1	41				The Dark Side of LLMs: Agent-based Attacks for Complete Computer Takeover
+1	41	2023		10.1016/j.eswa.2023.121629	Transformer based contextual text representation framework for intelligent information retrieval
+1	41	2024	2407.01557		AI Governance and Accountability: An Analysis of Anthropic's Claude
+1	40	2025	2502.19175		MEDDxAgent: A Unified Modular Agent Framework for Explainable Automatic Differential Diagnosis
+1	40	2024	2404.09982		Memory Sharing for Large Language Model based Agents
+1	40	2020	2012.00136	10.1007/978-3-030-64357-7_7	Vision: A Critique of Immunity Passports and W3C Decentralized Identifiers
+1	40	2023		10.14722/ndss.2023.24348	MetaWave: Attacking mmWave Sensing with Meta-material-enhanced Tags
+1	39	2025	2506.01055		Simple Prompt Injection Attacks Can Leak Personal Data Observed by LLM Agents During Task Execution
+1	39	2018		10.1007/978-3-319-98989-1_23	Stealthy Probing-Based Verification (SPV): An Active Approach to Defending Software Defined Networks Against Topology Poisoning Attacks
+1	39	2025	2509.22830		ChatInject: Abusing Chat Templates for Prompt Injection in LLM Agents
+1	38	2024	2410.01639		Moral Alignment for LLM Agents
+1	38	2025	2510.21236	10.1145/3808103	AgentBound: Securing Execution Boundaries of AI Agents
+1	38	2025	2502.19145		Multi-Agent Security Tax: Trading Off Security and Collaboration Capabilities in Multi-Agent Systems
+1	38	2024	2407.08164	10.1109/IROS58592.2024.10802212	Hierarchical Consensus-Based Multi-Agent Reinforcement Learning for Multi-Robot Cooperation Tasks
+1	37	2025	2504.01094		Multilingual and Multi-Accent Jailbreaking of Audio LLMs
+1	37	2024	2410.15686		NetSafe: Exploring the Topological Safety of Multi-agent Networks
+1	37	2024		10.1101/2024.05.22.595240	BioInformatics Agent (BIA): Unleashing the Power of Large Language Models to Reshape Bioinformatics Workflow
+1	37	2025			MiniScope: A Least Privilege Framework for Authorizing Tool Calling Agents
+1	36	2024	2410.22457		Advancing Agentic Systems: Dynamic Task Decomposition, Tool Integration and Evaluation using Novel Metrics and Dataset
+1	36	2007			Towards a taxonomy of agents and multi-agent systems
+1	36	2004		10.1017/S0269888905000305	Towards a new synthesis of ontology technology and knowledge management
+1	36	2025		10.3390/bioengineering12121303	Agentic AI and Large Language Models in Radiology: Opportunities and Hallucination Challenges
+1	35	2024	2403.06221	10.1145/3626772.3657788	TRAD: Enhancing LLM Agents with Step-Wise Thought Retrieval and Aligned Decision
+1	35	2025	2504.14064		DoomArena: A framework for Testing AI Agents Against Evolving Security Threats
+1	35	2024	2404.08231	10.1016/j.cose.2024.104272	Evaluation framework for quantum security risk assessment: A comprehensive strategy for quantum-safe transition
+1	34	2025	2502.13959		LIDDIA: Language-based Intelligent Drug Discovery Agent
+1	34	2021	2110.08514		Analyzing Dynamic Adversarial Training Data in the Limit
+1	33	2025	2504.01081		ShieldGemma 2: Robust and Tractable Image Content Moderation
+1	33	2025	2502.20383		Why Are Web AI Agents More Vulnerable Than Standalone LLMs? A Security Analysis
+1	33	2022		10.1109/dsn53405.2022.00017	Cycle: Sustainable Off-Chain Payment Channel Network with Asynchronous Rebalancing
+1	33	2023		10.1016/j.digbus.2023.100055	Exploring API-driven business models: Lessons learned from Amadeus's digital transformation
+1	33	1995		10.1049/IC:19950135	Security and IN
+1	33	2019		10.1109/TMC.2018.2847350	Reward or Penalty: Aligning Incentives of Stakeholders in Crowdsourcing
+1	32	2025	2502.05439		Agentic AI Systems Applied to tasks in Financial Services: Modeling and model risk management crews
+1	32	2024	2404.09127		Confidence Calibration and Rationalization for LLMs via Multi-Agent Deliberation
+1	32	2023	2308.12345	10.1088/1475-7516/2023/12/017	Probing early modification of gravity with Planck, ACT and SPT
+1	31	2023		10.1109/ACCESS.2023.3274707	A Blockchain-Based E-Commerce Reputation System Built With Verifiable Credentials
+1	31	2025		10.1109/TVT.2024.3463420	Optimizing AIGC Services by Prompt Engineering and Edge Computing: A Generative Diffusion Model-Based Contract Theory Approach
+1	31	2024		10.1109/TASE.2023.3320708	Human-Robot Role Arbitration via Differential Game Theory
+1	31	2024	2405.20092		Divide-and-Conquer Meets Consensus: Unleashing the Power of Functions in Code Generation
+1	30	2022		10.1109/TNET.2022.3169136	Disrupting the SDN Control Channel via Shared Links: Attacks and Countermeasures
+1	30	2025		10.1145/3745238.3745531	A Survey of Multi-AI Agent Collaboration: Theories, Technologies and Applications
+1	30	2024	2410.23308		Systematically Analyzing Prompt Injection Vulnerabilities in Diverse LLM Architectures
+1	30	2024	2404.10160		Reinforcement Learning from Multi-role Debates as Feedback for Bias Mitigation in LLMs
+1	30	2024	2411.02006		Foundations and Recent Trends in Multimodal Mobile Agents: A Survey
+1	29	2025	2504.19951	10.1109/AIxDKE67294.2026.00022	Securing GenAI Multi-Agent Systems Against Tool Squatting: A Zero Trust Registry-Based Approach
+1	29	2025	2504.02963		Digital Forensics in the Age of Large Language Models
+1	29	2022		10.3390/e24121762	Lossless Image Steganography Based on Invertible Neural Networks
+1	28	2024			The (R)Evolution of Multimodal Large Language Models: A Survey
+1	28	2023		10.1002/asi.24744	One schema to rule them all: How Schema.org models the world of search
+1	28	2022		10.1109/TDSC.2021.3085412	Remote Attacks on Drones Vision Sensors: An Empirical Study
+1	28	2021	2112.07640	10.52202/068431-2036	How and Why to Manipulate Your Own Agent: On the Incentives of Users of Learning Agents
+1	27	2025	2502.13311		Training Turn-by-Turn Verifiers for Dialogue Tutoring Agents: The Curious Case of LLMs as Your Coding Tutors
+1	27	2023		10.1109/TNET.2022.3203561	Combination Attacks and Defenses on SDN Topology Discovery
+1	27	2021		10.3390/ELECTRONICS10030289	Blockchain-Based Reputation Systems: Implementation Challenges and Mitigation
+1	27	2014		10.17487/RFC7282	On Consensus and Humming in the IETF
+1	27	2024	2403.17674		Depending on yourself when you should: Mentoring LLM with RL agents to become the master in cybersecurity games
+1	27	2024			EVOKE: Efficient Revocation of Verifiable Credentials in IoT Networks
+1	26	2024		10.36548/jaicn.2024.2.007	AI-Powered Legal Documentation Assistant
+1	26	2024	2402.09334	10.1145/3627673.3679222	AuditLLM: A Tool for Auditing Large Language Models Using Multiprobe Approach
+1	26	2020	2004.08355		Towards an Interoperable Ecosystem of AI and LT Platforms: A Roadmap for the Implementation of Different Levels of Interoperability
+1	26	2025	2505.24201		SentinelAgent: Graph-based Anomaly Detection in Multi-Agent Systems
+1	26	2024	2410.03055		Permissive Information-Flow Analysis for Large Language Models
+1	26	2024	2402.14857		Is the System Message Really Important to Jailbreaks in Large Language Models?
+1	26	2025	2502.07736		Menu Pricing of Large Language Models
+1	25	2025	2508.11548		Copyright Protection for Large Language Models: A Survey of Methods, Challenges, and Trends
+1	25	2025	2502.14529		CORBA: Contagious Recursive Blocking Attacks on Multi-Agent Systems Based on Large Language Models
+1	25	2019		10.1109/SP.2019.00053	Postcards from the Post-HTTP World: Amplification of HTTPS Vulnerabilities in the Web Ecosystem
+1	25	2025			Systematic Analysis of MCP Security
+1	25	1997			Ethics and the Internet.
+1	25	2025	2510.10581		GraphTracer: Graph-Guided Failure Tracing in LLM Agents for Robust Multi-Turn Deep Search
+1	24	2025	2509.24496		LLM DNA: Tracing Model Evolution via Functional Representations
+1	24	2024		10.1016/j.techsoc.2024.102470	Search engine optimization poisoning: A cybersecurity threat analysis and mitigation strategies for small and medium-sized enterprises
+1	24	2025		10.18653/v1/2025.naacl-industry.80	An Efficient Context-Dependent Memory Framework for LLM-Centric Agents
+1	24	2023		10.1145/3689217.3690616	Towards Large Language Model (LLM) Forensics Using LLM-based Invocation Log Analysis
+1	23	2025	2505.23847	10.1038/s44387-026-00128-9	Seven security challenges in cross-domain multi-agent LLM systems
+1	23	2024			DrugAgent: Explainable Drug Repurposing Agent with Large Language Model-based Reasoning
+1	23	2000		10.1109/DEXA.2000.875111	A taxonomy of web agents
+1	23	2007		10.1016/B978-044451608-4/50025-0	A history of internet security
+1	23	2021		10.1287/MNSC.2021.4090	The Wisdom of Model Crowds
+1	23	2025	2505.15799	10.1145/3747175	The Agentic Economy
+1	22	2025	2502.00415	10.1109/ICDMW69685.2025.00105	MarketSenseAI 2.0: Enhancing Stock Analysis Through LLM Agents
+1	22	2024	2403.14642		Revolutionising Distance Learning: A Comparative Study of Learning Progress with AI-Driven Tutoring
+1	22	2013		10.2200/s00460ed1v01y201212wbe004	Incentive-Centric Semantic Web Application Engineering
+1	22	2024	2407.08516		Converging Paradigms: The Synergy of Symbolic and Connectionist AI in LLM-Empowered Autonomous Agents
+1	22	2024	2410.15489	10.1145/3676536.3698390	Generative AI Agents in Autonomous Machines: A Safety Perspective
+1	22	2024	2406.01806		Contextualized Sequence Likelihood: Enhanced Confidence Scores for Natural Language Generation
+1	21	2025	2509.09703		CTCC: A Robust and Stealthy Fingerprinting Framework for Large Language Models via Cross-Turn Contextual Correlation Backdoor
+1	21	2025	2509.00918		PREE: Towards Harmless and Adaptive Fingerprint Editing in Large Language Models via Knowledge Prefix Enhancement
+1	21	2024	2407.13757		Black-Box Opinion Manipulation Attacks to Retrieval-Augmented Generation of Large Language Models
+1	21	2025	2505.02502		Unveiling the Landscape of LLM Deployment in the Wild: An Empirical Study
+1	21	2004		10.17487/RFC3797	Publicly Verifiable Nominations Committee (NomCom) Random Selection
+1	21	2025	2503.21720		Collab: Controlled Decoding using Mixture of Agents for LLM Alignment
+1	20	2025	2505.13516		HALO: Hierarchical Autonomous Logic-Oriented Orchestration for Multi-Agent LLM Systems
+1	20	2025	2502.03233	10.1109/TSE.2026.3689066	Exploring the Security Threats of Knowledge Base Poisoning in Retrieval-Augmented Code Generation
+1	20	2025			An LLM-based Agent for Reliable Docker Environment Configuration
+1	20	2024			Towards Action Hijacking of Large Language Model-based Agent
+1	20	2024		10.18653/v1/2024.emnlp-main.82	Towards Tool Use Alignment of Large Language Models
+1	20	2026	2601.04583		Autonomous Agents on Blockchains: Standards, Execution Models, and Trust Boundaries
+1	20	2025	2508.05687		Risk Analysis Techniques for Governed LLM-based Multi-Agent Systems
+1	20	2024		10.1109/TMC.2024.3438152	Semantic-Aware UAV Swarm Coordination in the Metaverse: A Reputation-Based Incentive Mechanism
+1	20	2025	2506.10953		Build the web for agents, not agents for the web
+1	20	2023		10.1109/TVT.2023.3276898	Multi-Agent Deep Reinforcement Learning Based Incentive Mechanism for Multi-Task Federated Edge Learning
+1	19	2025	2506.12551		MEraser: An Effective Fingerprint Erasure Approach for Large Language Models
+1	19	2025	2502.07760		Scalable Fingerprinting of Large Language Models
+1	19	2024	2412.16468		The Road to Artificial SuperIntelligence: A Comprehensive Survey of Superalignment
+1	19	2019		10.1145/3290605.3300540	On the Usability of HTTPS Deployment
+1	19	2026	2604.08407		Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply Chain
+1	19	2025	2502.17443		AI Agentic workflows and Enterprise APIs: Adapting API architectures for the age of AI agents
+1	18	2025	2509.03058		EverTracer: Hunting Stolen Large Language Models via Stealthy and Robust Probabilistic Fingerprint
+1	18	2019		10.1109/SP.2019.00025	Measuring and Analyzing Search Engine Poisoning of Linguistic Collisions
+1	18	2004			East China Normal University = 華東師範大學
+1	18	2025	2511.03841		Security Analysis of Agentic AI Communication Protocols: A Comparative Evaluation
+1	18	2025	2505.09757		Trustless Autonomy: Understanding Motivations, Benefits and Governance Dilemma in Self-Sovereign Decentralized AI Agents
+1	18	2024	2407.18074		Principal-Agent Reinforcement Learning: Orchestrating AI Agents with Contracts
+1	18	2025	2503.14827		MMDT: Decoding the Trustworthiness and Safety of Multimodal Foundation Models
+1	18	2024	2412.05734		LeakAgent: RL-based Red-teaming Agent for LLM Privacy Leakage
+1	18	2022		10.1109/TIFS.2022.3209552	ESP Spoofing: Covert Acoustic Attack on MEMS Gyroscopes in Vehicles
+1	17	2025		10.2139/ssrn.5197274	Generative AI Systems in Legal Practice Offering Quality Legal Services while Upholding Legal Ethics
+1	17	2018		10.65109/vumn1899	HATP: Hierarchical Agent-based Task Planner
+1	16	2025	2505.09921		PIG: Privacy Jailbreak Attack on LLMs via Gradient-based Iterative In-Context Optimization
+1	16	2025	2501.12210	10.1145/3696410.3714632	You Can't Eat Your Cake and Have It Too: The Performance Degradation of LLMs with Jailbreak Defense
+1	16				Reading Between the Lines: Towards Reliable Black-box LLM Fingerprinting via Zeroth-order Gradient Estimation
+1	16	2005		10.1109/AMT.2005.1505254	Web intelligence: new frontiers of exploration
+1	16	2025	2510.01260	10.1145/3737895.3768303	IoT-MCP: Bridging LLMs and IoT Systems Through Model Context Protocol
+1	16	2025	2510.11108		A Vision for Access Control in LLM-based Agent Systems
+1	16	2025	2503.12651		VeriLA: A Human-Centered Evaluation Framework for Interpretable Verification of LLM Agent Failures
+1	15	2022			Reinforced Clarification Question Generation with Defeasibility Rewards for Disambiguating Social and Moral Situations
+1	15	2025	2505.11642	10.1109/IRI66576.2025.00051	PeerGuard: Defending Multi-Agent Systems Against Backdoor Attacks Through Mutual Reasoning
+1	15	2024			Chain of Tools: Large Language Model is an Automatic Multi-tool Learner
+1	15	2026		10.3390/jcp6030084	Model Context Protocol Threat Modeling and Analysis of Vulnerabilities to Prompt Injection with Tool Poisoning
+1	15	2025	2509.15848		A Comparative Study of Rule-Based and Data-Driven Approaches in Industrial Monitoring
+1	15	2025	2510.07614	10.1109/ASEW67777.2025.00064	Traceability and Accountability in Role-Specialized Multi-Agent LLM Pipelines
+1	15	2024		10.1109/TMC.2022.3231567	Towards System-Level Security Analysis of IoT Using Attack Graphs
+1	15				The artifacts of
+1	15	2025	2504.16563		Enhancing LLM-Based Agents via Global Planning and Hierarchical Execution
+1	14	2025	2510.07176		Exposing LLM User Privacy via Traffic Fingerprint Analysis: A Study of Privacy Risks in LLM Agent Interactions
+1	14	2025	2509.00820		Unlocking the Effectiveness of LoRA-FP for Seamless Transfer Implantation of Fingerprints in Downstream Models
+1	14	2025	2506.12430		Pushing the Limits of Safety: A Technical Report on the ATLAS Challenge 2025
+1	14	2025	2505.03096	10.1109/CAIN66642.2025.00039	Assessing and Enhancing the Robustness of LLM-Based Multi-Agent Systems Through Chaos Engineering
+1	14	2025	2504.13928		LLM-Driven NPCs: Cross-Platform Dialogue System for Games and Social Platforms
+1	14	2025	2502.02067	10.1109/ICRA55743.2025.11128062	AdaptBot: Combining LLM with Knowledge Graphs and Human Input for Generic-to-Specific Task Decomposition and Knowledge Refinement
+1	14	2025	2501.01594		PSYCHE: A Multi-faceted Patient Simulation Framework for Evaluation of Psychiatric Assessment Conversational Agents
+1	14	2025	2503.10784		Vulnerability Detection: From Formal Verification to Large Language Models and Hybrid Approaches: A Comprehensive Overview
+1	14	2022		10.1609/icwsm.v16i1.19310	The Web We Weave: Untangling the Social Graph of the IETF
+1	14	2025		10.55092/aias20250009	Prompt engineering for structured data: a comparative evaluation of styles and LLM performance
+1	14	2025	2505.22368		AgentDNS: A Root Domain Naming System for LLM Agents
+1	14	2024	2408.01916	10.1109/TSC.2025.3611816	MAO: A Framework for Process Model Generation With Multi-Agent Orchestration
+1	13	2024		10.30574/ijsra.2024.13.2.2487	Personalized learning through artificial intelligence: Revolutionizing education
+1	13	2024	2411.18000		Exploring Visual Vulnerabilities via Multi-Loss Adversarial Search for Jailbreaking Vision-Language Models
+1	13	2024	2410.22304		Flow-DPO: Improving LLM Mathematical Reasoning through Online Multi-Agent Learning
+1	13	2022	2205.08252		An Empirical Assessment of Security and Privacy Risks of Web based-Chatbots
+1	13	2025		10.1109/ACCESS.2025.3595424	From Prompts to Motors: Man-in-the-Middle Attacks on LLM-Enabled Vacuum Robots
+1	13	2024			On the ETHOS of AI Agents: An Ethical Technology and Holistic Oversight System
+1	13	2025	2506.01245		Comprehensive Vulnerability Analysis is Necessary for Trustworthy LLM-MAS
+1	13	2025		10.34218/ijaird_03_01_004	AI AGENTS COLLABORATION UNDER RESOURCE CONSTRAINTS: PRACTICAL IMPLEMENTATIONS
+1	13	2025	2507.19880		Trivial Trojans: How Minimal MCP Servers Enable Cross-Tool Exfiltration of Sensitive Data
+1	13	2024	2410.23074		Multi-Programming Language Sandbox for LLMs
+1	13	2024	2404.01741	10.1109/DSN58291.2024.00042	Intrusion Tolerance for Networked Systems through Two-Level Feedback Control
+1	13	2025		10.1109/TCCN.2024.3499342	Privacy-Preserving Multi-Agent Deep Reinforcement Learning for Effective Resource Auction in Multi-Access Edge Computing
+1	13	2026		10.1109/JIOT.2025.3649049	Navigating Embodied Intelligence: Enabling Technologies, Security and Privacy, and Emerging Trends
+1	12	2024	2409.19521		GenTel-Safe: A Unified Benchmark and Shielding Framework for Defending Against Prompt Injection Attacks
+1	12	2024	2409.08846		Fingerprint Vector: Enabling Scalable and Efficient Model Fingerprint Transfer via Vector Addition
+1	12	2025		10.1145/3766882.3767177	Securing MCP-based Agent Workflows
+1	12	2024	2411.06899		LongSafety: Enhance Safety for Long-Context LLMs
+1	12	2016		10.1007/978-3-319-26860-6_2	Probabilistic Planning in AgentSpeak using the POMDP framework.
+1	12	2010	1203.3527		Truthful Feedback for Sanctioning Reputation Mechanisms
+1	12	2025	2509.22256		Secure and Efficient Access Control for Computer-Use Agents via Context Space
+1	12	2025	2504.15241	10.18653/v1/2025.emnlp-main.1392	MrGuard: A Multilingual Reasoning Guardrail for Universal LLM Safety
+1	11	2025	2509.26598	10.1109/SaTML68715.2026.00026	Are Robust LLM Fingerprints Adversarially Robust?
+1	11	2025	2509.01211		Web Fraud Attacks Against LLM-Driven Multi-Agent Systems
+1	11	2025	2506.02859	10.1145/3779208.3785380	ATAG: AI-Agent Application Threat Assessment with Attack Graphs
+1	11	2025	2505.16723		LLM Fingerprinting via Semantically Conditioned Watermarks
+1	11	2025	2505.06304	10.18653/2026.emnlp-main.543	SRAF: Stealthy and Robust Adversarial Fingerprint for Copyright Verification of Large Language Models
+1	11	2024	2411.09220	10.1109/LSP.2024.3443711	Transferable Adversarial Attacks Against ASR
+1	11	2025			MedAgent-Pro: Towards Multi-modal Evidence-based Medical Diagnosis via Reasoning Agentic Workflow
+1	11	2024			Figure it Out: Analyzing-based Jailbreak Attack on Large Language Models
+1	11	2022		10.14722/ndss.2022.24387	Hazard Integrated: Understanding Security Risks in App Extensions to Team Chat Systems
+1	11	2025	2509.08646		Architecting Resilient LLM Agents: A Guide to Secure Plan-then-Execute Implementations
+1	11	2020	2007.05411		AGI Agent Safety by Iteratively Improving the Utility Function
+1	11	2026		10.1109/JAS.2026.125993	Understanding Agentic AI: Algorithms and Infrastructure
+1	11	2025	2511.19113	10.1109/MNET.2026.3663837	Agent Discovery in Internet of Agents: Challenges and Solutions
+1	11	2017		10.1038/d41586-017-07220-w	The internet that wasn’t
+1	11	2016		10.2139/SSRN.3023650	No Standard for Standards: Understanding the ICT Standards-Development Ecosystem
+1	11	2024		10.1109/TAES.2024.3383418	Noncooperative Game of Distributed Quadrotor UAVs With Multiple Constraints
+1	11	2024		10.1109/TSMC.2024.3380389	A Multiagent Co-Evolutionary Algorithm With Penalty-Based Objective for Network-Based Distributed Optimization
+1	10	2025	2502.00510		Understanding and Optimizing Agentic Workflows via Shapley value
+1	10	2025	2505.08392	10.24963/ijcai.2026/457	Adaptive GoGI-Skip: Coupling Goal-Gradient Importance with Dynamic Uncertainty for Efficient Reasoning
+1	10	2025	2504.04756	10.1109/CVPR52734.2025.02088	Continuous Locomotive Crowd Behavior Generation
+1	10	2024	2402.12391		Toward a Team of AI-made Scientists for Scientific Discovery from Gene Expression Data
+1	10	2025		10.14722/ndss.2025.241244	ProvGuard: Detecting SDN Control Policy Manipulation via Contextual Semantics of Provenance Graphs
+1	10	2019		10.2139/ssrn.3410895	The hidden standards war: economic factors affecting IPv6 deployment
+1	10	2025	2502.11358		Mimicking the Familiar: Dynamic Command Generation for Information Theft Attacks in LLM Tool-Learning System
+1	10	2024	2501.00055		LLM-Virus: Evolutionary Jailbreak Attack on Large Language Models
+1	9	2025	2510.13467		NetMCP: Network-Aware Model Context Protocol Platform for LLM Capability Extension
+1	9	2025	2505.12402		Automated Profile Inference with Language Model Agents
+1	9	2025	2505.12442		IP Leakage Attacks Targeting LLM-Based Multi-Agent Systems
+1	9	2024	2412.14769		PsyDraw: A Multi-Agent Multimodal System for Mental Health Screening in Left-Behind Children
+1	9	2024		10.1109/TIFS.2024.3472477	rDefender: A Lightweight and Robust Defense Against Flow Table Overflow Attacks in SDN
+1	9	2025			Principled and Automated Approach for Investigating AR/VR Attacks
+1	9	2024	2410.14262		Good Parenting is all you need - Multi-agentic LLM Hallucination Mitigation
+1	8	2025	2511.01527		TPS-Bench: Evaluating AI Agents' Tool Planning \& Scheduling Abilities in Compounding Tasks
+1	8	2024		10.56395/npl.v1i1.49	tester
+1	8	2025		10.1631/FITEE.2500582	AI-agent communication network for 6G: vision, architecture, and key technologies
+1	8	2018	1804.10707	10.1007/978-3-030-20074-9_12	Remote Credential Management with Mutual Attestation for Trusted Execution Environments
+1	8	2025	2502.13376		Learning Symbolic Task Decompositions for Multi-Agent Teams
+1	8	2024		10.56127/ijst.v3i1.1962	Ethical and Responsible AI: Governance Frameworks and Policy Implications for Multi-Agent Systems
+1	8	2025	2506.12003	10.1109/TPS-ISA67132.2025.00049	Upgrade or Switch: Do We Need a Next-Gen Trusted Architecture for the Internet of AI Agents?
+1	7	2025	2506.08336		Your Agent Can Defend Itself against Backdoor Attacks
+1	7	2025	2503.21735		GateLens: A Reasoning-Enhanced LLM Agent for Automotive Software Release Analytics
+1	7	2024	2410.21312		PatentAgent: Intelligent Agent for Automated Pharmaceutical Patent Analysis
+1	7	2024	2410.12004		Toolken+: Improving LLM Tool Usage with Reranking and a Reject Option
+1	7	2026	2604.01905		From Component Manipulation to System Compromise: Understanding and Detecting Malicious MCP Servers
+1	7	2026		10.3390/fi18030171	AI Agent Communications in the Future Internet—Paving a Path Toward the Agentic Web
+1	7	2025			Toward Understanding Security Issues in the Model Context Protocol Ecosystem
+1	7	2025			Software Availability Protection in Cyber-Physical Systems
+1	7	2025	2503.12896	10.1109/TON.2026.3729842	Privacy-Preserving LLM Embedding Transmission for End-Cloud Collaboration
+1	7	2024			Can I Hear Your Face? Pervasive Attack on Voice Authentication Systems with a Single Face Image
+1	6	2025		10.1360/ssi-2025-0022	InSty: A Robust Multi-Level Cross-Granularity Fingerprint Embedding Algorithm for Multi-Turn Dialogue in Large Language Models
+1	6	2025	2503.21805		ImF: Implicit Fingerprint for Large Language Models
+1	6	2025			FinSphere: A Conversational Stock Analysis Agent Equipped with Quantitative Tools based on Real-Time Database
+1	6	2024			Safeguard is a Double-edged Sword: Denial-of-service Attack on Large Language Models
+1	6				Governance in Agentic Workflows: Leveraging LLMs as Oversight Agents
+1	6	2023		10.1051/e3sconf/202346900085	Zero-Knowledge Proofs and OAuth 2.0 for Anonymity and Security in Distributed Systems
+1	6	2006			Middleware between OWL and FIPA Ontologies in the Semantic Grid Environment
+1	6	2025	2509.18557	10.1109/ICMLA66185.2025.00213	LLMZ+: Contextual Prompt Whitelist Principles for Agentic LLMs
+1	6	2025	2504.09841		StruPhantom: Evolutionary Injection Attacks on Black-Box Tabular Agents Powered by Large Language Models
+1	6	2020		10.1145/3383583.3398613	Relation Aware Attention Model for Uncertainty Detection in Text
+1	6	2024		10.1109/ACCESS.2024.3520420	Automated Event Log Analysis With Causal Dependency Graphs for Impact Assessment of Business Processes
+1	6				Exploit Tool Invocation Prompt for Tool Behavior Hijacking in LLM-Based Agentic System
+1	6	2025	2504.08525		Task Memory Engine (TME): Enhancing State Awareness for Multi-Step LLM Agent Tasks
+1	6	2024		10.1109/TNNLS.2024.3488115	Whole-Process Privacy-Preserving and Sybil-Resilient Consensus for Multiagent Networks
+1	5	2025	2508.02092		FPEdit: Robust LLM Fingerprinting through Localized Parameter Editing
+1	5	2025		10.1109/ICME59968.2025.11209370	Optimizing and Attacking Embodied Intelligence: Instruction Decomposition and Adversarial Robustness
+1	5	2025	2506.02546		To trust or not to trust: Attention-based Trust Management for LLM Multi-Agent Systems
+1	5	2025		10.1109/ICDT63985.2025.10986687	Optimizing NPC Behavior in Video Games Using Unity ML-Agents: A Reinforcement Learning-Based Approach
+1	5	2024	2406.18783		Psychological Profiling in Cybersecurity: A Look at LLMs and Psycholinguistic Features
+1	5				Mind the Agent: A Comprehensive Survey on Large Language Model-Based Agent Safety
+1	5	2025	2510.11414		Uncertainty-Aware, Risk-Adaptive Access Control for Agentic Systems using an LLM-Judged TBAC Model
+1	4	2024	2410.20600		Multi-Turn Human-LLM Interaction Through the Lens of a Two-Way Intelligibility Protocol
+1	4	2024	2408.01779		MathLearner: A Large Language Model Agent Framework for Learning to Solve Mathematical Problems
+1	4	2021		10.5555/3463952.3464073	Peer-to-peer Autonomous Agent Communication Network
+1	4	2025		10.1145/3737897.3767287	Secure Model Context Protocol for Large Language Models with Dual Signatures
+1	4	2024		10.1007/978-3-031-74835-6_1	Intrusion Tolerance as a Two-Level Game
+1	4	2024	2401.03388		LLMs for Robotic Object Disambiguation
+1	4	2025	2504.15225		M2AD: Multi-Sensor Multi-System Anomaly Detection through Global Scoring and Calibrated Thresholding
+1	3	2024		10.1109/ICONSTEM60960.2024.10568823	Efficient Contract Analysis and Management through Ai-Powered Tool: Time Savings and Error Reduction in Legal Document Review
+1	3	2019		10.2307/j.ctvc777bj.30	ZEYANG
+1	3	2025		10.1109/BigData66926.2025.11401077	CAR-RAG: Category-Aware Hybrid Retrieval-Augmented Generation for Hallucination Mitigation
+1	3	2024		10.1109/RTC62204.2024.10739262	Enhanced DeFi Security on XRPL with Zero-Knowledge Proofs and Speaker Verification
+1	3	2019		10.17487/rfc8713	IAB, IESG, IETF Trust, and IETF LLC Selection, Confirmation, and Recall Process: Operation of the IETF Nominating and Recall Committees
+1	3	1970		10.17487/RFC0054	Official Protocol Proffering
+1	3	2023		10.1590/s0102-8529.20234503e20220022	Legitimacy, Power, and Inequalities in the Multistakeholder Internet Governance: Analyzing IANA Transition
+1	3	2023		10.5555/3545946.3599015	Learning Group-Level Information Integration in Multi-Agent Communication
+1	3	2021	2110.11766	10.1109/ICCCN52240.2021.9522285	Semantic Identifiers and DNS Names for IoT
+1	3	2025	2505.20273		Ten Principles of AI Agent Economics
+1	3	2024		10.1109/LRA.2024.3455765	CDA: Covert Deception Attacks in Multi-Agent Resource Scheduling
+1	2	2025	2506.01095		Modular Speaker Architecture: A Framework for Sustaining Responsibility and Contextual Integrity in Multi-Agent AI Communication
+1	2	2025	2510.16572		Ripple Effect Protocol: Coordinating Agent Populations
+1	2	2014		10.11591/IJICT.V3I1.PP1-12	Semantic Aware Multi-Agent System Advantages
+1	2	2025		10.1145/3730567.3764452	ru-RPKI-ready: the Road Left to Full ROA Adoption
+1	2	2025		10.3390/electronics14193900	The Current State of Research on Reputation Evaluation of Network Nodes
+1	2	2025	2501.15317		Welfare Modeling with AI as Economic Agents: A Game-Theoretic and Behavioral Approach
+1	2	2025	2507.00096		AI-Governed Agent Architecture for Web-Trustworthy Tokenization of Alternative Assets
+1	1				Brief Announcement: Anonymous Distributed Localisation via Spatial Population Protocols
+1	1				: Blocking Large-Scale SYN Floods with a Split-Proxy Defense on Programmable Data Planes
+1	1	2024	2405.05129		Web Intelligence Journal in perspective: an analysis of its two decades trajectory
+1	1	2018			Semantic Web as the Next Generation Smart Web
+1	1	2022		10.17487/rfc9281	Entities Involved in the IETF Standards Process
+1	1	2020		10.1093/oso/9780198841524.003.0003	Internal Governance of the IETF, W3C, OASIS, and IEEE
+1	1	2014		10.1017/CBO9781139856553.010	The Internet and the Advantages of Autocratic Design, 1970s–1990s
+1	1	2025		10.4236/jilsa.2025.174016	Bridging the Gap: Improving Agentic AI with Strong and Safe Data Practices
+1	1	2024			Analyzing Privacy in Software
+1	0				Automated pipeline for
+1	0				The coral protocol
+1	0				— a senior engineer’s overview
+1	0				Continuous locomotive crowd behavior
+1	0				Microsoft Learn. Semantic kernel agent framework
+1	0				Autogpt: An autonomous gpt-4 experiment
+1	0				Langgraph: Building graph-based agent workflows
+1	0				Linux Foundation AI and IBM Data
+1	0				Comparing 9 ai agent development platforms: Dify, coze, adept
+1	0				VentureBeat
+1	0				Ibm introduces new ai integration services to help enterprises build and scale ai
+1	0				Galileo Cisco, Langchain
+1	0				AlEngineerFoundation. Agent protocol
+1	0				: Decentralized evolutionary coordination for llm-based multi-agent systems
+1	0	2025			CrewAI: High-level crew abstractions for collaborative llm agents
+1	0	2025			Llamaindex: Connecting llms to your knowledge
+1	0	2025			Model Context Protocol
+1	0	2025			Langchain: Build applications with llms through composability
+1	0	2025			Function calling in openai models
+1	0	2025			Ag2 (autogen): An open-source agentos with human-in-the-loop workflows
+1	0	2025			Smolagents: A single-file python library for multi-modal llm agent prototyping
+1	0	2025			AutoGen Community
+1	0	2025			Swarm: Stateless multi-agent coordination via json-rpc routines
+1	0	2025			Agent2agent (a2a) protocol documentation
+1	0	2010			Artificial Intelligence: A Modern Approach
+1	0	1993			The kqml protocol: A specification of language and communication
+1	0				Semantic kernel: Sdk for llm orchestration and memory
+1	0				Dynamic llm agent metadata manifest-based discovery of agents in an llm agentic application platform
+1	0				Ai agents under threat: A survey of key security challenges and mitigations
+1	0				OpenAI
+1	0				Reflexion: Language model self-improvement through iterative learning from failures
+1	0				A2a protocol: An in-depth guide.
+1	0				Autotool: Building general-purpose llm agents with self-extendable toolsets
+1	0	2012			Tcp/ip illustrated , volume 1
+1	0				Claude statistics: How many people use claude?
+1	0				Roots Analysis
+1	0				Anthropic
+1	0				Infecting llm agents via generalizable adversarial attack
+1	0				riseandignite
+1	0				Grand View Research
+1	0				Phantom: General trigger attacks on retrieval augmented language generation
+1	0				Purdue University, West Lafayette, US
+1	0				Mcp toolbox for databases: Simplify ai agent access to enterprise data
+1	0				a2aproject
+1	0				Identifying vulnerabilities in retrieval
+1	0				Demon-strations of integrity attacks in multi-agent systems
+1	0				Ag-ui: Enabling user-facing ai agents through a lightweight event-based protocol for backend-frontend integration
+1	0				Apis power your business. ai will transform it. tyk helps you do both
+1	0				io Engineering Team
+1	0				Large language models explained
+1	0				Badchain
+1	0				Engineering the agentic future: Paypal’s mcp & a2a design patterns for the new digital economy
+1	0				Scalable auditing for ai safety
+1	0				Agentic AI Threat Modeling Framework: MAESTRO
+1	0				cloud bailian fully supports mcp service deployment and call
+1	0				Aitp: Agent interaction & transaction protocol
+1	0				Enforcing cybersecurity constraints for llm-driven robot agents for online trans-actions
+1	0				AgentUnion
+1	0				Agent protocol
+1	0				ANP Team
+1	0				ai agent interoperability
+1	0				Tool calling
+1	0				Chatgpt tool vulnerability exploited against us government organizations
+1	0				Ma-lot: Multi-agent lean-based long chain-of-thought reasoning enhances formal theorem proving
+1	0				Why do multiagent systems fail?
+1	0				Mˆ 3builder: A multi-agent system for automated machine learning in medical imaging
+1	0				security in 2025
+1	0				Self-reflection in llm agents: Effects on problem-solving performance
+1	0				Implementation and application of an intelligibility protocol for interaction with an llm
+1	0				Terminal controller for mcp
+1	0				Ssl.com vulnerability allowed fraudulent ssl certificates for major domains
+1	0				Openai agent sdk supports mcp
+1	0				[proposal] self-reflection like humans, editable-llm (e-llm) is all you need
+1	0				The impact of ai-driven personalized learning and intelligent tutoring systems on student engagement and academic achievement: Ethical implications and the digital divide
+1	0				Extend the amazon q developer cli with model context protocol (mcp) for richer context
+1	0				Lmos: Large model operating system
+1	0				EditMF
+1	0				On the resilience of multi-agent systems with malicious agents
+1	0				Google’s approach for secure ai agents
+1	0				Invariant Labs. Introducing mcp-scan: Protecting mcp with invariant
+1	0				Signxml’s signature verification with hmac is vulnerable to an al-gorithm confusion attack
+1	0				Hangzhou Dianzi University, Hangzhou, China
+1	0				AGNTCY Collective
+1	0	2025			Cloudflare
+1	0	2025			Baidu Maps
+1	0	2025			. Huawei Cloud Launches AI-Native Application Platform with Built-in MCP Integration
+1	0	2025			Baidu Create 2025 Developer Conference Establishes MCP Ecosystem Forum
+1	0	2025			Stripe
+1	0	2025			TheiaIDE
+1	0	2025			Replit
+1	0	2025			make inference
+1	0	2025			Block (Square)
+1	0	2025			LibreChat
+1	0	2025			Codeium
+1	0	2025			. Learn How to Add and Use Custom MCP Tools within Cursor
+1	0	2025			Cody supports additional context through Anthropic’s ModelContextProtocol
+1	0	2025			. BlenderMCP - Blender Model Context Protocol Integration
+1	0	2025			OpenSumi
+1	0	2025			Alipay Launches “MCP Server” for Integrated Payment Automation
+1	0	2025			Cline
+1	0	2023			. Funcation Calling
+1	0	2021			Language Server Protocol and Implementation
+1	0				Model Context Protocol. 2024
+1	0				2025. OWASP Top 10 for LLM Apps & Gen AI Agentic Security Initiative .
+1	0				Received 5 April 2025; revised 14 November 2025; accepted 30 December 2025
+1	0				2025. A Survey on Trustworthy LLM Agents: Threats and Countermeasures
+1	0				2025. Tencent Cloud AI SDK Announced MCP Integration and Plugin Transport Standard
+1	0				We identify the key components of MCP servers and define their lifecycle, encompassing the stages of creation, operation, and update. We also highlight potential security risks
+1	0				JetBrains
+1	0				We examine the current MCP ecosystem landscape, analyzing the adoption, diversity, and use cases across various industries and platforms
+1	0				ByteDance
+1	0				2024. LLM With Tools: A Survey
+1	0				2022. LlamaIndex: A data framework for LLM applications
+1	0				mcp dockmater. 2025
+1	0				Anthropic. 2024. For Claude Desktop Users
+1	0				2022. LangChain: Framework for developing applications powered by language models
+1	0				2022. Passwordless Persistence and Privilege Escalation in Azure
+1	0				2025. Bailian AI Platform Introduces Complete Lifecycle MCP Service
+1	0				Tripo3D MCP. 2025
+1	0				2025. Awesome MCP Servers by Appcypher
+1	0	2025			“MCP security crisis: Uncovering vulnerabilities attack vectors - part 1,”
+1	0	2024			“Beyond dos: How unbounded consumption is reshaping LLM security,”
+1	0	2020			“gvisor: A user-space kernel for container sandbox isolation,”
+1	0	2020			“Nist sp 800-207: Zero trust architecture,”
+1	0	2009			“The sel4 microkernel – an end-to-end formally verified operating system,”
+1	0				Model Context Protocol: Host-Server Communication Specification , Model Context Protocol Working Group, 2025
+1	0				“Supabase MCP can leak your entire SQL database,”
+1	0				“Protocol integrity framework for ai toolchains,”
+1	0				“MCP servers: The new security nightmare,” https: //
+1	0				“When AI has root: Lessons from the Supabase MCP data leak,”
+1	0				“The ”s” in MCP stands for security,”
+1	0				“MCP security prevention: Practical strategies for AI development - part 2,”
+1	0				“MCP security: Key risks, controls & best practices explained,”
+1	0				“Llm01: Prompt injection,”
+1	0				attackers inject malicious metadata to corrupt the LLM’s planning phase [32]
+1	0				“Javelin launches MCP security to bring defense-in-depth to the model context protocol layer,” Press Release
+1	0				“Survey on secure serialization techniques and deserialization vulnerabilities,”
+1	0				“Ragguard: Retrieval augmentation with verifiable provenance,”
+1	0				“LLM vector flaws threaten data security, privacy, and model integrity,”
+1	0				“Why MCP is crucial for building multi-user, multi-tenant LLM applications,”
+1	0				“Human-in-the-loop (hitl),”
+1	0				Cryptographic Verification: Verify signatures at both load and invocation phases
+1	0				“Multi-tenant RAG implementation with Amazon Bedrock and Amazon OpenSearch service for SaaS using JWT,”
+1	0				“OWASP LLM security verification standard (SVS),”
+1	0				“Mcp ”server” terminology creates dangerous user misconceptions,”
+1	0				“Ai cybersecurity risk management tailoring guide,”
+1	0				“The architectural elegance of model context protocol (MCP),”
+1	0				“Regulation (eu) 2024/1689 of the european parliament and of the council (eu ai act),”
+1	0				“Llm07: System prompt leakage,”
+1	0				“LLM08: Vector and embedding weaknesses,”
+1	0				“Ai risk management framework (ai rmf 1.0),”
+1	0	2025			. Secure Low-Latency Interactive Messaging (SLIM)
+1	0	2002			FIPAACLMessageRepresentationinStringSpecification
+1	0	1980			OSIReferenceModel—TheISOModelofArchitecture forOpenSystemsInterconnection
+1	0				2024. Agent2Agent (A2A) Protocol Specification. Version 0.3.0
+1	0				. 2024. Model Context Protocol (MCP). Technical Specification
+1	0				2023. Getting aligned on representational alignment
+1	0				Layered Protocol Architecture for the Internet of Agents
+1	0				. 2024. Natural Language Interaction Protocol (NLIP). Ecma TC-56 Draft Standard
+1	0	1970			The Market for “Lemons”: Quality Uncertainty and the Market Mechanism
+1	0	2025			“Alibaba unveils Qwen 3: A family of hybrid AI reasoning models,”
+1	0	2020			“Incentive alignment of business processes,”
+1	0	2019			“Agent-Based Digital Identity Architecture,”
+1	0	2016			REST API Design Rulebook: Designing Consistent Web Services
+1	0	2015			“Borg, the predecessor to Kubernetes,”
+1	0	2014			“Wikidata: A free collaborative knowledge base,”
+1	0	2013			“Semantic web and declarative agent languages and technologies: Current and future trends,”
+1	0	2010			“The open graph protocol,”
+1	0	2009			An introduction to MultiAgent systems , 2nd ed. Chichester, UK
+1	0	2004			“A middleware architecture for semantic web services,”
+1	0	1689			European Parliament and Council of the
+1	0				“Gemini 2.5: Our newest Gemini model with thinking,”
+1	0				“Announcing A2A Protocol v1.0.0,”
+1	0				“Claude 3.7 Sonnet and Claude Code,”
+1	0				“Grok 3 Beta — The Age of Reasoning Agents,”
+1	0				“Large Enough: Mistral Large 2,”
+1	0				“Model Context Protocol Specification, version 2025-11-25: Tasks, OAuth 2.1, and Registry,”
+1	0				“Agent marketplace,”
+1	0				“Magentic-UI: A research prototype of a human-centered interface powered by a multi-agent system,”
+1	0				“Introducing Operator,”
+1	0				“Insuring AI: The Role of Insurance in Artificial Intelligence Regulation,”
+1	0				“Developing an Open Standard for Agentic Commerce,”
+1	0				“Decentralized token economy theory (DeTEcT): Token pricing, stability and governance for token economies,”
+1	0				“The model context protocol: An emerging standard for AI agent-tool interactions,”
+1	0				the first time in three decades the WoA has had this layer, and every other research pillar (security, trust, governance) is negotiable only because of this enabler
+1	0				“Vertex AI Agent Builder overview,”
+1	0				“Azure AI Studio,”
+1	0				“LlamaIndex: Build knowledge assistants over your enterprise data,”
+1	0				“Build with Claude,”
+1	0				“LangChain: A framework for developing applications powered by large language models,”
+1	0				“Amazon bedrock agents,”
+1	0				“AI and ML orchestration on GKE,”
+1	0				“Visa Introduces Trusted Agent Protocol: An Ecosystem-Led Framework for AI Commerce,”
+1	0				“Function calling and other API updates,”
+1	0				“Agentic AI on Kubernetes: Advanced orchestration, deployment, and scaling strategies for autonomous AI systems,”
+1	0				Proceedings of the 1st Workshop on Incentives for the Semantic Web (INSEMTIVE 2008) at ISWC 2008, Karlsruhe, Germany, October 26, 2008
+1	0				“RDF primer,”
+1	0				“How we built our multi-agent research system,”
+1	0				“AI Agent Standards Initiative,”
+1	0				“Agent-to-Agent (A2A) protocol specification,”
+1	0				“Semantic Kernel: Orchestration and plugins for AI,”
+1	0				only structural attempt at scale
+1	0				“Assistants API,”
+1	0				“Introducing ChatGPT plugins,”
+1	0				“Introducing Strands Agents, an open source AI agents SDK,”
+1	0				Agent Network Protocol Contributors
+1	0				“European Digital Identity Wallet: Security and Privacy Features,”
+1	0				“Introducing Devin, the first AI software engineer,”
+1	0				“The 23rd IEEE/WIC international conference on web intelligence and intelligent agent technology (WI-IAT’24),”
+1	0				“AI foundation model marketplace - Amazon Bedrock Marketplace,”
+1	0				“AutoGPT: An autonomous GPT agent,”
+1	0				“SuperAGI: A dev-first open-source autonomous AI agent framework,”
+1	0				“IBM watsonx Orchestrate,”
+1	0				will dominate the 2030s Web.
+1	0				“Integrating Semantic Kernel Python with Google’s A2A protocol,”
+1	0				“ACP Joins Forces with A2A under the Linux Foundation’s LF AI & Data,”
+1	0				“WebMCP: Browser-Native Extension of the Model Context Protocol,”
+1	0				“Know Your Agent: Governing AI Identity on the Agentic Web,”
+1	0				“History of FIPA,”
+1	0				“Mastercard Unveils Agent Pay, Pioneering Agentic Payments Technology to Power Commerce in the Age of AI,”
+1	0				“NLWeb: Bringing conversational interfaces directly to the web,”
+1	0				“Crewai: Framework for orchestrating role-playing, autonomous AI agents,”
+1	0	2025			ai mcp tools governance
+1	0				Agent communications in edge computing toward agentic ai-driven internet of things
+1	0				the Agent Network Protocol Project
+1	0				GaoWei
+1	0				A2a: An open protocol enabling communication and interoperability between opaque agentic applications
+1	0				The push for standard protocols in the age of ai agents
+1	0				agent-network-protocol, Agentnetworkprotocol-an open-source protocol for agent communication enabling decentralized, secure collaboration
+1	0	2025			ParCleanse:ValidatingNetworkProtocolParserswith Traceable RFC-Derived Specifications
+1	0				Model-Fail. The formalization introduced an unsupported assumption—the finding is an artifact of abstraction, not a real vulnerability
+1	0				2024. InjecAgent: Benchmarking indirect prompt injections in tool-integrated LLM agents
+1	0				2023. PROSPER: Extracting Protocol Specifications Using Large Language Models
+1	0				P5 — Consent Explicitness. Sensitive operations (tool invocation, delegation, data access) require explicit user consent before execution, not merely advisory notification
+1	0				P3 — Delegation Monotonicity. When agent 𝐴 delegates capabilities to agent 𝐵 , the delegated set must be a subset of 𝐴 ’s own capabilities: delegation [ 𝐴 ][ 𝐵 ] ⊆ original _ caps [ 𝐴 ]
+1	0				2022.AutomatedAttackSynthesisby ExtractingFiniteStateMachinesfromProtocolSpecificationDocuments
+1	0				WF — Wire Format Integrity. All protocol messages must have well-defined structure and valid action types
+1	0				2025. Agent Negotiation Protocol. White paper. 5] Anthropic. 2024. Model Context Protocol Specification
+1	0				Both-Fail. The specification is weak and the implementation is unsafe
+1	0				. SHOULD-level or best-practice guidance. A violation is a hardening gap , not a standards violation
+1	0				Chained tool servers: injection chain, credential forwarding, transitive trust collapse, manifest inflation
+1	0				P6 — Audit Completeness. Every protocol operation must produceacorrespondingauditrecord. Formally: audit _ count ≥ msg _ count at all reachable states
+1	0				P2 — Capability Attestation. Tool and capability manifests must be cryptographically bound to their declaring agent. Forged manifests must be rejected
+1	0				Impl-Fail. The protocol specification forbids the behavior, but the reference implementation permits it (a compliance bug)
+1	0				P4 — Prompt Integrity. System prompts and control directives must not be modifiable by external inputs (tool outputs, agent messages). This formalizes protection against prompt injection (ADV-1)
+1	0				P7 — Fail-Secure Defaults
+1	0				P8 — Credential & Registry Integrity. Credentials must be revoked when sessions close. Formally: session _ state [ 𝑠 ] = “CLOSED” ⇒ credentials [ 𝑠 ] = “REVOKED”
+1	0				ACP Contributors. 2025. Agent Communication Protocol. Under active development via RFDs
+1	0				Agent Client Protocol Contributors
+1	0				AASM-Hardening
+1	0	2026			AAIF’s First Quarter Success Story: New Members, Technical Wins, and Open Governance
+1	0	2026			. Send Conservatively, Accept Liberally: Cultural Governance of Open Internet Standards
+1	0	2026			2026. Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions
+1	0	2026			Accelerating the Adoption of Software and AI Agent Identity and Authorization .
+1	0	2026			The Mother of All AI Supply Chains: Anthropic’s "By Design" failure at the heart of the AI ecosystem
+1	0	2025			Governance Succession and Amendment Procedures
+1	0	2025			. Let’s fix OAuth in MCP
+1	0	2025			. Requirements and evaluation methods of artificial intelligence agents based on large scale pre-trained models
+1	0	2025			. Lexicon: How China talks about ’agentic AI’
+1	0	2025			2025. Infrastructure for AI Agents
+1	0	2025			. What’s New In The 2025-11-25 MCP Authorization Spec
+1	0	2025			. Considerations for Achieving Crypto Agility: Strategies and Practices:
+1	0	2018			DancingPigsorExternalities?MeasuringtheRationalityofSecurityDecisions
+1	0	2015			Policy to Require Secure Connections across Federal Websites and Web Services
+1	0	2013			OneBadApple:BackwardsCompatibilityAttacksonState-of-the-Art Cryptography
+1	0	2013			TransitionfromIPv4toIPv6:AState-of-the-ArtSurvey
+1	0	1997			2025. A Survey of AI Agent Protocols. arXiv:2504.16716v3
+1	0	1992			A Cloudy Crystal Ball – Visions of the Future
+1	0	1988			Interview of Steve Crocker . Technical Report
+1	0	1987			The Origins of RFCs
+1	0				2025. Robustness in Large Language Models: A Survey of Mitigation Strategies and Evaluation Metrics
+1	0				2022. The Geopolitics of Digital Standards . Technical Report
+1	0				2025. An open-source protocol for AI agents to interact
+1	0				2026. AI Agents Under EU Law
+1	0				Autonomous AI Agents: Leveraging LLMs for Adaptive Decision-Making in Real-World Applications
+1	0				Understanding the Model Context Protocol (MCP)
+1	0				How to think about agent frameworks
+1	0				Prompt Engineering Guide
+1	0				From RAG to Multi-Agent Systems: A Survey of Modern Approaches in LLM Development
+1	0	2025			Breaking the scope of
+1	0	2025			Check Point Research
+1	0				Mcp supply chain advisory: Rce vulnerabilities across the ai ecosystem, April 2026
+1	0				A2a protocol security: Authenticating agent-to-agent communication
+1	0				BanklessAPI
+1	0				Mcp tool poisoning: An attack on the channel the model trusts most
+1	0				Three flaws in anthropic mcp git server enable file access and code execution
+1	0				Eip-7702: Set code for eoas
+1	0				Secure tool manifest and digital signing solution for verifiable mcp and llm pipelines
+1	0				Bybit
+1	0				strangelove ventures
+1	0				A reference architecture for ai agents on blockchain infrastructure: Identity, policy, payments, and custody as composable primitives
+1	0				demcp
+1	0				Agent auth: Why oauth wasn’t built for this
+1	0				First malicious mcp in the wild: The postmark backdoor that’s stealing your emails, September 2025
+1	0				x402: An open protocol for internet-native payments
+1	0				The attack surface of agentic
+1	0				Clawhavoc: 341 malicious clawedbot skills found by the bot they were targeting
+1	0				Endor Labs
+1	0				A2A (Agent2Agent) protocol
+1	0				Critical rce vulnerability
+1	0				Smithery – find, build and ship
+1	0				Simpleqa: Measuring short-form factual accuracy in large language models
+1	0				PulseMCP
+1	0				Data hiding: current trends, innovation and potential challenges
+1	0				MCP Market
+1	0				Openmcp – making api → mcp servers easy
+1	0				Vault: Verified access control for llm-based knowledge graph querying
+1	0				Glama ai – all-in-one ai workspace: upload, analyze, visualize
+1	0				Owasp top 10 for llm apps & gen ai agentic security initiative . PhD thesis
+1	0				Toolbench 2.0: Evaluating long-horizon and multi-step tool use in llms
+1	0				: Language model for
+1	0				protectai
+1	0				Artificial intelligence-assisted classification of library resources: The case of claude ai
+1	0				Context is key for agent security
+1	0				security notification: Tool poisoning attacks
+1	0				Trust-Authorization Mismatch in LLM Agent Interactions
+1	0				Anysphere
+1	0				Trail of Bits
+1	0				Github mcp exploited: Accessing private repositories via mcp
+1	0				is with the School of Artificial Intelligence, Shandong University, China
+1	0				with the School of Automation, Guangdong University of Technology, Guangzhou, China
+1	0				“AI agents for computer use: A review of instruction-based computer control, GUI automation, and operator assistants,”
+1	0				Siemens Introduces AI Agents for Industrial Automation
+1	0				“LangChain,”
+1	0				“AutoGPT,”
+1	0				Midea’s AI Agent Factory Sets New Standard in Manufacturing
+1	0				How AI Agents Are Governed Under the EU AI Act
+1	0				“BabyAGI,”
+1	0				Agent Network Protocol (ANP)
+1	0				Agora Protocol: Scalable and Reliable Communication Between Your Agents
+1	0	2024	2401.13649		VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks
+1	0	2025	2504.09736		Agentic Workflows for Economic Research: Design, Implementation, and Evaluation
+1	0		2312.11805		
+1	0	2024	2412.19437		DeepSeek-V3 Technical Report
+1	0	2025	2501.07913		Governing AI Agents
+1	0	2025			“Agent to agent protocol (A2A),”
+1	0	2024			“Pandora: Detailed LLM jailbreaking via collaborated phishing agents with decomposed reasoning,”
+1	0				ACTIONS ON N ETWORKING
+1	0				“Agora protocol,”

@@ -1,0 +1,19 @@
+2407.07061 HTTP Error 429: 
+2509.09734 HTTP Error 429: 
+2506.13538 | ACM Transactions on Software Engineering and Methodology | 2025-06-16 | {'name': 'ACM Transactions on Software Engineering and Methodology'} | {'DBLP': 'journals/corr/abs-2506-13538', 'DOI': '10.48550/arXiv.2506.13538'}
+2502.14847 | Annual Meeting of the Association for Computational Linguistics | 2025-02-20 | {'name': 'ArXiv', 'volume': 'abs/2502.14847'} | {'DBLP': 'conf/acl/HeLD00025', 'DOI': '10.48550/arXiv.2502.14847'}
+2505.14590 HTTP Error 429: 
+2504.12757 HTTP Error 429: 
+2506.12104 | Neural Information Processing Systems | 2025-06-13 | {'name': 'ArXiv', 'volume': 'abs/2506.12104'} | {'DBLP': 'journals/corr/abs-2506-12104', 'DOI': '10.48550/arXiv.2506.12104'}
+2601.17549 HTTP Error 429: 
+2504.21034 HTTP Error 429: 
+2505.11154 HTTP Error 429: 
+2503.00061 | North American Chapter of the Association for Computational Linguistics | 2025-02-27 | {'pages': '7101-7117'} | {'DBLP': 'conf/naacl/ZhanFPK25', 'DOI': '10.48550/arXiv.2503.00061'}
+2511.23281 | The Web Conference | 2025-11-28 | {'name': 'Proceedings of the ACM Web Conference 2026'} | {'DBLP': 'journals/corr/abs-2511-23281', 'DOI': '10.1145/3774904.3792893'}
+2305.15334 | Neural Information Processing Systems | 2023-05-24 | {'name': 'ArXiv', 'volume': 'abs/2305.15334'} | {'DBLP': 'journals/corr/abs-2305-15334', 'DOI': '10.52202/079017-4020'}
+2407.07061 | ('International Conference on Learning Representations', {'name': 'ArXiv', 'volume': 'abs/2407.07061'}, {'DBLP': 'journals/corr/abs-2407-07061', 'DOI': '10.48550/arXiv.2407.07061'})
+2509.09734 | ('AAAI Conference on Artificial Intelligence', {'pages': '30888-30896'}, {'DBLP': 'journals/corr/abs-2509-09734', 'DOI': '10.48550/arXiv.2509.09734'})
+2505.14590 | ('Conference on Empirical Methods in Natural Language Processing', {'pages': '1177-1194'}, {'DBLP': 'journals/corr/abs-2505-14590', 'DOI': '10.48550/arXiv.2505.14590'})
+2504.12757 | HTTP Error 429: 
+2504.21034 | HTTP Error 429: 
+2505.11154 | HTTP Error 429: 

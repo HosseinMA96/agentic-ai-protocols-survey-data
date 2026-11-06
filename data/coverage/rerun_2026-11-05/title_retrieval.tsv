@@ -1,0 +1,342 @@
+id	published	in_harvest	harvest_protocol_centric	cited	title
+2412.05888	2024-12-08	False		False	MCP-MedSAM: A Powerful Lightweight Medical Segment Anything Model Trained with a Single GPU in Just One Day
+2501.00539	2024-12-31	True	True	False	MCP-Solver: Integrating Language Models with Constraint Programming Systems
+2502.07195	2025-02-11	False		False	First experimental proof of PET imaging based on multi-anode MCP-PMTs with Cherenkov radiator-integrated window
+2502.10775	2025-02-15	False		False	Towards Cloud-Native Agentic Protocol Learning for Conflict-Free 6G: A Case Study on Inter-Slice Resource Allocation
+2503.23278	2025-03-30	True	True	False	Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions
+2504.03767	2025-04-02	True	True	True	MCP Safety Audit: LLMs with the Model Context Protocol Allow Major Security Exploits
+2504.08623	2025-04-11	True	True	True	Enterprise-Grade Security for the Model Context Protocol (MCP): Frameworks and Mitigation Strategies
+2504.08999	2025-04-11	True	True	False	MCP Bridge: A Lightweight, LLM-Agnostic RESTful Proxy for Model Context Protocol Servers
+2504.11094	2025-04-15	True	True	False	Evaluation Report on MCP Servers
+2504.12757	2025-04-17	True	True	True	MCP Guardian: A Security-First Layer for Safeguarding MCP-Based AI System
+2504.16736	2025-04-23	True	True	True	A Survey of AI Agent Protocols
+2504.16902	2025-04-23	True	True	False	Building A Secure Agentic AI Application Leveraging A2A Protocol
+2504.21030	2025-04-26	True	True	True	Advancing Multi-Agent Systems Through Model Context Protocol: Architecture, Implementation, and Applications
+2504.19997	2025-04-28	True	True	True	Simplified and Secure MCP Gateways for Enterprise AI Integration
+2505.01151	2025-05-02	False		False	On the rectifiability of $\mathsf{CD}(K,N)$ and $\mathsf{MCP}(K,N)$ spaces with unique tangents
+2505.01834	2025-05-03	True	True	False	Model Context Protocol-based Internet of Experts For Wireless Environment-aware LLM Agents
+2505.02279	2025-05-04	True	True	True	A survey of agent interoperability protocols: Model Context Protocol (MCP), Agent Communication Protocol (ACP), Agent-to-Agent Protocol (A2A), and Agent Network Protocol (ANP)
+2505.03275	2025-05-06	True	True	False	RAG-MCP: Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation
+2505.03864	2025-05-06	True	True	True	From Glue-Code to Protocols: A Critical Analysis of A2A and MCP Integration for Scalable Agent Systems
+2505.06416	2025-05-09	True	True	True	ScaleMCP: Dynamic and Auto-Synchronizing Model Context Protocol Tools for LLM Agents
+2505.07064	2025-05-11	True	True	False	ParaView-MCP: An Autonomous Visualization Agent with Direct Tool Use
+2506.11019	2025-05-14	True	True	False	Mind the Metrics: Patterns for Telemetry-Aware In-IDE AI Application Development using the Model Context Protocol (MCP)
+2505.11154	2025-05-16	True	True	True	MPMA: Preference Manipulation Attack Against Model Context Protocol
+2505.11270	2025-05-16	True	True	False	TAIJI: MCP-based Multi-Modal Data Analytics on Data Lakes
+2505.12490	2025-05-18	True	True	True	Improving Google A2A Protocol: Protecting Sensitive Data and Mitigating Unintended Harms in Multi-Agent Systems
+2505.14590	2025-05-20	True	True	True	MCIP: Protecting MCP Safety via Model Contextual Integrity Protocol
+2505.16700	2025-05-22	True	True	True	MCP-RADAR: A Multi-Dimensional Benchmark for Evaluating Tool Use Capabilities in Large Language Models
+2505.18829	2025-05-24	True	True	False	LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS
+2505.19339	2025-05-25	True	True	False	Towards Humanoid Robot Autonomy: A Dynamic Architecture Integrating Continuous thought Machines (CTM) and Model Context Protocol (MCP)
+2506.05364	2025-05-26	True	True	True	Survey of LLM Agent Communication with MCP: A Software Design Pattern Centric Review
+2505.23634	2025-05-29	True	True	True	MCP Safety Training: Learning to Refuse Falsely Benign MCP Exploits using Improved Preference Alignment
+2506.00274	2025-05-30	True	True	False	Chances and Challenges of the Model Context Protocol in Digital Forensics and Incident Response
+2506.02040	2025-05-31	True	True	False	Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol (MCP) Ecosystem
+2506.01056	2025-06-01	True	True	True	MCP-Zero: Active Tool Discovery for Autonomous LLM Agents
+2506.01333	2025-06-02	True	True	True	ETDI: Mitigating Tool Squatting and Rug Pull Attacks in Model Context Protocol (MCP) by using OAuth-Enhanced Tool Definitions and Policy-Based Access Control
+2506.01804	2025-06-02	True	True	False	A Study on the MCP x A2A Framework for Enhancing Interoperability of LLM-based Autonomous Agents
+2506.03548	2025-06-04	False		False	SUMO-MCP: Leveraging the Model Context Protocol for Autonomous Traffic Simulation and Optimization
+2506.11180	2025-06-12	True	True	False	Beyond Formal Semantics for Capabilities and Skills: Model Context Protocol in Manufacturing
+2506.10853	2025-06-12	True	True	False	A Study on Individual Spatiotemporal Activity Generation Method Using MCP-Enhanced Chain-of-Thought Large Language Models
+2506.10925	2025-06-12	True	True	False	Agentic Semantic Control for Autonomous Wireless Space Networks: Extending Space-O-RAN with MCP-Driven Distributed Intelligence
+2506.13800	2025-06-13	True	True	False	Enhancing Clinical Decision Support and EHR Insights through LLMs and the Model Context Protocol: An Open-Source MCP-FHIR Framework
+2506.12470	2025-06-14	False		False	Study on the Impact of Radioactive Background on the Dark Count Rate of 20-inch MCP-PMTs
+2506.13068	2025-06-16	True	True	False	Towards the Autonomous Optimization of Urban Logistics: Training Generative AI with Scientific Tools via Agentic Digital Twins and Model Context Protocol
+2506.13538	2025-06-16	True	True	True	Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers
+2506.13666	2025-06-16	True	True	True	We Should Identify and Mitigate Third-Party Safety Risks in MCP-Powered Agent Systems
+2506.14728	2025-06-17	True	True	False	AgentDistill: Training-Free Agent Distillation with Generalizable MCP Boxes
+2506.19676	2025-06-24	False		True	A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense Countermeasures
+2506.23474	2025-06-30	True	True	True	A Large-Scale Evolvable Dataset for Model Context Protocol Ecosystem and Security Analysis
+2507.06250	2025-07-05	True	True	True	We Urgently Need Privilege Management in MCP: A Measurement of API Usage in MCP Ecosystems
+2507.21105	2025-07-08	True	True	False	AgentMaster: A Multi-Agent Conversational Framework Using A2A and MCP Protocols for Multimodal Information Retrieval and Analysis
+2507.08055	2025-07-10	True	True	False	MCPmed: A Call for MCP-Enabled Bioinformatics Web Services for LLM-Driven Discovery
+2507.08065	2025-07-10	True	True	False	Multi-Scale Network Dynamics and Systemic Risk: A Model Context Protocol Approach to Financial Markets
+2507.12806	2025-07-17	True	True	False	MCPEval: Automatic MCP-based Deep Evaluation for AI Agent Models
+2507.16044	2025-07-21	True	True	True	From REST to MCP: An Empirical Study of API Wrapping and Automated Server Generation for LLM Agents
+2507.19550	2025-07-24	True	True	False	Towards Multi-Agent Economies: Enhancing the A2A Protocol with Ledger-Anchored Identities and x402 Micropayments for AI Agents
+2507.19570	2025-07-25	True	True	False	MCP4EDA: LLM-Powered Model Context Protocol RTL-to-GDSII Automation with Backend Aware Synthesis Optimization
+2507.19880	2025-07-26	True	True	False	Trivial Trojans: How Minimal MCP Servers Enable Cross-Tool Exfiltration of Sensitive Data
+2508.01780	2025-08-03	True	True	True	LiveMCPBench: Can Agents Navigate an Ocean of MCP Tools?
+2508.01805	2025-08-03	True	True	False	M3LLM: Model Context Protocol-aided Mixture of Vision Experts For Multimodal LLMs in Networks
+2508.06418	2025-08-08	True	True	False	Quantifying Conversation Drift in MCP via Latent Polytope
+2508.07035	2025-08-09	True	True	False	VASPilot: MCP-Facilitated Multi-Agent Intelligence for Autonomous VASP Simulations
+2508.07575	2025-08-11	True	True	True	MCPToolBench++: A Large Scale AI Agent Model Context Protocol MCP Tool Use Benchmark
+2508.07602	2025-08-11	False		False	HGMF: A Hierarchical Gaussian Mixture Framework for Scalable Tool Invocation within the Model Context Protocol
+2508.10143	2025-08-13	True	True	False	MCP-Orchestrated Multi-Agent System for Automated Disinformation Detection
+2508.10277	2025-08-14	True	True	False	MCP-Enabled LLM for Meta-optics Inverse Design: Leveraging Differentiable Solver without LLM Expertise
+2508.10991	2025-08-14	True	True	True	MCP-Guard: A Multi-Stage Defense-in-Depth Framework for Securing Model Context Protocol in Agentic AI
+2508.13220	2025-08-17	True	True	True	MCPSecBench: A Systematic Security Benchmark and Playground for Testing Model Context Protocols
+2508.15819	2025-08-17	True	True	True	Agent Communications toward Agentic AI at Edge -- A Case Study of the Agent2Agent Protocol
+2508.12538	2025-08-18	True	True	False	MCPXKIT: The Unified Toolkit for Analyzing Model Context Protocol Security
+2508.12566	2025-08-18	True	True	True	Help or Hurdle? Rethinking Model Context Protocol-Augmented Large Language Models
+2508.14925	2025-08-19	True	True	False	MCPTox: A Benchmark for Tool Poisoning Attack on Real-World MCP Servers
+2508.13774	2025-08-19	True	True	False	Agentic DraCor and the Art of Docstring Engineering: Evaluating MCP-empowered LLM Usage of the DraCor API
+2508.14704	2025-08-20	True	True	True	MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers
+2508.15760	2025-08-21	True	True	False	LiveMCP-101: Stress Testing and Diagnosing MCP-enabled Agents on Challenging Queries
+2508.17068	2025-08-23	False		False	Anemoi: A Semi-Centralized Multi-agent System Based on Agent-to-Agent Communication MCP server from Coral Protocol
+2508.18489	2025-08-25	True	True	False	Experiences with Model Context Protocol Servers for Science and High Performance Computing
+2508.19239	2025-08-26	True	True	False	Model Context Protocols in Adaptive Transport Systems: A Survey
+2508.20453	2025-08-28	True	True	True	MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers
+2509.03828	2025-09-04	True	True	False	An Agentic Model Context Protocol Framework for Medical Concept Standardization
+2509.05941	2025-09-07	True	True	False	Code2MCP: Transforming Code Repositories into MCP Services
+2509.06572	2025-09-08	True	True	True	Parasites in the Toolchain: A Large-Scale Analysis of Attacks on the MCP Ecosystem
+2509.07595	2025-09-09	True	True	False	AgentX: Towards Orchestrating Robust Agentic Workflow Patterns with FaaS-hosted MCP Services
+2509.09734	2025-09-10	True	True	True	MCP-AgentBench: Evaluating Real-World Language Agent Performance with MCP-Mediated Tools
+2509.15957	2025-09-19	True	True	False	EHR-MCP: Real-world Evaluation of Clinical Information Retrieval by Large Language Models via Model Context Protocol
+2509.16597	2025-09-20	False		False	MCP: A Control-Theoretic Orchestration Framework for Synergistic Efficiency and Interpretability in Multimodal Large Language Models
+2509.20386	2025-09-22	False		False	Dynamic ReAct: Scalable Tool Selection for Large-Scale MCP Environments
+2510.01260	2025-09-25	True	True	False	IoT-MCP: Bridging LLMs and IoT Systems Through Model Context Protocol
+2509.21011	2025-09-25	True	True	True	Automatic Red Teaming LLM-based Agents with Model Context Protocol Tools
+2510.02325	2025-09-25	True	True	False	Agentic-AI Healthcare: Multilingual, Privacy-First Framework with MCP Agents
+2510.13821	2025-09-26	True	True	False	LLM Agent Communication Protocol (LACP) Requires Urgent Standardization: A Telecom-Inspired Protocol is Necessary
+2509.22814	2025-09-26	True	True	False	Model Context Protocol for Vision Systems: Audit, Security, and Protocol Extensions
+2509.24002	2025-09-28	False		True	MCPMark: A Benchmark for Stress-Testing Realistic and Comprehensive MCP Use
+2509.24272	2025-09-29	True	True	True	When MCP Servers Attack: Taxonomy, Feasibility, and Mitigation
+2509.25292	2025-09-29	True	True	True	A Measurement Study of Model Context Protocol Ecosystem
+2510.01179	2025-10-01	True	True	False	TOUCAN: Synthesizing 1.5M Tool-Agentic Data from Real-World MCP Environments
+2510.01780	2025-10-02	True	True	False	Secure Multi-Modal Data Fusion in Federated Digital Health Systems via MCP
+2510.02139	2025-10-02	True	True	False	BioinfoMCP: A Unified Platform Enabling MCP Interfaces in Agentic Bioinformatics
+2510.04536	2025-10-06	True	True	False	3Dify: a Framework for Procedural 3D-CG Generation Assisted by LLMs Using MCP and RAG
+2510.05968	2025-10-07	True	True	False	Extending ResourceLink: Patterns for Large Dataset Processing in MCP Applications
+2510.13825	2025-10-08	False		True	A2AS: Agentic AI Runtime Security and Self-Defense
+2510.10890	2025-10-13	True	True	False	LLM$\times$MapReduce-V3: Enabling Interactive In-Depth Survey Generation through a MCP-Driven Hierarchically Modular Agent System
+2510.15994	2025-10-14	True	True	True	MCP Security Bench (MSB): Benchmarking Attacks Against Model Context Protocol in LLM Agents
+2510.13467	2025-10-15	True	True	False	NetMCP: Network-Aware Model Context Protocol Platform for LLM Capability Extension
+2510.14537	2025-10-16	True	True	True	JSPLIT: A Taxonomy-based Solution for Prompt Bloating in Model Context Protocol
+2510.16558	2025-10-18	True	True	True	A First Look at the Security Issues in the Model Context Protocol Ecosystem
+2511.07426	2025-10-20	True	True	False	Network and Systems Performance Characterization of MCP-Enabled LLM Agents
+2510.19856	2025-10-21	True	True	False	Model Context Contracts - MCP-Enabled Framework to Integrate LLMs With Blockchain Smart Contracts
+2510.19423	2025-10-22	True	True	True	ETOM: A Five-Level Benchmark for Evaluating Tool Orchestration within the MCP Ecosystem
+2510.23673	2025-10-27	True	True	True	MCPGuard : Automatically Detecting Vulnerabilities in MCP Servers
+2510.24284	2025-10-28	False		False	MCP-Flow: Facilitating LLM Agents to Master Real-World, Diverse and Scaling MCP Tools
+2510.24563	2025-10-28	True	True	True	OSWorld-MCP: Benchmarking MCP Tool Invocation In Computer-Use Agents
+2511.03434	2025-11-05	True	True	True	Inter-Agent Trust Models: A Comparative Study of Brief, Claim, Proof, Stake, Reputation and Constraint in Agentic Web Protocol Design-A2A, AP2, ERC-8004, and Beyond
+2511.03497	2025-11-05	True	True	False	ROSBag MCP Server: Analyzing Robot Data with LLMs for Agentic Embodied AI Applications
+2511.03706	2025-11-05	True	True	False	LLM-enhanced Air Quality Monitoring Interface via Model Context Protocol
+2511.05867	2025-11-08	True	True	False	Can LLM Infer Risk Information From MCP Server System Logs?
+2511.15998	2025-11-20	True	True	False	Hiding in the AI Traffic: Abusing MCP for LLM-Powered Agentic Red Teaming
+2511.20920	2025-11-25	True	True	True	Securing the Model Context Protocol (MCP): Risks, Controls, and Governance
+2511.23281	2025-11-28	True	True	True	MCP vs RAG vs NLWeb vs HTML: A Comparison of the Effectiveness and Efficiency of Different Agent Interfaces to the Web (Technical Report)
+2512.03775	2025-12-03	True	True	True	"MCP Does Not Stand for Misuse Cryptography Protocol": Uncovering Cryptographic Misuse in Model Context Protocol at Scale
+2512.03955	2025-12-03	True	True	False	Benchmark for Planning and Control with Large Language Model Agents: Blocksworld with Model Context Protocol
+2512.05365	2025-12-05	True	True	False	MCP-AI: Protocol-Driven Intelligence Framework for Autonomous Reasoning in Healthcare
+2512.06556	2025-12-06	True	True	True	Semantic Attacks on Tool-Augmented LLMs: Securing the Model Context Protocol Against Descriptor-Level Manipulation
+2512.07917	2025-12-08	True	True	False	CFD-copilot: leveraging domain-adapted large language model and model context protocol to enhance simulation automation
+2512.08290	2025-12-09	True	True	False	Systematization of Knowledge: Security and Safety in the Model Context Protocol Ecosystem
+2512.14737	2025-12-11	True	True	False	Zero-Knowledge Audit for Internet of Agents: Privacy-Preserving Communication Verification with Model Context Protocol
+2512.14166	2025-12-16	True	True	True	IntentMiner: Intent Inversion Attack via Tool Call Analysis in the Model Context Protocol
+2512.15144	2025-12-17	True	True	True	MCPZoo: A Large-Scale Dataset of Runnable Model Context Protocol Servers for AI Agent
+2512.15163	2025-12-17	True	True	True	MCP-SafetyBench: A Benchmark for Safety Evaluation of Large Language Models with Real-World MCP Servers
+2512.15813	2025-12-17	False		False	CodeMem: Architecting Reproducible Agents via Dynamic MCP and Procedural Memory
+2602.23367	2025-12-18	True	True	False	HumanMCP: A Human-Like Query Dataset for Evaluating MCP Tool Retrieval Performance
+2601.00809	2025-12-21	True	True	False	A Modular Reference Architecture for MCP-Servers Enabling Agentic BIM Interaction
+2512.19432	2025-12-22	True	True	False	MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments
+2512.20996	2025-12-24	False		False	TrafficSimAgent: A Hierarchical Agent Framework for Autonomous Traffic Simulation with MCP Control
+2512.24565	2025-12-31	True	True	True	MCPAgentBench: A Real-world Task Benchmark for Evaluating LLM Agent MCP Tool Use
+2601.01241	2026-01-03	True	True	True	MCP-SandboxScan: WASM-based Secure Execution and Runtime Analysis for MCP Tools
+2601.11595	2026-01-06	True	True	False	Enhancing Model Context Protocol (MCP) with Context-Aware Server Collaboration
+2601.07395	2026-01-12	True	True	True	MCP-ITP: An Automated Framework for Implicit Tool Poisoning in MCP
+2601.08276	2026-01-13	True	True	False	ACE-Router: Generalizing History-Aware Routing from MCP Tools to the Agent Web
+2601.08687	2026-01-13	True	True	False	Data Product MCP: Chat with your Enterprise Data
+2602.00019	2026-01-16	True	True	False	AutoBinder Agent: An MCP-Based Agent for End-to-End Protein Binder Design
+2603.06582	2026-01-20	True	True	False	Agentic SPARQL: Evaluating SPARQL-MCP-powered Intelligent Agents on the Federated KGQA Benchmark
+2601.15486	2026-01-21	True	True	False	An LLM-Agnostic, MAVLink-Based Drone Command and Control Interface and Agentic Harness Using the Model Context Protocol
+2601.17435	2026-01-24	False		False	Towards a Declarative Agentic Layer for Intelligent Agents in MCP-Based Server Ecosystems
+2601.17549	2026-01-24	True	True	True	Breaking the Protocol: Security Analysis of the Model Context Protocol Specification and Prompt Injection Vulnerabilities in Tool-Integrated LLM Agents
+2602.17675	2026-01-26	False		False	Mind the Boundary: Stabilizing Gemini Enterprise A2A via a Cloud Run Hub Across Projects and Accounts
+2601.22633	2026-01-30	True	True	False	MCP-Diag: A Deterministic, Protocol-Driven Architecture for AI-Native Network Diagnostics
+2601.22713	2026-01-30	False		False	Hybrid MCP-PMT characterisation on a testbeam with Cherenkov setup
+2601.23049	2026-01-30	True	True	False	MedMCP-Calc: Benchmarking LLMs for Realistic Medical Calculator Scenarios via MCP Integration
+2601.23132	2026-01-30	True	True	True	Verifiable Manifest Signing and Transparency Enforcement for Secure MCP-Based LLM Pipelines
+2602.00933	2026-01-31	True	True	True	MCP-Atlas: A Large-Scale Benchmark for Tool-Use Competency with Real MCP Servers
+2602.01129	2026-02-01	True	True	True	SMCP: Secure Model Context Protocol
+2602.01886	2026-02-02	False		False	Development and characterization of hybrid MCP-PMT with embedded Timepix4 ASIC used as pixelated anode
+2602.03580	2026-02-03	True	True	True	Don't believe everything you read: Understanding and Measuring MCP Behavior under Misleading Tool Descriptions
+2602.05740	2026-02-05	False		False	Busemann and MCP
+2602.05877	2026-02-05	False		True	Agent2Agent Threats in Safety-Critical LLM Assistants: A Human-Centric Taxonomy
+2602.13320	2026-02-10	True	True	False	Information Fidelity in Tool-Using LLM Agents: A Martingale Analysis of the Model Context Protocol
+2602.15055	2026-02-11	True	True	False	Beyond Context Sharing: A Unified Agent Communication Protocol (ACP) for Secure, Federated, and Autonomous Agent-to-Agent (A2A) Orchestration
+2602.11327	2026-02-11	True	True	False	Security Threat Modeling for Emerging AI-Agent Protocols: A Comparative Analysis of MCP, A2A, Agora, and ANP
+2602.12953	2026-02-13	True	True	False	Human Tool: An MCP-Style Framework for Human-Agent Collaboration
+2602.14281	2026-02-15	True	True	True	MCPShield: A Security Cognition Layer for Adaptive Trust Calibration in Model Context Protocol Agents
+2602.14798	2026-02-16	False		False	Overthinking Loops in Agents: A Structural Risk via MCP Tools
+2602.14878	2026-02-16	True	True	True	Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions
+2602.15945	2026-02-17	True	True	True	From Tool Orchestration to Code Execution: A Study of MCP Design Choices
+2602.18764	2026-02-21	True	True	False	The Convergence of Schema-Guided Dialogue Systems and the Model Context Protocol
+2602.18914	2026-02-21	True	True	False	From Docs to Descriptions: Smell-Aware Evaluation of MCP Server Descriptions
+2603.00123	2026-02-23	True	True	False	CT-Flow: Orchestrating CT Interpretation Workflow with Model Context Protocol Servers
+2603.05637	2026-03-05	True	True	False	Real Faults in Model Context Protocol (MCP) Software: a Comprehensive Taxonomy
+2603.07473	2026-03-08	True	True	True	Give Them an Inch and They Will Take a Mile:Understanding and Measuring Caller Identity Confusion in MCP-Based AI Systems
+2603.09049	2026-03-10	False		False	EPOCH: An Agentic Protocol for Multi-Round System Optimization
+2603.10163	2026-03-10	True	True	True	Compatibility at a Cost: Systematic Discovery and Exploitation of MCP Clause-Compliance Vulnerabilities
+2603.10194	2026-03-10	True	True	False	MCP-in-SoS: Risk assessment framework for open-source MCP servers
+2603.13417	2026-03-12	True	True	True	Bridging Protocol and Production: Design Patterns for Deploying AI Agents with Model Context Protocol
+2605.00827	2026-03-13	True	True	False	Separating Intelligence from Execution: A Workflow Engine for the Model Context Protocol
+2603.18063	2026-03-18	True	True	True	MCP-38: A Comprehensive Threat Taxonomy for Model Context Protocol Systems (v1.0)
+2603.17339	2026-03-18	False		False	citecheck: An MCP Server for Automated Bibliographic Verification and Repair in Scholarly Manuscripts
+2603.20313	2026-03-19	True	True	False	Semantic Tool Discovery for Large Language Models: A Vector-Based Approach to MCP Tool Selection
+2603.20316	2026-03-19	True	True	False	Bypassing Document Ingestion: An MCP Approach to Financial Q&A
+2603.20405	2026-03-20	True	True	False	Putnam 2025 Problems in Rocq using Opus 4.6 and Rocq-MCP
+2603.21641	2026-03-23	True	True	False	Auditing MCP Servers for Over-Privileged Tool Capabilities
+2603.22489	2026-03-23	True	True	True	Model Context Protocol Threat Modeling and Analyzing Vulnerabilities to Prompt Injection with Tool Poisoning
+2603.22823	2026-03-24	False		False	Empirical Comparison of Agent Communication Protocols for Task Orchestration
+2603.23330	2026-03-24	False		False	Can NR-V2X Sidelink support A2A links?
+2603.23801	2026-03-25	True	True	True	AgentRFC: Security Design Principles and Conformance Testing for Agent Protocols
+2603.23802	2026-03-25	True	True	True	How are AI agents used? Evidence from 177,000 MCP tools
+2603.24203	2026-03-25	True	True	True	Invisible Threats from Model Context Protocol: Generating Stealthy Injection Payload via Tree-based Adaptive Search
+2603.24703	2026-03-25	True	True	False	IndustriConnect: MCP Adapters and Mock-First Evaluation for AI-Assisted Industrial Operations
+2603.24775	2026-03-25	True	True	True	AIP: Agent Identity Protocol for Verifiable Delegation Across MCP and A2A
+2603.24943	2026-03-26	True	True	False	FinMCP-Bench: Benchmarking LLM Agents for Real-World Financial Tool Use under the Model Context Protocol
+2603.27277	2026-03-28	True	True	False	Codebase-Memory: Tree-Sitter-Based Knowledge Graphs for LLM Code Exploration via MCP
+2604.02369	2026-03-30	True	True	False	Beyond Message Passing: A Semantic View of Agent Communication Protocols
+2604.01532	2026-04-02	True	True	False	PHMForge: Evaluating LLM Agents on Industrial Prognostics through MCP-Native, Algorithm-Grounded Tools
+2604.01905	2026-04-02	True	True	False	From Component Manipulation to System Compromise: Understanding and Detecting Malicious MCP Servers
+2604.05969	2026-04-07	True	True	True	A Formal Security Framework for MCP-Based AI Agents: Threat Taxonomy, Verification Models, and Defense Mechanisms
+2604.07065	2026-04-08	True	True	False	Trust-as-a-Service: Intelligent Collaboration Orchestration via Model Context Protocol-Aided Agentic AI
+2604.07551	2026-04-08	True	True	True	MCP-DPT: A Defense-Placement Taxonomy and Coverage Analysis for Model Context Protocol Security
+2604.08318	2026-04-09	True	True	False	A Model Context Protocol Server for Quantum Execution in Hybrid Quantum-HPC Environments
+2604.09815	2026-04-10	True	True	False	EE-MCP: Self-Evolving MCP-GUI Agents via Automated Environment Generation and Experience Learning
+2604.10534	2026-04-12	True	True	False	Machine Learning-Based Detection of MCP Attacks
+2604.12213	2026-04-14	False		True	Modality-Native Routing in Agent-to-Agent Networks: A Multimodal A2A Protocol Extension
+2604.13849	2026-04-15	True	True	True	MCPThreatHive: Automated Threat Intelligence for Model Context Protocol Ecosystems
+2604.16524	2026-04-16	True	True	False	Anumati: Proof of Adherence as a Formal Consent Model for Autonomous Agent Protocols
+2604.15034	2026-04-16	False		False	Autogenesis: A Self-Evolving Agent Protocol
+2604.16870	2026-04-18	True	True	False	Governed MCP: Kernel-Level Tool Governance for AI Agents via Logit-Based Safety Primitives
+2604.17125	2026-04-18	True	True	False	Evaluating a Layered Prompt-Injection Defence for the Model Context Protocol: A Record-Level Audit of Decision Conventions, Corpus Provenance and Reproducibility
+2604.17234	2026-04-19	True	True	False	From Language to Action: Enhancing LLM Task Efficiency with Task-Aware MCP Server Recommendation
+2604.20994	2026-04-22	False		True	Breaking MCP with Function Hijacking Attacks: Novel Threats for Function Calling and Agentic Models
+2604.21477	2026-04-23	True	True	True	MCP Pitfall Lab: Exposing Developer Pitfalls in MCP Tool Server Security under Multi-Vector Attacks
+2604.21816	2026-04-23	True	True	False	Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows
+2604.27819	2026-04-30	False		False	MCPHunt: An Evaluation Framework for Cross-Boundary Data Propagation in Multi-Server MCP Agents
+2605.01567	2026-05-02	True	True	False	Feedback-Normalized Developer Memory for Reinforcement-Learning Coding Agents: A Safety-Gated MCP Architecture
+2605.05260	2026-05-06	False		False	SecureMCP: A Policy-Enforced LLM Data Access Framework for AIoT Systems via Model Context Protocol
+2605.07836	2026-05-08	True	True	True	Unsafe by Flow: Uncovering Bidirectional Data-Flow Risks in MCP Ecosystem
+2605.09131	2026-05-09	True	True	False	MCP-Cosmos: World Model-Augmented Agents for Complex Task Execution in MCP Environments
+2605.11217	2026-05-11	True	True	False	Training-Free Refusal of MCP Exploits via Retrieval-Augmented Generation
+2605.11360	2026-05-12	True	True	True	Options, Not Clicks: Lattice Refinement for Consent-Driven MCP Authorization
+2605.15227	2026-05-13	True	True	False	NIMO Controller: a self-driving laboratory orchestrator based on the Model Context Protocol
+2605.17891	2026-05-18	False		False	Explainable Machine Learning for Phishing Detection on Heterogeneous Datasets with MCP-Enabled Deployment
+2605.18414	2026-05-18	False		False	Prompts Don't Protect: Architectural Enforcement via MCP Proxy for LLM Tool Access Control
+2605.21392	2026-05-20	True	True	True	VIPER-MCP: Detecting and Exploiting Taint-Style Vulnerabilities in Model Context Protocol Servers
+2605.22333	2026-05-21	True	True	True	A First Measurement Study on Authentication Security in Real-World Remote MCP Servers
+2605.22733	2026-05-21	False		False	HarnessAPI: A Skill-First Framework for Unified Streaming APIs and MCP Tools
+2605.24069	2026-05-22	True	True	True	When the Manual Lies: A Realistic Benchmark to Evaluate MCP Poisoning Attacks for LLM Agents
+2605.24248	2026-05-22	True	True	True	Attested Tool-Server Admission: A Security Extension to the Model Context Protocol
+2605.27850	2026-05-27	False		False	TCP-MCP: Landscape-Guided Co-Evolution of Prompts and Communication Topologies for Multi-Agent Systems
+2605.28148	2026-05-27	True	True	False	DeltaMCP: Incremental Regeneration via Spec-Aware Transformation for MCP servers
+2605.30283	2026-05-28	True	True	False	mcp-proto-okn: Natural-language access to open scientific knowledge graphs through the Model Context Protocol
+2606.02470	2026-06-01	True	True	False	MCP-Persona: Benchmarking LLM Agents on Real-World Personal Applications via Environment Simulation
+2606.04494	2026-06-03	False		False	Beyond Prompt-Based Planning: MCP-Native Graph Planning-based Biomedical Agent System
+2606.04769	2026-06-03	True	True	True	Description-Code Inconsistency in Real-world MCP Servers: Measurement, Detection, and Security Implications
+2606.05339	2026-06-03	True	True	True	A Taxonomy of Runtime Faults in Model Context Protocol Servers
+2606.06545	2026-06-04	True	True	False	Queen-Bee Agents: A BeeSpec-Centered Architecture for Governed Enterprise MCP Orchestration
+2606.07200	2026-06-05	True	True	False	Learning Multi-Agent Communication Protocol: Study on Information Entropy Efficiency in MARL
+2606.07866	2026-06-05	False		False	Overcoming the Regulatory Bottleneck via Agent-to-Agent Protocols: A Nuclear Case Study
+2606.09182	2026-06-08	True	True	True	Understanding How Enterprises Adopt the Model Context Protocol for LLM-Driven Software Engineering
+2606.09751	2026-06-08	True	True	True	Collaborative Human-Agent Protocol (CHAP)
+2606.18037	2026-06-16	True	True	False	ProvenanceGuard: Source-Aware Factuality Verification for MCP-Based LLM Agents
+2606.19135	2026-06-17	True	True	False	A Technical Taxonomy of LLM Agent Communication Protocols
+2606.19167	2026-06-17	True	True	False	Teaching Software Engineering with LLM and MCP Integration: From Classroom to Industry Practice
+2606.21338	2026-06-19	True	True	True	"What Happens Locally, Leaks Globally": Detecting Privacy Leakage Risks in MCP Servers
+2606.27027	2026-06-25	True	True	True	ShareLock: A Stealthy Multi-Tool Threshold Poisoning Attack Against MCP
+2606.28690	2026-06-27	True	True	True	Formal Security Analysis of Agent Protocol Composition
+2606.28841	2026-06-27	True	True	False	LAMP: Lean-based Agentic framework with MCP and Proof Repair
+2606.29073	2026-06-27	True	True	True	From Tool Connection to Execution Control: Benchmarking Security Invariants in MCP-Style Agent Runtimes
+2606.30317	2026-06-29	True	True	False	MCP Server Architecture Patterns for LLM-Integrated Applications
+2606.31498	2026-06-30	True	True	True	Governance Gaps in Agent Interoperability Protocols: What MCP, A2A, and ACP Cannot Express
+2607.03946	2026-07-04	True	True	False	A Model Context Protocol Server for Astrophysical RAG: Unified Access to HI, Dwarf, Globular Cluster, IntZ, and ALPINE Kinematic Corpora with FAISS Semantic Search
+2607.05744	2026-07-07	True	True	True	Unicode TAG-Block Concealment of Tool-Metadata Payloads in the Model Context Protocol: An Approval-View Fidelity Gap Across Three Independent Server Implementations
+2607.05958	2026-07-07	False		False	Agentic AI for IPoDWDM Network Lifecycle Automation: An MCP-Enabled Architecture
+2607.05975	2026-07-07	False		False	MCP-Enabled Agentic AI for Autonomous IPoDWDM Network Lifecycle Automation
+2607.07461	2026-07-08	True	True	True	Mitigating Taint-Style Vulnerabilities in MCP Servers via Security-Aware Tool Descriptions
+2607.08288	2026-07-09	False		False	From Legacy Documentation to OSCAL: An MCP-Based Agent Pipeline for Threat-Informed Continuous Compliance in Critical Infrastructure
+2608.14613	2026-07-10	True	True	False	Do LLM Agents Negotiate Rationally? A Mechanism-Design Framework for Verifiable Multi-Agent Interaction over A2A/MCP
+2607.20531	2026-07-10	True	True	True	DynamicMCPBench: A Trace-Grounded, Effect-Scored Benchmark for LLM Agents over Live MCP Servers
+2607.10123	2026-07-11	True	True	False	A Large-Scale Dataset of MCP Implementations on GitHub
+2608.24898	2026-07-13	True	True	False	MCP-Driven Accessibility Tree Standardization for AI-Powered Screen Reader Agents
+2607.11086	2026-07-13	True	True	True	Rethinking MCP Security: A Large-Scale Study of Runtime MCP Servers and Security Scanner Reliability
+2607.11098	2026-07-13	False		False	AgentCheck: A Reproduce-Intervene-Mitigate Workbench for LLM Agents over MCP
+2607.14158	2026-07-14	True	True	False	Orchestrating Power Grid Studies with Multi-Agent AI and MCP Servers
+2607.14642	2026-07-16	True	True	True	MCPEvol-Bench: Benchmarking LLM Agent Performance Across Dynamic Evolutions of MCP Servers
+2607.14754	2026-07-16	True	True	True	FlowGuard: From Signals to Evidence for MCP Security Detection
+2607.15593	2026-07-17	True	False	False	Scaling LLM Agent Tool Access: The MCP Gateway
+2607.17012	2026-07-19	True	True	False	Schema-Bound LLM Control of Scientific Instrumentation through Model Context Protocol Skills
+2607.19432	2026-07-20	True	True	True	ChainWatch: A Kill Chain-Aligned Sequential Detection Framework for Multi-Step Attacks in MCP-Based AI Agent Systems
+2607.21412	2026-07-23	False		False	Euclid-MCP: A Model Context Protocol Server for Deterministic Logical Reasoning via Prolog
+2607.23884	2026-07-26	True	True	True	A Comparative Study of MCP and A2A for Inter-Agent Coordination in LLM-Based Systems
+2610.22373	2026-07-27	True	True	False	Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides
+2607.24280	2026-07-27	True	True	False	From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search
+2607.25297	2026-07-28	True	True	True	Hybrid Analysis for Secure MCP Tool Use in LLM Agents
+2607.25635	2026-07-28	True	True	True	An Empirical Study of Model Context Protocol Applications
+2610.30157	2026-07-29	True	True	True	MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems
+2608.00150	2026-07-31	True	True	True	Exposed by Design: A Dynamic Security Assessment of Internet-Facing MCP Servers at Scale
+2608.00997	2026-08-02	True	True	True	Registry Descriptions Go Stale Unevenly: An 89-Day Measurement of Model Context Protocol Drift, and Why Drift-Ranked Re-Auditing Under-Covers It
+2608.03327	2026-08-04	False		False	Screenshots or Tools? Eliciting Tool Use and Managing Multimodal Context in Hybrid GUI-MCP Computer-Use Agents
+2608.06130	2026-08-06	False		False	Hardware Keystores for AI Agent Signing Workflows: A Zero-Trust MCP Enforcement Architecture
+2608.08467	2026-08-09	True	True	False	LLM within MCP Matters: Measuring Inefficient Resource Utilization Driven by LLMs
+2608.08654	2026-08-09	True	True	False	The Scaffolding Matters More Than the Interface: A Controlled Comparison of MCP and CLI Tool Use Across Seven Agent Scaffoldings, Five Language Models, and One Software Task
+2608.10760	2026-08-11	True	True	False	A Gateway Architecture for Enterprise MCP Authentication: Unifying Heterogeneous Auth, Identity Delegation, and the User / Non-User Persona Problem
+2610.30151	2026-08-12	True	True	True	The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols
+2611.03662	2026-08-12	False		False	MCPGuard: Finding Conformance Gaps in MCP SDKs via Dual-Track Analysis and Dynamic Adjudication
+2608.12880	2026-08-13	False		True	Labels Are Not Endpoints: Treatment Leakage and Construct Validity in MCP Agent Security Evaluation
+2608.21417	2026-08-13	True	True	False	Retrieval-grounded robot program generation and simulation-based correction via Model Context Protocol
+2608.17275	2026-08-18	True	True	True	When Agents Act on Web3: An Attack-Surface Survey of MCP, Skills, and Tool Calling
+2608.18351	2026-08-18	True	True	False	Task-Conditioned Least-Privilege Learning for Executable Terminal and MCP Agents
+2608.20481	2026-08-20	True	True	False	AEGIS: Preventing Cross-Domain Resource Abuse in MCP
+2608.22063	2026-08-22	True	True	False	From SQL Generation to Tool Selection: A Domain-Oriented Pattern for MCP Servers
+2608.22167	2026-08-23	True	True	False	MCP-Universe RL: A Framework for Training MCP Tool-Use Agents via Reinforcement Learning
+2608.23084	2026-08-24	False		False	ARGUS: MCP-Grounded Root Cause Analysis for Kubernetes Incidents
+2608.24944	2026-08-24	False		False	Secret MCP: Evidence-Bounded and Context-Isolated Design Specification Generation from Web Screenshots
+2608.23763	2026-08-24	True	True	True	TrustShiftProbe: Characterizing, Benchmarking, and Defending Staged Trust Attacks on MCP Servers
+2608.23992	2026-08-25	True	True	False	Hybrid Semantic Tool Discovery for Enterprise MCP Gateway: Architecture and Implementation
+2608.26199	2026-08-25	True	True	False	Benchmarking AI Agents for Hardware Design Automation via MCP Tool Calling
+2609.05496	2026-08-27	False		False	Orchestra: Corroboration-Based Regulatory Candidate Discovery via Composed Bioinformatics MCP Agents
+2609.00072	2026-08-31	False		False	Can MCP Clients Decide What to Do After Failure? A Result-Only Actionability Audit
+2609.00769	2026-09-01	False		False	A Compact Robotic Finger with 2-DoF MCP Joint Embedding DoF-Selective Passive Continuously Variable Transmission for Wide Force-Speed Operating Range
+2609.01693	2026-09-01	True	True	False	Public-Sharing Labels and Verbatim Field Egress in an MCP-to-A2A Agent Configuration: A Controlled Multi-Model Study
+2609.02690	2026-09-02	True	True	True	ACLE-MCP: Attested Capability Leases for Execution-Time Trust in Remote LLM Tool Use
+2609.06069	2026-09-05	False		False	Long-term performance of non-ALD MCP-PMTs in the high-radiation environment of ALICE
+2609.07370	2026-09-07	True	True	False	Beyond Fluent Generation: A CPU Reliability Benchmark for MCP-Style Tool Calling in Sub-2B Small Language Models for Edge Deployment
+2609.10854	2026-09-09	True	True	False	No-Box Vulnerability Analysis: Description-only Detection of Indirect Prompt Injection Vulnerabilities in MCP Servers
+2609.10871	2026-09-09	True	True	True	A2ABreak: Systematic Security Analysis of the A2A Protocol
+2609.10962	2026-09-10	True	True	True	What a Random Draw from the MCP Registry Contains, and What Tool-Use Benchmarks Contain Instead
+2609.14119	2026-09-12	True	True	True	Same Name, Different Server: A Security Census of Silent Drift in the Model Context Protocol Ecosystem
+2609.14721	2026-09-13	True	True	True	A Two-Dimensional Study of the Model Context Protocol: Publication and Adoption
+2609.18120	2026-09-16	True	True	False	PentestChain: A Cost-Aware, MCP-Orchestrated Framework for Automated Penetration Testing with Free-Tier LLMs
+2609.19091	2026-09-16	True	True	True	When Agents Look Like Beacons: NIDS Evasion by Model Context Protocol Traffic
+2609.19100	2026-09-16	True	True	True	Characterizing Network Centralization and Observability in the Remote MCP Ecosystem
+2610.00182	2026-09-17	True	True	False	Localizing Post-Wire Semantic Changes in MCP Agent Frameworks
+2609.22573	2026-09-18	True	True	True	Zero-Trust Authorization and Discovery for Enterprise MCP
+2609.23498	2026-09-20	False		True	Runtime Authorization Consistency Checking for MCP-based Agentic Workflows
+2609.24161	2026-09-21	False		True	MCP-GRANITE Benchmark: GRANularity Interface TEsting for MCP-Based LLM Agents
+2609.24620	2026-09-21	True	True	False	Ascent: An Agentic System over the Model Context Protocol for Real-World Clinical Data Analysis
+2609.26761	2026-09-22	True	True	True	A2M: Trace-Optimized Agent Hijacking in the MCP Ecosystem
+2609.27340	2026-09-23	True	True	False	Spatial and Semantic Reasoning for LLM-Driven Robot Navigation via MCP
+2609.30341	2026-09-24	True	True	False	Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol
+2609.30971	2026-09-25	True	True	False	SciHorizon-eLab: An Agentic Protocol-to-Task Compiler for Scalable Benchmarking of Scientific Embodied Agents
+2609.31358	2026-09-25	True	True	False	A Safety-Bounded SDC-to-MCP Gateway for Medical AI Agents
+2609.33731	2026-09-27	True	True	False	HTN Planning as a Coordination Layer for Multi-Server MCP Tool Orchestration
+2609.33914	2026-09-27	False		True	A2A-CaseVerify: Merkle-Linked Case-Evidence Verification for Cross-Organization A2A Workflows
+2609.33924	2026-09-27	True	True	True	A2A-ForensicTrace: Offline Verification of Tamper-Evident A2A Runtime Evidence
+2609.35381	2026-09-28	True	True	False	MCP Error Messages Written for Developers Hurt the Most Capable Agents Most
+2610.04053	2026-10-02	True	True	True	The Cost of a Hop: Benchmarking NLIP and A2A
+2610.04378	2026-10-03	True	True	True	COPEX: Benchmarking LLM Robustness to Adversarial Context Across Model Context Protocol (MCP) Layers
+2610.05319	2026-10-04	True	True	True	Understanding the Hierarchical Structure and Functional Landscape of the Model Context Protocol Ecosystem
+2610.14334	2026-10-09	True	True	False	Which Metadata Matters for LLM Tool Selection in MCP? Evidence from Controlled Factor-Level Interventions
+2610.14956	2026-10-10	True	True	False	MCPDisCo: Seesaw-Mitigated Tuning for MCP-Native Agents
+2610.15224	2026-10-10	True	True	False	Persistent LLM Orchestration of Heterogeneous Robot Teams via Partial Delegation to Multi-Agent Protocols
+2610.18298	2026-10-13	False		False	Output Discipline Sets the Floor: A Falsification-Guided, Model-Agnostic Agent Protocol for Auditable Hypothesis-Driven Decision Making
+2610.22301	2026-10-15	True	True	False	My Credentials, Please: Detecting Filesystem Capability Laundering in MCP Servers at Scale
+2610.22869	2026-10-16	False		False	MS-Eval: Benchmarking Sub-Agent Delegation and Orchestration in MCP-Intensive Working Scenarios
+2610.23449	2026-10-16	True	True	True	GatewayBench: Unified Capability and Security Evaluation Platform for MCP Gateways
+2610.26624	2026-10-19	True	True	True	From TCP/IP to MCP: Security and Governance Lessons from Internet Protocols for Agentic AI
+2610.28785	2026-10-20	True	True	False	Measure First, Then Allocate: Calibrated Rollout Budgets for MCP Agents in Reinforcement Learning
+2610.31974	2026-10-22	True	True	True	Agentic AI Defense: Decode-Time Provenance Binding for MCP
+2610.32555	2026-10-23	True	True	False	Tool-Calling LLM Agents Under Realistic MCP Faults: Scale Does Not Purchase Fault Tolerance
+2610.33198	2026-10-23	False		False	Deletion, Substitution, Repair and Transplant: Component Attribution in BARBICAN, a Layered Prompt-Injection Gateway for MCP
+2610.33633	2026-10-24	False		True	ProbeID: Verifying MCP Tool Identity for LLM Agents under Registry Drift
+2610.34298	2026-10-25	True	True	True	Matched Capabilities, Different Behaviors: A Controlled Study of MCP and CLI Interfaces for Language Agents
+2610.36108	2026-10-26	True	True	True	Log-To-Leak: Prompt Injection Attacks on Tool-Using LLM Agents via the Model Context Protocol
+2610.36221	2026-10-26	True	True	False	EREBOTS 4.0: A framework for conversational assistants with A2A agents and MCP tools
+2610.37127	2026-10-27	False		False	MCP-Net: Real-Time Coronary Perception Network and Topological Analysis for Robotic Guidewire Navigation
+2610.41479	2026-10-30	False		False	EvoMCP: Co-evolving MCP agents and training data

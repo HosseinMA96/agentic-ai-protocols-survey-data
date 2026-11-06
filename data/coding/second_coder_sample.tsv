@@ -1,0 +1,31 @@
+item	protocol	change	primary_dp_coder2	plane_coder2
+2025-03-26#4	MCP	Tool annotations (read-only, destructive, ...)		
+2025-03-26#7	MCP	completions capability declared explicitly		
+2025-06-18#2	MCP	Structured tool output		
+2025-06-18#6	MCP	Elicitation (server requests information from the user)		
+2025-06-18#10	MCP	_meta field on more interface types		
+2025-11-25#1	MCP	OpenID Connect Discovery for authorization servers		
+2025-11-25#3	MCP	Incremental scope consent via WWW-Authenticate		
+2025-11-25#5	MCP	Standards-based ElicitResult/EnumSchema		
+2025-11-25#16	MCP	Clarification of polling/resumption semantics for GET streams		
+2025-11-25#20	MCP	Request payloads decoupled into standalone parameter schemas		
+2025-11-25#21	MCP	Formal governance structure		
+2025-11-25#22	MCP	Community communication practices		
+2026-07-28#1	MCP	Protocol-level sessions and Mcp-Session-Id removed		
+2026-07-28#10	MCP	extensions field in client/server capabilities		
+2026-07-28#12	MCP	Deterministic tools/list order		
+2026-07-28#16	MCP	iss parameter (RFC 9207); clients must validate		
+2026-07-28#20	MCP	elicitation/complete notification and elicitationId removed		
+0.2-0.3#7	A2A	0.2.4: multiple transport announcement in Agent Card		
+0.2-0.3#8	A2A	0.2.5: required protocol version in Agent Card (breaking)		
+0.2-0.3#11	A2A	0.3.0: well-known URI renamed agent.json -> agent-card.json (breaking)		
+1.0#1	A2A	a2a.proto becomes the normative source		
+1.0#4	A2A	Versioning strategy; A2A-Version header negotiation		
+1.0#12	A2A	Extension versioning and requirements; A2A-Extensions header		
+1.0#13	A2A	Simplified identifiers		
+1.0#15	A2A	tenant field: one endpoint serves many agents		
+1.0#17	A2A	OAuth device authorization grant added		
+1.0#18	A2A	OAuth implicit and password flows removed		
+1.0#19	A2A	pkce_required on authorization-code flow		
+1.0#23	A2A	Unified Part type (text, raw, url, data)		
+1.0#24	A2A	Stream events wrapped; final flag removed; terminal state by stream closure		

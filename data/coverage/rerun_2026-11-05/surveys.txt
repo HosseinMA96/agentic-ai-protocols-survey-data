@@ -1,0 +1,16 @@
+2504.16736 yang2025survey
+2505.02279 ehtesham2025survey
+2506.19676 kong2025survey
+2503.23278 hou2026mcp
+2512.08290 gaire2026sok
+2511.19699 fleming2025layered
+2507.10644 petrova2025web
+2602.11327 anbiaee2026threat
+2603.23801 zheng2026agentrfc
+2610.26624 bucknall2026tcpip
+2506.05364 sarkar2025survey
+2608.17275 karanjai2026agents
+2512.06914 shi2025sok (coverage only; trust-authorization SoK, not a protocol survey)
+2505.07176 wang2026ioa (coverage only; Internet-of-Agents survey)
+2507.21206 yang2025agenticweb (coverage only; agentic-web survey)
+2505.08807 wang2025iosecurity (coverage only; IoA security survey)

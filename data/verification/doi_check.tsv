@@ -1,0 +1,58 @@
+key	doi	status	crossref_title	crossref_first_author	container	year
+anbiaee2026threat	10.1016/j.jisa.2026.104645	OK	Security threat modeling for emerging AI-agent protocols: A comparative analysis of MCP, A2A, agora, and ANP	Anbiaee	Journal of Information Security and Applications	2026
+bernerslee2001semantic	10.1038/scientificamerican0501-34	OK	The Semantic Web	Berners-Lee	Scientific American	2001
+bhatt2025etdi	10.1109/CARS67163.2025.11337310	OK	ETDI: Mitigating Tool Squatting and Rug Pull Attacks in Model Context Protocol (MCP) by Using OAuth-Enhanced Tool Definitions and Policy-Based Access Control	Bhatt	2025 Cyber Awareness and Research Symposium (CARS)	2025
+debenedetti2024agentdojo	10.52202/079017-2636	OK	AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents	Debenedetti	Advances in Neural Information Processing Systems 37	2024
+debenedetti2026camel	10.1109/SaTML68715.2026.00040	OK	Defeating Prompt Injections by Design	Debenedetti	2026 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)	2026
+dong2025etom	10.18653/v1/2026.findings-eacl.75	YEAR(2025->2026)	ETOM: A Five-Level Benchmark for Evaluating Tool Orchestration within the MCP Ecosystem	Dong	Findings of the Association for Computational Linguistics: EACL 2026	2026
+duan2025agent	10.1109/EdgeCom66327.2025.00032	OK	Agent Communications toward Agentic AI at Edge - A Case Study of the Agent2Agent Protocol	Duan	2025 IEEE 11th International Conference on Edge Computing and Scalable Cloud (EdgeCom)	2025
+fielding2002rest	10.1145/514183.514185	OK	Principled design of the modern Web architecture	Fielding	ACM Transactions on Internet Technology	2002
+finin1994kqml	10.1145/191246.191322	OK	KQML as an agent communication language	Finin	Proceedings of the third international conference on Information and knowledge management  - CIKM '94	1994
+gaire2027sok	10.1007/978-3-032-32726-0_29	OK	Systematization of Knowledge: Security and Safety in the Model Context Protocol Ecosystem	Gaire	Lecture Notes in Networks and Systems	2027
+genesereth1994software	10.1145/176789.176794	OK	Software agents	Genesereth	Communications of the ACM	1994
+greshake2023indirect	10.1145/3605764.3623985	OK	Not What You've Signed Up For: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection	Greshake	Proceedings of the 16th ACM Workshop on Artificial Intelligence and Security	2023
+guo2026mcpxkit	10.1109/TDSC.2026.3695553	OK	MCPXkit: The Unified Toolkit for Analyzing Model Context Protocol Security	Guo	IEEE Transactions on Dependable and Secure Computing	2026
+hasan2026smelly	10.1145/3858625	OK	Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions,	Hasan	ACM Transactions on Software Engineering and Methodology	2026
+he2025redteam	10.1109/TIFS.2026.3691201	YEAR(2025->2026)	Automatic Red Teaming LLM-Based Agents With Model Context Protocol Tools	He	IEEE Transactions on Information Forensics and Security	2026
+hou2026mcp	10.1145/3796519	OK	Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions	Hou	ACM Transactions on Software Engineering and Methodology	2026
+hu2026logtoleak	10.1145/3847320.3847399	OK	Log-To-Leak: Prompt Injection Attacks on Tool-Using LLM Agents via the Model Context Protocol	Hu	Proceedings of the 1st Workshop on Security, Privacy, and Safety of Agentic AI Systems	2026
+huang2025ans	10.1109/ICAIC67076.2026.11395757	YEAR(2025->2026)	Agent Name Service (ANS): A Universal Directory for Secure AI Agent Discovery and Interoperability	Huang	2026 IEEE 5th International Conference on AI in Cybersecurity (ICAIC)	2026
+jeong2025mcpa2a	10.13088/jiis.2025.31.3.141	NOT_FOUND				
+labrou1999acl	10.1109/5254.757631	OK	Agent communication languages: the current landscape	Labrou	IEEE Intelligent Systems	1999
+li2025first	10.1109/DSN69566.2026.00046	YEAR(2025->2026)	A First Look at the Security Issues in the Model Context Protocol Ecosystem	Li	2026 56th Annual IEEE International Conference on Dependable Systems and Networks (DSN)	2026
+li2025urgently	10.1109/MASS66014.2025.00090	OK	We Urgently Need Privilege Management in MCP: A Measurement of API Usage in MCP Ecosystems	Li	2025 IEEE 22nd International Conference on Mobile Ad-Hoc and Smart Systems (MASS)	2025
+lin2025largescale	10.1109/ASE63991.2025.00356	OK	A Large-Scale Evolvable Dataset for Model Context Protocol Ecosystem and Security Analysis	Lin	2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE)	2025
+liu2025acps	10.1109/IC-NIDC67200.2025.11390349	OK	ACPS: Agent Collaboration Protocols for the Internet of Agents	Li	2025 9th IEEE International Conference on Network Intelligence and Digital Content (IC-NIDC)	2025
+liu2026manual	10.1109/CSCWD68734.2026.11582512	OK	When the Manual Lies: A Realistic Benchmark to Evaluate MCP Poisoning Attacks for LLM Agents	Liu	2026 29th International Conference on Computer Supported Cooperative Work in Design (CSCWD)	2026
+louck2025improving	10.1145/3821216	YEAR(2025->2026)	Improving Google A2A Protocol: Protecting Sensitive Data and Mitigating Unintended Harms in Multi-Agent Systems	Louck	ACM Transactions on Software Engineering and Methodology	2026
+mo2025livemcpbench	10.1145/3770855.3817478	YEAR(2025->2026)	LiveMCPBench: Can Agents Navigate an Ocean of MCP Tools?	Mo	Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2	2026
+narajala2025enterprise	10.1109/ICAIC67076.2026.11395723	YEAR(2025->2026)	Enterprise-Grade Security for the Model Context Protocol (MCP): Frameworks and Mitigation Strategies	Narajala	2026 IEEE 5th International Conference on AI in Cybersecurity (ICAIC)	2026
+papazoglou2003soc	10.1145/944217.944233	TITLE_MISMATCH(0.44)	Introduction	Papazoglou	Communications of the ACM	2003
+patil2023gorilla	10.52202/079017-4020	YEAR(2023->2024)	Gorilla: Large Language Model Connected with Massive APIs	Patil	Advances in Neural Information Processing Systems 37	2024
+radosevich2025audit	10.1117/12.3097390	AUTHOR_MISMATCH YEAR(2025->2026)	MCP safety audit: LLMs with the model context protocol allow major security exploits	Halloran	Assurance and Security for AI-enabled Systems 2026	2026
+ranjan2025loka	10.1109/BCC63751.2025.11725761	OK	LOKA Protocol: A Decentralized Framework for Trustworthy and Ethical AI Agent Ecosystems	Ranjan	2025 IEEE Baja California Conference (BCC)	2025
+rfc6749	10.17487/RFC6749	OK	The OAuth 2.0 Authorization Framework			2012
+rfc7515	10.17487/RFC7515	OK	JSON Web Signature (JWS)	Jones		2015
+rfc7591	10.17487/RFC7591	AUTHOR_MISMATCH	OAuth 2.0 Dynamic Client Registration Protocol	Jones		2015
+rfc7636	10.17487/RFC7636	AUTHOR_MISMATCH	Proof Key for Code Exchange by OAuth Public Clients	Bradley		2015
+rfc8615	10.17487/RFC8615	OK	Well-Known Uniform Resource Identifiers (URIs)	Nottingham		2019
+rfc8628	10.17487/RFC8628	OK	OAuth 2.0 Device Authorization Grant	Denniss		2019
+rfc8707	10.17487/RFC8707	OK	Resource Indicators for OAuth 2.0	Campbell		2020
+rfc8785	10.17487/RFC8785	OK	JSON Canonicalization Scheme (JCS)	Rundgren		2020
+rfc9207	10.17487/RFC9207	OK	OAuth 2.0 Authorization Server Issuer Identification	Meyer zu Selhausen		2022
+rfc9728	10.17487/RFC9728	OK	OAuth 2.0 Protected Resource Metadata	Jones		2025
+saltzer1984endtoend	10.1145/357401.357402	OK	End-to-end arguments in system design	Saltzer	ACM Transactions on Computer Systems	1984
+singh1998acl	10.1109/2.735849	OK	Agent communication languages: rethinking the principles	Singh	Computer	1998
+smith1980contract	10.1109/TC.1980.1675516	OK	The Contract Net Protocol: High-Level Communication and Control in a Distributed Problem Solver	Smith	IEEE Transactions on Computers	1980
+song2026beyond	10.1109/TSE.2026.3694876	OK	Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol (MCP) Ecosystem	Song	IEEE Transactions on Software Engineering	2026
+steiner2025mcp	10.1145/3774904.3792893	NOT_FOUND				
+vaziry2025x402	10.1007/978-3-032-15632-7_25	TITLE_MISMATCH(0.73) YEAR(2025->2026)	Enhancing the A2A Protocol with Blockchain-Based Identities and x402 Micropayments for Agentic AI	Vaziry	Communications in Computer and Information Science	2026
+wang2024survey	10.1007/s11704-024-40231-1	OK	A survey on large language model based autonomous agents	Wang	Frontiers of Computer Science	2024
+wang2025agentspec	10.1145/3744916.3764546	YEAR(2025->2026)	AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents	Wang	Proceedings of the 2026 IEEE/ACM 48th International Conference on Software Engineering	2026
+wang2025iosecurity	10.1109/OJCS.2025.3589638	OK	Security of Internet of Agents: Attacks and Countermeasures	Wang	IEEE Open Journal of the Computer Society	2025
+wang2026ioa	10.1109/TCCN.2025.3623369	OK	Internet of Agents: Fundamentals, Applications, and Challenges	Wang	IEEE Transactions on Cognitive Communications and Networking	2026
+wang2026mcptox	10.1609/aaai.v40i42.40895	OK	MCPTox: A Benchmark for Tool Poisoning on Real-World MCP Servers	Wang	Proceedings of the AAAI Conference on Artificial Intelligence	2026
+wooldridge1995intelligent	10.1017/S0269888900008122	OK	Intelligent agents: theory and practice	Wooldridge	The Knowledge Engineering Review	1995
+xi2025rise	10.1007/s11432-024-4222-0	OK	The rise and potential of large language model based agents: a survey	Xi	Science China Information Sciences	2025
+xing2025mcpguard	10.18653/v1/2026.findings-acl.240	YEAR(2025->2026)	MCP-Guard: A Multi-Stage Defense-in-Depth Framework for Securing Model Context Protocol in Agentic AI	Xing	Findings of the Association for Computational Linguistics: ACL 2026	2026
+zhao2025parasites	10.1109/SP63933.2026.00154	YEAR(2025->2026)	Parasites in the Toolchain: A Large-Scale Analysis of Attacks on the MCP Ecosystem	Zhao	2026 IEEE Symposium on Security and Privacy (SP)	2026
