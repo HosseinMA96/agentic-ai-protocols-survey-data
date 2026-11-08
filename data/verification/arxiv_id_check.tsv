@@ -1,6 +1,7 @@
 abdelnabi2026always	2605.17634	OK	AI Agents May Always Fall for Prompt Injections	Abdelnabi, Sahar
 acharya2026formal	2604.05969	OK	A Formal Security Framework for MCP-Based AI Agents: Threat Taxonomy, Verification Models, and Defense Mechanisms	Acharya, Nirajan
 afsar2026random	2609.10962	OK	What a Random Draw from the MCP Registry Contains, and What Tool-Use Benchmarks Contain Instead	Afsar, Haseeb Mohammed
+ahmadi2025mcpbridge	2504.08999	OK	MCP Bridge: A Lightweight, LLM-Agnostic RESTful Proxy for Model Context Protocol Servers	Ahmadi, Arash
 ahmed2026labels	2608.12880	OK	Labels Are Not Endpoints: Treatment Leakage and Construct Validity in MCP Agent Security Evaluation	Ahmed, Rana Muhammad
 alshammari2026a2acaseverify	2609.33914	OK	A2A-CaseVerify: Merkle-Linked Case-Evidence Verification for Cross-Organization A2A Workflows	Alshammari, Adil
 alshammari2026forensic	2609.33924	OK	A2A-ForensicTrace: Offline Verification of Tamper-Evident A2A Runtime Evidence	Alshammari, Adil
@@ -24,6 +25,7 @@ chidambaram2026twodimensional	2609.14721	OK	A Two-Dimensional Study of the Model
 ding2026aclemcp	2609.02690	OK	ACLE-MCP: Attested Capability Leases for Execution-Time Trust in Remote LLM Tool Use	Ding, Zhiyang
 dong2025etom	2510.19423	OK	ETOM: A Five-Level Benchmark for Evaluating Tool Orchestration within the MCP Ecosystem	Dong, Jia-Kai
 du2025protocolbench	2510.17149	OK	ProtocolBench: Which LLM MultiAgent Protocol to Choose?	Du, Hongyi
+du2026mcpdisco	2610.14956	OK	MCPDisCo: Seesaw-Mitigated Tuning for MCP-Native Agents	Du, Kounianhua
 duan2025agent	2508.15819	OK	Agent Communications toward Agentic AI at Edge -- A Case Study of the Agent2Agent Protocol	Duan, Qiang
 ehtesham2025survey	2505.02279	OK	A survey of agent interoperability protocols: Model Context Protocol (MCP), Agent Communication Protocol (ACP), Agent-to-Agent Protocol (A2A), and Agent Network Protocol (ANP)	Ehtesham, Abul
 errico2025securing	2511.20920	OK	Securing the Model Context Protocol (MCP): Risks, Controls, and Governance	Errico, Herman
@@ -32,17 +34,20 @@ fang2025should	2506.13666	OK	We Should Identify and Mitigate Third-Party Safety 
 fei2025mcpzero	2506.01056	OK	MCP-Zero: Active Tool Discovery for Autonomous LLM Agents	Fei, Xiang
 felendler2026code	2602.15945	OK	From Tool Orchestration to Code Execution: A Study of MCP Design Choices	Felendler, Yuval
 fleming2025layered	2511.19699	OK	A Layered Protocol Architecture for the Internet of Agents	Fleming, Charles
+fu2025riskcue	2511.05867	OK	Can LLM Infer Risk Information From MCP Server System Logs?	Fu, Jiayi
 gao2025mcpradar	2505.16700	OK	MCP-RADAR: A Multi-Dimensional Benchmark for Evaluating Tool Use Capabilities in Large Language Models	Gao, Xuanqi
 goswami2025ajwt	2509.13597	OK	Agentic JWT: A Secure Delegation Protocol for Autonomous AI Agents	Goswami, Abhishek
 guo2025mcpagentbench	2509.09734	OK	MCP-AgentBench: Evaluating Real-World Language Agent Performance with MCP-Mediated Tools	Guo, Zikang
 guo2025measurement	2509.25292	OK	A Measurement Study of Model Context Protocol Ecosystem	Guo, Hechuan
 habler2025a2a	2504.16902	OK	Building A Secure Agentic AI Application Leveraging A2A Protocol	Habler, Idan
 halloran2025mcp	2505.23634	OK	MCP Safety Training: Learning to Refuse Falsely Benign MCP Exploits using Improved Preference Alignment	Halloran, John
+halloran2026ragpref	2605.11217	OK	Training-Free Refusal of MCP Exploits via Retrieval-Augmented Generation	Halloran, John T.
 hao2026mcp	2604.21477	OK	MCP Pitfall Lab: Exposing Developer Pitfalls in MCP Tool Server Security under Multi-Vector Attacks	Hao, Run
 hasan2025mcp	2506.13538	OK	Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers	Hasan, Mohammed Mehedi
 hasan2026smelly	2602.14878	OK	Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions	Hasan, Mohammed Mehedi
 he2025redteam	2509.21011	OK	Automatic Red Teaming LLM-based Agents with Model Context Protocol Tools	He, Ping
 he2025redteaming	2502.14847	OK	Red-Teaming LLM Multi-Agent Systems via Communication Attacks	He, Pengfei
+he2026eemcp	2604.09815	OK	EE-MCP: Self-Evolving MCP-GUI Agents via Automated Environment Generation and Experience Learning	He, Tiantian
 he2026hybrid	2607.25297	OK	Hybrid Analysis for Secure MCP Tool Use in LLM Agents	He, Ping
 hou2026smcp	2602.01129	OK	SMCP: Secure Model Context Protocol	Hou, Xinyi
 hou2026unsafe	2605.07836	OK	Unsafe by Flow: Uncovering Bidirectional Data-Flow Risks in MCP Ecosystem	Hou, Xinyi
@@ -82,6 +87,7 @@ lotfi2026a2abreak	2609.10871	OK	A2ABreak: Systematic Security Analysis of the A2
 louck2025improving	2505.12490	OK	Improving Google A2A Protocol: Protecting Sensitive Data and Mitigating Unintended Harms in Multi-Agent Systems	Louck, Yedidel
 lumer2025scalemcp	2505.06416	OK	ScaleMCP: Dynamic and Auto-Synchronizing Model Context Protocol Tools for LLM Agents	Lumer, Elias
 luo2025mcpuniverse	2508.14704	OK	MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers	Luo, Ziyang
+luo2026mcpurl	2608.22167	OK	MCP-Universe RL: A Framework for Training MCP Tool-Use Agents via Reinforcement Learning	Luo, Ziyang
 majeed2026empirical	2607.25635	OK	An Empirical Study of Model Context Protocol Applications	Majeed, Muhammad Hamza Arshad
 malik2026mcp	2610.30157	OK	MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems	Malik, Arun
 maloyan2026breaking	2601.17549	OK	Breaking the Protocol: Security Analysis of the Model Context Protocol Specification and Prompt Injection Vulnerabilities in Tool-Integrated LLM Agents	Maloyan, Narek
@@ -101,6 +107,7 @@ pattison2026normative	2606.10711	OK	The Agentic Web Requires New Normative Infra
 petrova2025web	2507.10644	OK	From Multi-Agent Systems and the Semantic Web to Agentic AI: A Unified Narrative of the Web of Agents	Petrova, Tatiana
 prakash2026aip	2603.24775	OK	AIP: Agent Identity Protocol for Verifiable Delegation Across MCP and A2A	Prakash, Sunil
 predoaia2026comparative	2607.23884	OK	A Comparative Study of MCP and A2A for Inter-Agent Coordination in LLM-Based Systems	Predoaia, Ionut
+qiu2025agentdistill	2506.14728	OK	AgentDistill: Training-Free Agent Distillation with Generalizable MCP Boxes	Qiu, Jiahao
 radosevich2025audit	2504.03767	OK	MCP Safety Audit: LLMs with the Model Context Protocol Allow Major Security Exploits	Radosevich, Brandon
 ranjan2025loka	2504.10915	OK	LOKA Protocol: A Decentralized Framework for Trustworthy and Ethical AI Agent Ecosystems	Ranjan, Rajesh
 rashidi2026unicode	2607.05744	OK	Unicode TAG-Block Concealment of Tool-Metadata Payloads in the Model Context Protocol: An Approval-View Fidelity Gap Across Three Independent Server Implementations	Rashidi, Mohammadreza
@@ -130,6 +137,7 @@ syros2025saga	2504.21034	OK	SAGA: A Security Architecture for Governing AI Agent
 tan2026mcpsandboxscan	2601.01241	OK	MCP-SandboxScan: WASM-based Secure Execution and Runtime Analysis for MCP Tools	Tan, Zhuoran
 tang2026understanding	2610.05319	OK	Understanding the Hierarchical Structure and Functional Landscape of the Model Context Protocol Ecosystem	Tang, Tingxuan
 tran2025multiagent	2501.06322	OK	Multi-Agent Collaboration Mechanisms: A Survey of LLMs	Tran, Khanh-Tung
+tu2026leastprivilege	2608.18351	OK	Task-Conditioned Least-Privilege Learning for Executable Terminal and MCP Agents	Tu, Alexander
 varshney2026handshake	2610.30151	OK	The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols	Varshney, Pranav
 wang2025agentspec	2503.18666	OK	AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents	Wang, Haoyu
 wang2025iosecurity	2505.08807	OK	Security of Internet of Agents: Attacks and Countermeasures	Wang, Yuntao
@@ -142,6 +150,7 @@ wu2025mcpmark	2509.24002	OK	MCPMark: A Benchmark for Stress-Testing Realistic an
 wu2025mcpzoo	2512.15144	OK	MCPZoo: A Large-Scale Dataset of Runnable Model Context Protocol Servers for AI Agent	Wu, Mengying
 xiang2026architecting	2603.30016	OK	Architecting Secure AI Agents: Perspectives on System-Level Defenses Against Indirect Prompt Injection Attacks	Xiang, Chong
 xing2025mcpguard	2508.10991	OK	MCP-Guard: A Multi-Stage Defense-in-Depth Framework for Securing Model Context Protocol in Agentic AI	Xing, Wenpeng
+xu2025toucan	2510.01179	OK	TOUCAN: Synthesizing 1.5M Tool-Agentic Data from Real-World MCP Environments	Xu, Zhangchen
 yan2025mcp	2512.03775	OK	"MCP Does Not Stand for Misuse Cryptography Protocol": Uncovering Cryptographic Misuse in Model Context Protocol at Scale	Yan, Biwei
 yan2025selftalk	2502.14321	OK	Beyond Self-Talk: A Communication-Centric Survey of LLM-Based Multi-Agent Systems	Yan, Bingyu
 yan2026happens	2606.21338	OK	"What Happens Locally, Leaks Globally": Detecting Privacy Leakage Risks in MCP Servers	Yan, Biwei

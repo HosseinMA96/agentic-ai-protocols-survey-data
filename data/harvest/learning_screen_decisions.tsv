@@ -1,0 +1,31 @@
+id	decision	key	reason
+2510.01179	include	xu2025toucan	training data synthesized from about 500 real MCP servers with real tool execution
+2608.22167	include	luo2026mcpurl	RL framework that uses MCP as the environment interface
+2610.14956	include	du2026mcpdisco	RL on long-horizon interactions with 70 real MCP servers
+2604.09815	include	he2026eemcp	automatic environment generation and training for MCP-GUI agents
+2504.08999	include	ahmadi2025mcpbridge	RL fine-tuning for schema-adherent MCP tool calls (alongside a proxy design)
+2511.05867	include	fu2025riskcue	SFT vs. RL to detect risky logs returned by MCP servers
+2608.18351	include	tu2026leastprivilege	post-training for task-conditioned authority in MCP environments
+2605.11217	include	halloran2026ragpref	preference alignment to refuse falsely benign MCP exploits
+2506.14728	include	qiu2025agentdistill	skill transfer from teacher to student agents through generated MCP modules
+2610.28785	exclude		training-efficiency method (rollout allocation); efficiency is out of scope (scope statement in the Introduction)
+2601.08276	exclude		tool and agent routing method; selection efficiency is out of scope (scope statement in the Introduction)
+2604.06696	exclude		agent routing engine; selection efficiency is out of scope (scope statement in the Introduction)
+2508.01805	exclude		domain application (vision experts in wireless networks); reward term incidental
+2508.18489	exclude		experience report (science and HPC servers); keyword incidental
+2510.19856	exclude		domain application (blockchain smart contracts) with a fine-tuned model
+2511.07176	exclude		federated fine-tuning in an Internet of Agents; no agent protocol is the learning substrate
+2511.15998	exclude		offensive C2 architecture over MCP; fine-tuning mentioned only in related work
+2511.22076	exclude		network task offloading (game theory, RL); no agent protocol is the learning substrate
+2512.07917	exclude		domain application (CFD) with a domain-adapted model
+2601.23049	exclude		domain benchmark (medical calculators); fine-tuning incidental
+2603.27094	exclude		attribution protocol; "training data" refers to content consumed by LLMs
+2603.28428	exclude		agent design position; keyword incidental
+2604.02369	exclude		conceptual analysis of protocols; keyword incidental
+2605.01567	exclude		domain architecture (memory for RL coding agents); learning is not at the protocol interface
+2605.09283	exclude		content structuring framework; keyword incidental
+2606.07200	exclude		learned message codes in MARL; "protocol" in a different sense
+2606.28841	exclude		domain application (Lean theorem proving) with a fine-tuned prover
+2607.03946	exclude		domain application (astrophysics RAG server); keyword incidental
+2607.24280	exclude		"protocol" denotes a JSON intermediate representation for distillation, not an interoperability protocol
+2610.22373	exclude		control protocol that explicitly needs no fine-tuning; keyword incidental

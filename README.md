@@ -15,6 +15,7 @@ the reference-verification reports, and the scripts that produce them.
 | Path | What it is | Used in the paper |
 |---|---|---|
 | `data/harvest/harvest.json`, `screening.csv` | 847 unique arXiv records (Nov. 2024 to Oct. 2026) from six queries, with the protocol-centric flag and keyword category | §II-A, Figs. 1–2 |
+| `data/harvest/learning_screen.tsv`, `learning_screen_decisions.tsv` | Learning-centric screen of the 379 protocol-centric records: 37 flagged by the keyword rule (7 already cited) and the decision, with its reason, for each of the other 30 (9 included) | §II-A, §V-C, Table II |
 | `data/coding/dp_coding.tsv` | 113 changelog changes (MCP 2025-03-26 to 2026-07-28; A2A 0.2.1–0.3.0 and 0.3→1.0), each with concern plane and primary/secondary design pressure | §II-C, §IX-B, Table VI |
 | `data/coding/CODEBOOK.md` | Coding rules for DP1–DP6, "other", and planes | §II-C |
 | `data/coding/second_coder_sample.tsv` | Blinded 30-item sample for an independent second coder | §II-C |
@@ -27,9 +28,10 @@ the reference-verification reports, and the scripts that produce them.
 | `data/verification/arxiv_id_check.tsv` | Title and first-author check of every cited arXiv identifier | References |
 | `data/verification/doi_check*.tsv` | Crossref check (title, first author, venue, year) of every DOI | References |
 | `data/verification/withdrawn_check.tsv` | Withdrawal check of every cited arXiv preprint | References |
-| `data/verification/provenance_summary.txt` | Provenance counts of the 269 cited works | Table II |
+| `data/verification/provenance_summary.txt` | Provenance counts of the 278 cited works | Table II |
 | `data/bib/references.bib`, `cited_keys.txt`, `manual.bib` | Final bibliography, the keys cited in the paper, and hand-verified entries | — |
 | `scripts/harvest.py`, `screen.py`, `arxiv.py` | arXiv harvest, title-rule screening, BibTeX from the arXiv API | §II-A |
+| `scripts/learning_screen.py` | Learning-centric keyword screen of the protocol-centric pool | §II-A |
 | `scripts/build_coding.py`, `kappa.py` | Changelog coding and summary tables; Cohen's κ for the second coder | §IX-B |
 | `scripts/coverage_gap.py`, `title_retrieval.py`, `openalex_supplement.py` | Coverage checks and supplementary search | §II-B, §II-E |
 | `scripts/provenance.py` | Table II | §II-A |
@@ -41,7 +43,8 @@ Run from the repository root (Python 3, standard library only):
 
 ```bash
 python3 scripts/build_coding.py            # Table VI: 113 changes, 90 explained by DP1-DP6
-python3 scripts/provenance.py              # Table II: provenance of the 269 cited works
+python3 scripts/provenance.py              # Table II: provenance of the 278 cited works
+python3 scripts/learning_screen.py         # learning-centric screen: 37 flagged, 7 cited before it, 9 added
 python3 scripts/verify_arxiv_ids.py data/bib/references.bib out.tsv
 python3 scripts/verify_dois.py data/bib/references.bib out.tsv
 python3 scripts/check_withdrawn.py data/bib/references.bib out.tsv
@@ -65,9 +68,17 @@ outputs used in the paper.
 Scripts: MIT. Data in `data/`: CC BY 4.0. See `LICENSE`. Records derived from arXiv, Crossref, and
 OpenAlex metadata keep the terms of those services (arXiv metadata and OpenAlex are CC0).
 
+## Changes in version 1.1 (November 2026)
+
+- Learning-centric screen of the protocol-centric pool (`scripts/learning_screen.py`, `data/harvest/learning_screen*.tsv`):
+  9 works added, so the survey now cites 278 works (Table II gains the row "added by learning-centric screen").
+- Bibliography: protocol names braced in titles so that sentence-casing styles keep their capitals; compound
+  surnames (Soria Parra, De Rossi, La Malfa) braced. The 9 new arXiv identifiers were added to the identifier
+  and withdrawal checks in `data/verification/`.
+
 ## Citation
 
 Please cite the survey (arXiv identifier to be added) and this repository:
 
-H. Mohasel Arjomandi, *Data and Scripts for "Agentic AI Protocols"*, version 1.0, Zenodo, 2026.
-DOI: [10.5281/zenodo.24000346](https://doi.org/10.5281/zenodo.24000346)
+H. Mohasel Arjomandi, *Data and Scripts for "Agentic AI Protocols"*, version 1.1, Zenodo, 2026.
+DOI (all versions, resolves to the latest): [10.5281/zenodo.24000345](https://doi.org/10.5281/zenodo.24000345)

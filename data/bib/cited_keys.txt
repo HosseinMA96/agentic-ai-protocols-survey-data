@@ -8,6 +8,7 @@ abdelnabi2026always
 acharya2026formal
 afsar2026random
 agui
+ahmadi2025mcpbridge
 ahmed2026labels
 alshammari2026a2acaseverify
 alshammari2026forensic
@@ -41,6 +42,7 @@ deshmukh2026agentcard
 ding2026aclemcp
 dong2025etom
 du2025protocolbench
+du2026mcpdisco
 duan2025agent
 ecma430
 ecma434
@@ -59,6 +61,7 @@ fipa2002cal
 fipa2002cnp
 fipa2004mgmt
 fleming2025layered
+fu2025riskcue
 gaire2026sok
 gao2025mcpradar
 genesereth1994software
@@ -73,12 +76,14 @@ guo2025measurement
 guo2026mcpxkit
 habler2025a2a
 halloran2025mcp
+halloran2026ragpref
 hao2026mcp
 hasan2025mcp
 hasan2026smelly
 he2025redteam
 he2025redteaming
 he2026bugs
+he2026eemcp
 he2026hybrid
 hong2024metagpt
 hou2026mcp
@@ -133,6 +138,7 @@ louck2025improving
 lsp
 lumer2025scalemcp
 luo2025mcpuniverse
+luo2026mcpurl
 majeed2026empirical
 malik2026mcp
 maloyan2026breaking
@@ -165,6 +171,7 @@ pattison2026normative
 petrova2025web
 prakash2026aip
 predoaia2026comparative
+qiu2025agentdistill
 radosevich2025audit
 ranjan2025loka
 rashidi2026unicode
@@ -213,6 +220,7 @@ syros2025saga
 tan2026mcpsandboxscan
 tang2026understanding
 tran2025multiagent
+tu2026leastprivilege
 txntokensdraft
 ucp2026
 varshney2026handshake
@@ -240,6 +248,7 @@ wu2025mcpzoo
 xi2025rise
 xiang2026architecting
 xing2025mcpguard
+xu2025toucan
 yan2025mcp
 yan2025selftalk
 yan2026happens

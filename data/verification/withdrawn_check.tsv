@@ -1,6 +1,7 @@
 abdelnabi2026always	2605.17634	OK
 acharya2026formal	2604.05969	OK
 afsar2026random	2609.10962	OK
+ahmadi2025mcpbridge	2504.08999	OK
 ahmed2026labels	2608.12880	OK
 alshammari2026a2acaseverify	2609.33914	OK
 alshammari2026forensic	2609.33924	OK
@@ -24,6 +25,7 @@ chidambaram2026twodimensional	2609.14721	OK
 ding2026aclemcp	2609.02690	OK
 dong2025etom	2510.19423	OK
 du2025protocolbench	2510.17149	OK
+du2026mcpdisco	2610.14956	OK
 duan2025agent	2508.15819	OK
 ehtesham2025survey	2505.02279	OK
 errico2025securing	2511.20920	OK
@@ -32,17 +34,20 @@ fang2025should	2506.13666	OK
 fei2025mcpzero	2506.01056	OK
 felendler2026code	2602.15945	OK
 fleming2025layered	2511.19699	OK
+fu2025riskcue	2511.05867	OK
 gao2025mcpradar	2505.16700	OK
 goswami2025ajwt	2509.13597	OK
 guo2025mcpagentbench	2509.09734	OK
 guo2025measurement	2509.25292	OK
 habler2025a2a	2504.16902	OK
 halloran2025mcp	2505.23634	OK
+halloran2026ragpref	2605.11217	OK
 hao2026mcp	2604.21477	OK
 hasan2025mcp	2506.13538	OK
 hasan2026smelly	2602.14878	OK
 he2025redteam	2509.21011	OK
 he2025redteaming	2502.14847	OK
+he2026eemcp	2604.09815	OK
 he2026hybrid	2607.25297	OK
 hou2026smcp	2602.01129	OK
 hou2026unsafe	2605.07836	OK
@@ -82,6 +87,7 @@ lotfi2026a2abreak	2609.10871	OK
 louck2025improving	2505.12490	OK
 lumer2025scalemcp	2505.06416	OK
 luo2025mcpuniverse	2508.14704	OK
+luo2026mcpurl	2608.22167	OK
 majeed2026empirical	2607.25635	OK
 malik2026mcp	2610.30157	OK
 maloyan2026breaking	2601.17549	OK
@@ -101,6 +107,7 @@ pattison2026normative	2606.10711	OK
 petrova2025web	2507.10644	OK
 prakash2026aip	2603.24775	OK
 predoaia2026comparative	2607.23884	OK
+qiu2025agentdistill	2506.14728	OK
 radosevich2025audit	2504.03767	OK
 ranjan2025loka	2504.10915	OK
 rashidi2026unicode	2607.05744	OK
@@ -130,6 +137,7 @@ syros2025saga	2504.21034	OK
 tan2026mcpsandboxscan	2601.01241	OK
 tang2026understanding	2610.05319	OK
 tran2025multiagent	2501.06322	OK
+tu2026leastprivilege	2608.18351	OK
 varshney2026handshake	2610.30151	OK
 wang2025agentspec	2503.18666	OK
 wang2025iosecurity	2505.08807	OK
@@ -142,6 +150,7 @@ wu2025mcpmark	2509.24002	OK
 wu2025mcpzoo	2512.15144	OK
 xiang2026architecting	2603.30016	OK
 xing2025mcpguard	2508.10991	OK
+xu2025toucan	2510.01179	OK
 yan2025mcp	2512.03775	OK
 yan2025selftalk	2502.14321	OK
 yan2026happens	2606.21338	OK

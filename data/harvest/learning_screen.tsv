@@ -1,0 +1,38 @@
+id	published	cited	matched	title
+2504.08999	2025-04-11	False	fine-tuned; grpo; reinforcement learning	MCP Bridge: A Lightweight, LLM-Agnostic RESTful Proxy for Model Context Protocol Servers
+2505.14590	2025-05-20	True	training data	MCIP: Protecting MCP Safety via Model Contextual Integrity Protocol
+2505.23634	2025-05-29	True	dpo; grpo; post-training; preference alignment; preference optimization	MCP Safety Training: Learning to Refuse Falsely Benign MCP Exploits using Improved Preference Alignment
+2506.13666	2025-06-16	True	reinforcement learning	We Should Identify and Mitigate Third-Party Safety Risks in MCP-Powered Agent Systems
+2506.14728	2025-06-17	False	distill; distillation; distilled	AgentDistill: Training-Free Agent Distillation with Generalizable MCP Boxes
+2508.01805	2025-08-03	False	reward	M3LLM: Model Context Protocol-aided Mixture of Vision Experts For Multimodal LLMs in Networks
+2508.10991	2025-08-14	True	fine-tuned	MCP-Guard: A Multi-Stage Defense-in-Depth Framework for Securing Model Context Protocol in Agentic AI
+2508.18489	2025-08-25	False	distill	Experiences with Model Context Protocol Servers for Science and High Performance Computing
+2510.01179	2025-10-01	False	fine-tuned; training data	TOUCAN: Synthesizing 1.5M Tool-Agentic Data from Real-World MCP Environments
+2510.19856	2025-10-21	False	fine-tuned; fine-tuning	Model Context Contracts - MCP-Enabled Framework to Integrate LLMs With Blockchain Smart Contracts
+2510.19423	2025-10-22	True	curriculum	ETOM: A Five-Level Benchmark for Evaluating Tool Orchestration within the MCP Ecosystem
+2511.05867	2025-11-08	False	fine-tuning; grpo; reinforcement learning; reward; trained with	Can LLM Infer Risk Information From MCP Server System Logs?
+2511.15998	2025-11-20	False	fine-tuned	Hiding in the AI Traffic: Abusing MCP for LLM-Powered Agentic Red Teaming
+2512.07917	2025-12-08	False	fine-tuned	CFD-copilot: leveraging domain-adapted large language model and model context protocol to enhance simulation automation
+2601.08276	2026-01-13	False	synthesize multi-turn trajectories	ACE-Router: Generalizing History-Aware Routing from MCP Tools to the Agent Web
+2601.23049	2026-01-30	False	fine-tuned	MedMCP-Calc: Benchmarking LLMs for Realistic Medical Calculator Scenarios via MCP Integration
+2603.27094	2026-03-28	False	training data	Sovereign Context Protocol: An Open Attribution Layer for Human-Generated Content in the Age of Large Language Models
+2604.09815	2026-04-10	False	distillation; fine-tuning; self-evolving; self-improvement	EE-MCP: Self-Evolving MCP-GUI Agents via Automated Environment Generation and Experience Learning
+2605.01567	2026-05-02	False	rewards; rl	Feedback-Normalized Developer Memory for Reinforcement-Learning Coding Agents: A Safety-Gated MCP Architecture
+2605.11217	2026-05-11	False	dpo; fine-tuning; preference alignment; preference optimization	Training-Free Refusal of MCP Exploits via Retrieval-Augmented Generation
+2606.28841	2026-06-27	False	fine-tuning; trained on	LAMP: Lean-based Agentic framework with MCP and Proof Repair
+2607.03946	2026-07-04	False	fine-tuning	A Model Context Protocol Server for Astrophysical RAG: Unified Access to HI, Dwarf, Globular Cluster, IntZ, and ALPINE Kinematic Corpora with FAISS Semantic Search
+2607.20531	2026-07-10	True	distills	DynamicMCPBench: A Trace-Grounded, Effect-Scored Benchmark for LLM Agents over Live MCP Servers
+2610.22373	2026-07-27	False	fine-tuning	Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides
+2608.18351	2026-08-18	False	post-training	Task-Conditioned Least-Privilege Learning for Executable Terminal and MCP Agents
+2608.22167	2026-08-23	False	reinforcement learning; reward; rl; we train	MCP-Universe RL: A Framework for Training MCP Tool-Use Agents via Reinforcement Learning
+2610.14956	2026-10-10	False	reinforcement learning; reward	MCPDisCo: Seesaw-Mitigated Tuning for MCP-Native Agents
+2610.28785	2026-10-20	False	reinforcement learning; reward; rewards	Measure First, Then Allocate: Calibrated Rollout Budgets for MCP Agents in Reinforcement Learning
+2604.02369	2026-03-30	False	distill	Beyond Message Passing: A Semantic View of Agent Communication Protocols
+2606.07200	2026-06-05	False	reinforcement learning	Learning Multi-Agent Communication Protocol: Study on Information Entropy Efficiency in MARL
+2511.03434	2025-11-05	True	distill	Inter-Agent Trust Models: A Comparative Study of Brief, Claim, Proof, Stake, Reputation and Constraint in Agentic Web Protocol Design-A2A, AP2, ERC-8004, and Beyond
+2607.24280	2026-07-27	False	distillation; distilling; reinforcement learning; rl	From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search
+2511.07176	2025-11-10	False	fine-tuning	Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents
+2511.22076	2025-11-27	False	reinforcement learning	Hybrid Stackelberg Game and Diffusion-based Auction for Two-tier Agentic AI Task Offloading in Internet of Agents
+2603.28428	2026-03-30	False	rewarded	Synergy: A Next-Generation General-Purpose Agent for Open Agentic Web
+2604.06696	2026-04-08	False	fine-tuning	AgentGate: A Lightweight Structured Routing Engine for the Internet of Agents
+2605.09283	2026-05-10	False	distillation; fine-tuning	A Prompt-Aware Structuring Framework for Reliable Reuse of AI-Generated Content in the Agentic Web
