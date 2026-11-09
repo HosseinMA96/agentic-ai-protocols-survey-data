@@ -23,6 +23,7 @@ the reference-verification reports, and the scripts that produce them.
 | `data/coding/dp_coding_pre_adjudication.tsv` | First codes before adjudication (the basis of the reported κ) | §II-C |
 | `data/coding/kappa_output.txt` | Cohen's κ: primary pressure 0.868 (27/30), plane 0.833 (26/30); lenient agreement 28/30 | §II-C |
 | `data/coding/adjudication.tsv` | The six disagreements and their resolution (four first codes changed) | §II-C |
+| `data/coding/second_coder_instructions.md` | Instructions given to the second coder: rules, codebook, procedure, six worked examples outside the sample, FAQ | §II-C |
 | `data/coverage/first_run/gaps.tsv` | Works cited by competing surveys and not by us (first run, Nov. 1, 2026) | §II-E |
 | `data/coverage/rerun_2026-11-05/surveys.txt`, `gaps.tsv`, `log.txt` | The 16 surveys used and the re-run of the gap list | §II-E |
 | `data/coverage/rerun_2026-11-05/title_retrieval.tsv` | 341 arXiv records whose titles name MCP, A2A, or an agent protocol, with overlap flags | §II-E |
@@ -66,6 +67,9 @@ outputs used in the paper.
 - MCP changelogs: `https://modelcontextprotocol.io/specification/{2025-03-26,2025-06-18,2025-11-25,2026-07-28}/changelog`
 - A2A: `https://github.com/a2aproject/A2A/blob/main/CHANGELOG.md` (v0.2.1–v0.3.0) and
   `https://a2a-protocol.org/latest/whats-new-v1/` (0.3 → 1.0). Fetched November 5, 2026.
+- Item IDs: `<revision>#<n>` is the n-th change in the order the source lists it (MCP: the listed items of each
+  changelog page in page order, numbering continuing across its sections; A2A 0.2–0.3: the feature and breaking-change entries of v0.2.1–v0.3.0 in `CHANGELOG.md`, oldest first;
+  A2A 1.0: the changes in the migration guide in page order). `scripts/build_coding.py` holds the item list.
 
 ## License
 
