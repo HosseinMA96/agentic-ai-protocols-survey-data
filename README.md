@@ -1,7 +1,7 @@
 # Data and scripts for "Agentic AI Protocols" (survey)
 
 Supporting data for the survey *Agentic AI Protocols: A Survey of Interoperability Standards, Their
-Evolution, and Open Challenges* (H. Mohasel Arjomandi, preprint, November 2026).
+Evolution, and Open Challenges* (H. Mohasel Arjomandi and A. GhaffarTehrani, preprint, November 2026).
 Survey cutoff: October 31, 2026. Archived versions: [10.5281/zenodo.24000345](https://doi.org/10.5281/zenodo.24000345) (all versions; v1.2: [10.5281/zenodo.24072244](https://doi.org/10.5281/zenodo.24072244); v1.1: [10.5281/zenodo.24058686](https://doi.org/10.5281/zenodo.24058686))
 (concept DOI for the latest version: [10.5281/zenodo.24000345](https://doi.org/10.5281/zenodo.24000345)).
 
@@ -74,7 +74,7 @@ OpenAlex metadata keep the terms of those services (arXiv metadata and OpenAlex 
 
 ## Changes in version 1.2 (November 2026)
 
-- Second coder for the changelog coding: an independent human coder, blinded to the first codes and without AI
+- Second coder for the changelog coding: the survey's second author, blinded to the first codes and without AI
   tools, coded the 30-item sample (`data/coding/second_coder_sample_filled.tsv`). Cohen's κ against the first codes
   before adjudication: primary pressure 0.868 (27/30), plane 0.833 (26/30) (`kappa_output.txt`; reproduce with the
   `kappa.py` command above).

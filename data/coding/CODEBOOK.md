@@ -21,8 +21,8 @@ the change was made, as stated or implied by the item itself; do not infer from 
 Plane (P1..P6) follows Section IV of the paper: P1 transport/encoding, P2 state/session, P3 description/discovery,
 P4 interaction semantics, P5 identity/authorization, P6 governance/evolution.
 
-Primary coder: first coding by the AI assistant from the changelog text, reviewed by the author.
-Second coder: an independent human coder, blinded to the first codes, coded the 30-item sample in
+Primary coder: first coding by the AI assistant from the changelog text, reviewed by the first author.
+Second coder: the second author, who took no part in the first coding and was blinded to its codes, coded the 30-item sample in
 `second_coder_sample.tsv` (blank form) from the official changelog pages, without AI tools, with this codebook, the plane definitions,
 and six worked examples outside the sample. Codes: `second_coder_sample_filled.tsv`. Cohen's kappa against the first
 codes before adjudication (`dp_coding_pre_adjudication.tsv`): primary pressure 0.868 (27/30), plane 0.833 (26/30)
