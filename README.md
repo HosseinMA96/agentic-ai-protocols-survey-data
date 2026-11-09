@@ -2,7 +2,7 @@
 
 Supporting data for the survey *Agentic AI Protocols: A Survey of Interoperability Standards, Their
 Evolution, and Open Challenges* (H. Mohasel Arjomandi, preprint, November 2026).
-Survey cutoff: October 31, 2026. Archived versions: [10.5281/zenodo.24000345](https://doi.org/10.5281/zenodo.24000345) (all versions; v1.1: [10.5281/zenodo.24058686](https://doi.org/10.5281/zenodo.24058686))
+Survey cutoff: October 31, 2026. Archived versions: [10.5281/zenodo.24000345](https://doi.org/10.5281/zenodo.24000345) (all versions; v1.2: [10.5281/zenodo.24072244](https://doi.org/10.5281/zenodo.24072244); v1.1: [10.5281/zenodo.24058686](https://doi.org/10.5281/zenodo.24058686))
 (concept DOI for the latest version: [10.5281/zenodo.24000345](https://doi.org/10.5281/zenodo.24000345)).
 
 This repository contains the arXiv harvest and screening sheet, the coding of every MCP and A2A
