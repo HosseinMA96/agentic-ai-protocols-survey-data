@@ -32,7 +32,7 @@ the reference-verification reports, and the scripts that produce them.
 | `data/verification/arxiv_id_check.tsv` | Title and first-author check of every cited arXiv identifier | References |
 | `data/verification/doi_check*.tsv` | Crossref check (title, first author, venue, year) of every DOI | References |
 | `data/verification/withdrawn_check.tsv` | Withdrawal check of every cited arXiv preprint | References |
-| `data/verification/provenance_summary.txt` | Provenance counts of the 278 cited works | Table II |
+| `data/verification/provenance_summary.txt` | Provenance counts of the 279 cited works | Table II |
 | `data/bib/references.bib`, `cited_keys.txt`, `manual.bib` | Final bibliography, the keys cited in the paper, and hand-verified entries | — |
 | `scripts/harvest.py`, `screen.py`, `arxiv.py` | arXiv harvest, title-rule screening, BibTeX from the arXiv API | §II-A |
 | `scripts/learning_screen.py` | Learning-centric keyword screen of the protocol-centric pool | §II-A |
@@ -47,7 +47,7 @@ Run from the repository root (Python 3, standard library only):
 
 ```bash
 python3 scripts/build_coding.py            # Table VI: 113 changes, 92 explained by DP1-DP6
-python3 scripts/provenance.py              # Table II: provenance of the 278 cited works
+python3 scripts/provenance.py              # Table II: provenance of the 279 cited works
 python3 scripts/learning_screen.py         # learning-centric screen: 37 flagged, 7 cited before it, 9 added
 python3 scripts/verify_arxiv_ids.py data/bib/references.bib out.tsv
 python3 scripts/verify_dois.py data/bib/references.bib out.tsv

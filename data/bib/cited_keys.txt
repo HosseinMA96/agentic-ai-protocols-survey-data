@@ -96,6 +96,7 @@ huang2026threat
 ibm2025acpblog
 ibmacp
 invariant2025whatsapp
+ito2026rubysdk
 jamshidi2025semantic
 jamshidi2026verifiable
 jeong2025mcpa2a
