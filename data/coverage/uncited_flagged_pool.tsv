@@ -1,0 +1,144 @@
+id	published	keyword_category	note	title
+2501.00539	2024-12-31	application/other		MCP-Solver: Integrating Language Models with Constraint Programming Systems
+2505.07064	2025-05-11	application/other		ParaView-MCP: An Autonomous Visualization Agent with Direct Tool Use
+2505.19339	2025-05-25	application/other		Towards Humanoid Robot Autonomy: A Dynamic Architecture Integrating Continuous thought Machines (CTM) and Model Context Protocol (MCP)
+2506.00274	2025-05-30	application/other		Chances and Challenges of the Model Context Protocol in Digital Forensics and Incident Response
+2506.10853	2025-06-12	application/other		A Study on Individual Spatiotemporal Activity Generation Method Using MCP-Enhanced Chain-of-Thought Large Language Models
+2506.13068	2025-06-16	application/other		Towards the Autonomous Optimization of Urban Logistics: Training Generative AI with Scientific Tools via Agentic Digital Twins and Model Context Protocol
+2507.08055	2025-07-10	application/other		MCPmed: A Call for MCP-Enabled Bioinformatics Web Services for LLM-Driven Discovery
+2507.19570	2025-07-25	application/other		MCP4EDA: LLM-Powered Model Context Protocol RTL-to-GDSII Automation with Backend Aware Synthesis Optimization
+2508.10143	2025-08-13	application/other		MCP-Orchestrated Multi-Agent System for Automated Disinformation Detection
+2508.13774	2025-08-19	application/other		Agentic DraCor and the Art of Docstring Engineering: Evaluating MCP-empowered LLM Usage of the DraCor API
+2510.04536	2025-10-06	application/other		3Dify: a Framework for Procedural 3D-CG Generation Assisted by LLMs Using MCP and RAG
+2510.10890	2025-10-13	application/other		LLM$\times$MapReduce-V3: Enabling Interactive In-Depth Survey Generation through a MCP-Driven Hierarchically Modular Agent System
+2601.00809	2025-12-21	application/other		A Modular Reference Architecture for MCP-Servers Enabling Agentic BIM Interaction
+2601.08687	2026-01-13	application/other		Data Product MCP: Chat with your Enterprise Data
+2602.12953	2026-02-13	application/other		Human Tool: An MCP-Style Framework for Human-Agent Collaboration
+2603.20405	2026-03-20	application/other		Putnam 2025 Problems in Rocq using Opus 4.6 and Rocq-MCP
+2603.27277	2026-03-28	application/other		Codebase-Memory: Tree-Sitter-Based Knowledge Graphs for LLM Code Exploration via MCP
+2604.16524	2026-04-16	application/other		Anumati: Proof of Adherence as a Formal Consent Model for Autonomous Agent Protocols
+2605.30283	2026-05-28	application/other		mcp-proto-okn: Natural-language access to open scientific knowledge graphs through the Model Context Protocol
+2606.07200	2026-06-05	application/other		Learning Multi-Agent Communication Protocol: Study on Information Entropy Efficiency in MARL
+2606.19167	2026-06-17	application/other		Teaching Software Engineering with LLM and MCP Integration: From Classroom to Industry Practice
+2607.14158	2026-07-14	application/other		Orchestrating Power Grid Studies with Multi-Agent AI and MCP Servers
+2608.08467	2026-08-09	application/other		LLM within MCP Matters: Measuring Inefficient Resource Utilization Driven by LLMs
+2608.10760	2026-08-11	application/other		A Gateway Architecture for Enterprise MCP Authentication: Unifying Heterogeneous Auth, Identity Delegation, and the User / Non-User Persona Problem
+2609.01693	2026-09-01	application/other		Public-Sharing Labels and Verbatim Field Egress in an MCP-to-A2A Agent Configuration: A Controlled Multi-Model Study
+2609.24620	2026-09-21	application/other		Ascent: An Agentic System over the Model Context Protocol for Real-World Clinical Data Analysis
+2609.31358	2026-09-25	application/other		A Safety-Bounded SDC-to-MCP Gateway for Medical AI Agents
+2609.35381	2026-09-28	application/other		MCP Error Messages Written for Developers Hurt the Most Capable Agents Most
+2610.15224	2026-10-10	application/other		Persistent LLM Orchestration of Heterogeneous Robot Teams via Partial Delegation to Multi-Agent Protocols
+2610.28785	2026-10-20	application/other		Measure First, Then Allocate: Calibrated Rollout Budgets for MCP Agents in Reinforcement Learning
+2610.36221	2026-10-26	application/other		EREBOTS 4.0: A framework for conversational assistants with A2A agents and MCP tools
+2505.03275	2025-05-06	benchmark		RAG-MCP: Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation
+2505.18829	2025-05-24	benchmark		LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS
+2508.07035	2025-08-09	benchmark		VASPilot: MCP-Facilitated Multi-Agent Intelligence for Autonomous VASP Simulations
+2508.15760	2025-08-21	benchmark		LiveMCP-101: Stress Testing and Diagnosing MCP-enabled Agents on Challenging Queries
+2510.02139	2025-10-02	benchmark		BioinfoMCP: A Unified Platform Enabling MCP Interfaces in Agentic Bioinformatics
+2511.03497	2025-11-05	benchmark		ROSBag MCP Server: Analyzing Robot Data with LLMs for Agentic Embodied AI Applications
+2512.03955	2025-12-03	benchmark		Benchmark for Planning and Control with Large Language Model Agents: Blocksworld with Model Context Protocol
+2512.07917	2025-12-08	benchmark		CFD-copilot: leveraging domain-adapted large language model and model context protocol to enhance simulation automation
+2512.19432	2025-12-22	benchmark		MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments
+2601.11595	2026-01-06	benchmark		Enhancing Model Context Protocol (MCP) with Context-Aware Server Collaboration
+2601.23049	2026-01-30	benchmark		MedMCP-Calc: Benchmarking LLMs for Realistic Medical Calculator Scenarios via MCP Integration
+2603.06582	2026-01-20	benchmark		Agentic SPARQL: Evaluating SPARQL-MCP-powered Intelligent Agents on the Federated KGQA Benchmark
+2603.20313	2026-03-19	benchmark		Semantic Tool Discovery for Large Language Models: A Vector-Based Approach to MCP Tool Selection
+2603.24943	2026-03-26	benchmark		FinMCP-Bench: Benchmarking LLM Agents for Real-World Financial Tool Use under the Model Context Protocol
+2604.01532	2026-04-02	benchmark		PHMForge: Evaluating LLM Agents on Industrial Prognostics through MCP-Native, Algorithm-Grounded Tools
+2605.01567	2026-05-02	benchmark		Feedback-Normalized Developer Memory for Reinforcement-Learning Coding Agents: A Safety-Gated MCP Architecture
+2605.28148	2026-05-27	benchmark		DeltaMCP: Incremental Regeneration via Spec-Aware Transformation for MCP servers
+2606.02470	2026-06-01	benchmark		MCP-Persona: Benchmarking LLM Agents on Real-World Personal Applications via Environment Simulation
+2607.17012	2026-07-19	benchmark		Schema-Bound LLM Control of Scientific Instrumentation through Model Context Protocol Skills
+2607.24280	2026-07-27	benchmark		From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search
+2608.14613	2026-07-10	benchmark		Do LLM Agents Negotiate Rationally? A Mechanism-Design Framework for Verifiable Multi-Agent Interaction over A2A/MCP
+2608.21417	2026-08-13	benchmark		Retrieval-grounded robot program generation and simulation-based correction via Model Context Protocol
+2608.22063	2026-08-22	benchmark		From SQL Generation to Tool Selection: A Domain-Oriented Pattern for MCP Servers
+2608.26199	2026-08-25	benchmark		Benchmarking AI Agents for Hardware Design Automation via MCP Tool Calling
+2609.07370	2026-09-07	benchmark		Beyond Fluent Generation: A CPU Reliability Benchmark for MCP-Style Tool Calling in Sub-2B Small Language Models for Edge Deployment
+2609.30971	2026-09-25	benchmark		SciHorizon-eLab: An Agentic Protocol-to-Task Compiler for Scalable Benchmarking of Scientific Embodied Agents
+2504.11094	2025-04-15	design		Evaluation Report on MCP Servers
+2505.01834	2025-05-03	design		Model Context Protocol-based Internet of Experts For Wireless Environment-aware LLM Agents
+2505.11270	2025-05-16	design		TAIJI: MCP-based Multi-Modal Data Analytics on Data Lakes
+2506.10925	2025-06-12	design		Agentic Semantic Control for Autonomous Wireless Space Networks: Extending Space-O-RAN with MCP-Driven Distributed Intelligence
+2506.11180	2025-06-12	design		Beyond Formal Semantics for Capabilities and Skills: Model Context Protocol in Manufacturing
+2507.21105	2025-07-08	design		AgentMaster: A Multi-Agent Conversational Framework Using A2A and MCP Protocols for Multimodal Information Retrieval and Analysis
+2508.01805	2025-08-03	design		M3LLM: Model Context Protocol-aided Mixture of Vision Experts For Multimodal LLMs in Networks
+2508.10277	2025-08-14	design		MCP-Enabled LLM for Meta-optics Inverse Design: Leveraging Differentiable Solver without LLM Expertise
+2508.19239	2025-08-26	design		Model Context Protocols in Adaptive Transport Systems: A Survey
+2510.19856	2025-10-21	design		Model Context Contracts - MCP-Enabled Framework to Integrate LLMs With Blockchain Smart Contracts
+2602.00019	2026-01-16	design		AutoBinder Agent: An MCP-Based Agent for End-to-End Protein Binder Design
+2604.08318	2026-04-09	design		A Model Context Protocol Server for Quantum Execution in Hybrid Quantum-HPC Environments
+2605.00827	2026-03-13	design		Separating Intelligence from Execution: A Workflow Engine for the Model Context Protocol
+2605.15227	2026-05-13	design		NIMO Controller: a self-driving laboratory orchestrator based on the Model Context Protocol
+2606.06545	2026-06-04	design		Queen-Bee Agents: A BeeSpec-Centered Architecture for Governed Enterprise MCP Orchestration
+2606.28841	2026-06-27	design		LAMP: Lean-based Agentic framework with MCP and Proof Repair
+2607.03946	2026-07-04	design		A Model Context Protocol Server for Astrophysical RAG: Unified Access to HI, Dwarf, Globular Cluster, IntZ, and ALPINE Kinematic Corpora with FAISS Semantic Search
+2609.27340	2026-09-23	design		Spatial and Semantic Reasoning for LLM-Driven Robot Navigation via MCP
+2609.33731	2026-09-27	design		HTN Planning as a Coordination Layer for Multi-Server MCP Tool Orchestration
+2506.01804	2025-06-02	measurement		A Study on the MCP x A2A Framework for Enhancing Interoperability of LLM-based Autonomous Agents
+2506.11019	2025-05-14	measurement		Mind the Metrics: Patterns for Telemetry-Aware In-IDE AI Application Development using the Model Context Protocol (MCP)
+2507.08065	2025-07-10	measurement		Multi-Scale Network Dynamics and Systemic Risk: A Model Context Protocol Approach to Financial Markets
+2507.12806	2025-07-17	measurement		MCPEval: Automatic MCP-based Deep Evaluation for AI Agent Models
+2509.05941	2025-09-07	measurement		Code2MCP: Transforming Code Repositories into MCP Services
+2509.07595	2025-09-09	measurement		AgentX: Towards Orchestrating Robust Agentic Workflow Patterns with FaaS-hosted MCP Services
+2510.01260	2025-09-25	measurement		IoT-MCP: Bridging LLMs and IoT Systems Through Model Context Protocol
+2510.13467	2025-10-15	measurement		NetMCP: Network-Aware Model Context Protocol Platform for LLM Capability Extension
+2511.07426	2025-10-20	measurement		Network and Systems Performance Characterization of MCP-Enabled LLM Agents
+2601.08276	2026-01-13	measurement		ACE-Router: Generalizing History-Aware Routing from MCP Tools to the Agent Web
+2602.23367	2025-12-18	measurement		HumanMCP: A Human-Like Query Dataset for Evaluating MCP Tool Retrieval Performance
+2603.00123	2026-02-23	measurement		CT-Flow: Orchestrating CT Interpretation Workflow with Model Context Protocol Servers
+2603.20316	2026-03-19	measurement		Bypassing Document Ingestion: An MCP Approach to Financial Q&A
+2604.17234	2026-04-19	measurement		From Language to Action: Enhancing LLM Task Efficiency with Task-Aware MCP Server Recommendation
+2605.09131	2026-05-09	measurement		MCP-Cosmos: World Model-Augmented Agents for Complex Task Execution in MCP Environments
+2606.30317	2026-06-29	measurement		MCP Server Architecture Patterns for LLM-Integrated Applications
+2607.10123	2026-07-11	measurement		A Large-Scale Dataset of MCP Implementations on GitHub
+2608.24898	2026-07-13	measurement		MCP-Driven Accessibility Tree Standardization for AI-Powered Screen Reader Agents
+2609.30341	2026-09-24	measurement		Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol
+2610.00182	2026-09-17	measurement		Localizing Post-Wire Semantic Changes in MCP Agent Frameworks
+2610.14334	2026-10-09	measurement		Which Metadata Matters for LLM Tool Selection in MCP? Evidence from Controlled Factor-Level Interventions
+2504.16902	2025-04-23	security		Building A Secure Agentic AI Application Leveraging A2A Protocol
+2506.13800	2025-06-13	security		Enhancing Clinical Decision Support and EHR Insights through LLMs and the Model Context Protocol: An Open-Source MCP-FHIR Framework
+2507.19550	2025-07-24	security		Towards Multi-Agent Economies: Enhancing the A2A Protocol with Ledger-Anchored Identities and x402 Micropayments for AI Agents
+2507.19880	2025-07-26	security		Trivial Trojans: How Minimal MCP Servers Enable Cross-Tool Exfiltration of Sensitive Data
+2508.06418	2025-08-08	security		Quantifying Conversation Drift in MCP via Latent Polytope
+2508.14925	2025-08-19	security		MCPTox: A Benchmark for Tool Poisoning Attack on Real-World MCP Servers
+2508.18489	2025-08-25	security		Experiences with Model Context Protocol Servers for Science and High Performance Computing
+2509.03828	2025-09-04	security		An Agentic Model Context Protocol Framework for Medical Concept Standardization
+2509.15957	2025-09-19	security		EHR-MCP: Real-world Evaluation of Clinical Information Retrieval by Large Language Models via Model Context Protocol
+2509.22814	2025-09-26	security		Model Context Protocol for Vision Systems: Audit, Security, and Protocol Extensions
+2510.01780	2025-10-02	security		Secure Multi-Modal Data Fusion in Federated Digital Health Systems via MCP
+2510.02325	2025-09-25	security		Agentic-AI Healthcare: Multilingual, Privacy-First Framework with MCP Agents
+2510.05968	2025-10-07	security		Extending ResourceLink: Patterns for Large Dataset Processing in MCP Applications
+2510.13821	2025-09-26	security		LLM Agent Communication Protocol (LACP) Requires Urgent Standardization: A Telecom-Inspired Protocol is Necessary
+2511.03706	2025-11-05	security		LLM-enhanced Air Quality Monitoring Interface via Model Context Protocol
+2511.15998	2025-11-20	security		Hiding in the AI Traffic: Abusing MCP for LLM-Powered Agentic Red Teaming
+2512.05365	2025-12-05	security		MCP-AI: Protocol-Driven Intelligence Framework for Autonomous Reasoning in Healthcare
+2512.14737	2025-12-11	security		Zero-Knowledge Audit for Internet of Agents: Privacy-Preserving Communication Verification with Model Context Protocol
+2601.15486	2026-01-21	security		An LLM-Agnostic, MAVLink-Based Drone Command and Control Interface and Agentic Harness Using the Model Context Protocol
+2601.22633	2026-01-30	security		MCP-Diag: A Deterministic, Protocol-Driven Architecture for AI-Native Network Diagnostics
+2602.13320	2026-02-10	security		Information Fidelity in Tool-Using LLM Agents: A Martingale Analysis of the Model Context Protocol
+2602.15055	2026-02-11	security		Beyond Context Sharing: A Unified Agent Communication Protocol (ACP) for Secure, Federated, and Autonomous Agent-to-Agent (A2A) Orchestration
+2602.18764	2026-02-21	security		The Convergence of Schema-Guided Dialogue Systems and the Model Context Protocol
+2602.18914	2026-02-21	security		From Docs to Descriptions: Smell-Aware Evaluation of MCP Server Descriptions
+2603.05637	2026-03-05	security		Real Faults in Model Context Protocol (MCP) Software: a Comprehensive Taxonomy
+2603.07473	2026-03-08	security	withdrawn by its authors	Give Them an Inch and They Will Take a Mile:Understanding and Measuring Caller Identity Confusion in MCP-Based AI Systems
+2603.10194	2026-03-10	security		MCP-in-SoS: Risk assessment framework for open-source MCP servers
+2603.21641	2026-03-23	security		Auditing MCP Servers for Over-Privileged Tool Capabilities
+2603.24703	2026-03-25	security		IndustriConnect: MCP Adapters and Mock-First Evaluation for AI-Assisted Industrial Operations
+2604.01905	2026-04-02	security		From Component Manipulation to System Compromise: Understanding and Detecting Malicious MCP Servers
+2604.02369	2026-03-30	security		Beyond Message Passing: A Semantic View of Agent Communication Protocols
+2604.07065	2026-04-08	security		Trust-as-a-Service: Intelligent Collaboration Orchestration via Model Context Protocol-Aided Agentic AI
+2604.10534	2026-04-12	security		Machine Learning-Based Detection of MCP Attacks
+2604.16870	2026-04-18	security		Governed MCP: Kernel-Level Tool Governance for AI Agents via Logit-Based Safety Primitives
+2604.17125	2026-04-18	security		Evaluating a Layered Prompt-Injection Defence for the Model Context Protocol: A Record-Level Audit of Decision Conventions, Corpus Provenance and Reproducibility
+2604.21816	2026-04-23	security		Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows
+2606.18037	2026-06-16	security		ProvenanceGuard: Source-Aware Factuality Verification for MCP-Based LLM Agents
+2606.19135	2026-06-17	security		A Technical Taxonomy of LLM Agent Communication Protocols
+2608.08654	2026-08-09	security		The Scaffolding Matters More Than the Interface: A Controlled Comparison of MCP and CLI Tool Use Across Seven Agent Scaffoldings, Five Language Models, and One Software Task
+2608.20481	2026-08-20	security		AEGIS: Preventing Cross-Domain Resource Abuse in MCP
+2608.23992	2026-08-25	security		Hybrid Semantic Tool Discovery for Enterprise MCP Gateway: Architecture and Implementation
+2609.10854	2026-09-09	security		No-Box Vulnerability Analysis: Description-only Detection of Indirect Prompt Injection Vulnerabilities in MCP Servers
+2609.18120	2026-09-16	security		PentestChain: A Cost-Aware, MCP-Orchestrated Framework for Automated Penetration Testing with Free-Tier LLMs
+2610.22301	2026-10-15	security		My Credentials, Please: Detecting Filesystem Capability Laundering in MCP Servers at Scale
+2610.22373	2026-07-27	security		Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides
+2610.32555	2026-10-23	security		Tool-Calling LLM Agents Under Realistic MCP Faults: Scale Does Not Purchase Fault Tolerance

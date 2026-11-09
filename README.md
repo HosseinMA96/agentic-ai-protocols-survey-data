@@ -27,18 +27,19 @@ the reference-verification reports, and the scripts that produce them.
 | `data/coverage/first_run/gaps.tsv` | Works cited by competing surveys and not by us (first run, Nov. 1, 2026) | §II-E |
 | `data/coverage/rerun_2026-11-05/surveys.txt`, `gaps.tsv`, `log.txt` | The 16 surveys used and the re-run of the gap list | §II-E |
 | `data/coverage/rerun_2026-11-05/title_retrieval.tsv` | 341 arXiv records whose titles name MCP, A2A, or an agent protocol, with overlap flags | §II-E |
+| `data/coverage/uncited_flagged_pool.tsv` | The 143 protocol-centric pool records flagged by the title retrieval that the survey does not cite, with keyword category (one withdrawn by its authors) | §II-E |
 | `data/coverage/rerun_2026-11-05/openalex.tsv`, `openalex_summary.txt` | OpenAlex supplementary search (1,259 records) with arXiv-only, in-harvest, and title-rule flags | §II-B |
 | `data/coverage/rerun_2026-11-05/openalex_peer256_screened.tsv` | Manual screening of all 256 peer-reviewed-type delta records into five categories | §II-B |
 | `data/coverage/coverage_check_added_keys.txt` | Works added after the coverage check (bib key, arXiv id) | Table II |
 | `data/verification/arxiv_id_check.tsv` | Title and first-author check of every cited arXiv identifier | References |
 | `data/verification/doi_check*.tsv` | Crossref check (title, first author, venue, year) of every DOI | References |
 | `data/verification/withdrawn_check.tsv` | Withdrawal check of every cited arXiv preprint | References |
-| `data/verification/provenance_summary.txt` | Provenance counts of the 279 cited works | Table II |
+| `data/verification/provenance_summary.txt` | Provenance counts of the 280 cited works | Table II |
 | `data/bib/references.bib`, `cited_keys.txt`, `manual.bib` | Final bibliography, the keys cited in the paper, and hand-verified entries | — |
 | `scripts/harvest.py`, `screen.py`, `arxiv.py` | arXiv harvest, title-rule screening, BibTeX from the arXiv API | §II-A |
 | `scripts/learning_screen.py` | Learning-centric keyword screen of the protocol-centric pool | §II-A |
 | `scripts/build_coding.py`, `kappa.py` | Changelog coding and summary tables; Cohen's κ for the second coder | §IX-B |
-| `scripts/coverage_gap.py`, `title_retrieval.py`, `openalex_supplement.py` | Coverage checks and supplementary search | §II-B, §II-E |
+| `scripts/coverage_gap.py`, `title_retrieval.py`, `openalex_supplement.py`, `uncited_flagged.py` | Coverage checks and supplementary search | §II-B, §II-E |
 | `scripts/provenance.py` | Table II | §II-A |
 | `scripts/verify_arxiv_ids.py`, `verify_dois.py`, `check_withdrawn.py`, `cr.py`, `build_bib.py`, `fix_bib_round1.py` | Reference verification and bibliography normalization | References |
 
@@ -48,7 +49,7 @@ Run from the repository root (Python 3, standard library only):
 
 ```bash
 python3 scripts/build_coding.py            # Table VI: 113 changes, 92 explained by DP1-DP6
-python3 scripts/provenance.py              # Table II: provenance of the 279 cited works
+python3 scripts/provenance.py              # Table II: provenance of the 280 cited works
 python3 scripts/learning_screen.py         # learning-centric screen: 37 flagged, 7 cited before it, 9 added
 python3 scripts/verify_arxiv_ids.py data/bib/references.bib out.tsv
 python3 scripts/verify_dois.py data/bib/references.bib out.tsv
@@ -76,6 +77,15 @@ outputs used in the paper.
 Scripts: MIT. Data in `data/`: CC BY 4.0. See `LICENSE`. Records derived from arXiv, Crossref, and
 OpenAlex metadata keep the terms of those services (arXiv metadata and OpenAlex are CC0).
 
+## Changes in version 1.3 (November 2026)
+
+- Bibliography: the extensions-framework proposal SEP-2133 is cited (grey literature), so the survey now cites 280 works
+  (`provenance_summary.txt`: grey literature 42); the MCP Bridge entry notes that the cited results are in arXiv
+  version 2 (January 2026).
+- New `data/coverage/uncited_flagged_pool.tsv` and `scripts/uncited_flagged.py`: the 143 protocol-centric pool records
+  that the title retrieval flagged but the survey does not cite, with keyword category (one withdrawn by its authors).
+  The script runs from the repository root and reproduces the file.
+
 ## Changes in version 1.2 (November 2026)
 
 - Second coder for the changelog coding: the survey's second author, blinded to the first codes and without AI
@@ -99,5 +109,5 @@ OpenAlex metadata keep the terms of those services (arXiv metadata and OpenAlex 
 
 Please cite the survey (arXiv identifier to be added) and this repository:
 
-H. Mohasel Arjomandi, *Data and Scripts for "Agentic AI Protocols"*, version 1.2, Zenodo, 2026.
+H. Mohasel Arjomandi, *Data and Scripts for "Agentic AI Protocols"*, version 1.3, Zenodo, 2026.
 DOI (all versions, resolves to the latest): [10.5281/zenodo.24000345](https://doi.org/10.5281/zenodo.24000345)
