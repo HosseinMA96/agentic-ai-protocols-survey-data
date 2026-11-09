@@ -5,9 +5,11 @@ change enumerated in A2A's "What's New in v1.0" page (0.3 -> 1.0) is assigned
   - a primary design pressure (DP1..DP6, or OTHER), an optional secondary one, and
   - the concern plane it changes (P1..P6).
 Sources fetched 2026-11-05. Coding rules are in CODEBOOK.md. Writes dp_coding.tsv and prints the summary tables used in
-the paper (coverage per DP, churn per plane per revision)."""
+the paper (coverage per DP, churn per plane per revision).
+Four first codes were changed on 2026-11-08 when the second-coder disagreements were adjudicated (after kappa was
+computed against the original codes, kept in dp_coding_pre_adjudication.tsv); see adjudication.tsv."""
 import csv, collections, os
-H = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data', 'coding')
+H = os.path.dirname(os.path.abspath(__file__))
 R = []
 def add(proto, rev, items):
     for i, (txt, plane, dp, dp2) in enumerate(items, 1): R.append((proto, rev, f'{rev}#{i}', txt, plane, dp, dp2))
@@ -18,7 +20,7 @@ add('MCP', '2025-03-26', [
  ('Tool annotations (read-only, destructive, ...)', 'P3', 'OTHER', 'DP4'),
  ('message field on ProgressNotification', 'P2', 'DP3', ''),
  ('Audio content type', 'P4', 'OTHER', ''),
- ('completions capability declared explicitly', 'P4', 'OTHER', ''),
+ ('completions capability declared explicitly', 'P3', 'DP5', ''),  # adjudicated 2026-11-08 (was P4/OTHER)
 ])
 add('MCP', '2025-06-18', [
  ('JSON-RPC batching removed', 'P1', 'DP5', ''),
@@ -39,7 +41,7 @@ add('MCP', '2025-11-25', [
  ('Icons for tools, resources, templates, prompts', 'P3', 'OTHER', ''),
  ('Incremental scope consent via WWW-Authenticate', 'P5', 'DP2', ''),
  ('Guidance on tool names', 'P3', 'DP5', ''),
- ('Standards-based ElicitResult/EnumSchema', 'P4', 'DP4', 'DP5'),
+ ('Standards-based ElicitResult/EnumSchema', 'P4', 'DP5', 'DP4'),  # adjudicated 2026-11-08 (was DP4/DP5)
  ('URL-mode elicitation', 'P4', 'DP4', ''),
  ('Tool calling in sampling (tools, toolChoice)', 'P4', 'OTHER', ''),
  ('Client ID Metadata Documents recommended for registration', 'P5', 'DP2', ''),
@@ -72,7 +74,7 @@ add('MCP', '2026-07-28', [
  ('SSE resumability and redelivery (Last-Event-ID) removed', 'P2', 'DP1', ''),
  ('extensions field in client/server capabilities', 'P6', 'DP5', ''),
  ('OpenTelemetry trace-context propagation in _meta', 'P1', 'OTHER', ''),
- ('Deterministic tools/list order', 'P3', 'OTHER', ''),
+ ('Deterministic tools/list order', 'P3', 'DP1', ''),  # adjudicated 2026-11-08 (was OTHER)
  ('Mcp-Method and Mcp-Name headers on Streamable HTTP POST', 'P1', 'DP1', ''),
  ('ttlMs and cacheScope on list/read results', 'P3', 'DP1', ''),
  ('Resource-not-found error code changed', 'P4', 'DP5', ''),
@@ -121,7 +123,7 @@ add('A2A', '1.0', [
  ('Extension versioning and requirements; A2A-Extensions header', 'P6', 'DP5', ''),
  ('Simplified identifiers', 'P4', 'DP5', ''),
  ('/v1 URL prefix removed', 'P1', 'DP5', ''),
- ('tenant field: one endpoint serves many agents', 'P2', 'DP1', ''),
+ ('tenant field: one endpoint serves many agents', 'P1', 'DP1', ''),  # adjudicated 2026-11-08 (was P2)
  ('Agent Card signatures specified with JCS canonicalization and verification rules (signatures added in 0.3)', 'P3', 'OTHER', ''),
  ('OAuth device authorization grant added', 'P5', 'DP2', ''),
  ('OAuth implicit and password flows removed', 'P5', 'DP2', ''),

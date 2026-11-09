@@ -1,0 +1,6 @@
+wrote returned/second_coder_sample_filled.tsv
+--- kappa.py (report this) ---
+primary_dp: n=30 agreement=0.900 kappa=0.868
+plane: n=30 agreement=0.867 kappa=0.833
+--- supplementary ---
+lenient DP agreement (primary or secondary): 28/30

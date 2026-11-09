@@ -5,7 +5,7 @@ MCP	2025-03-26	2025-03-26#3	JSON-RPC batching added	P1	OTHER
 MCP	2025-03-26	2025-03-26#4	Tool annotations (read-only, destructive, ...)	P3	OTHER	DP4
 MCP	2025-03-26	2025-03-26#5	message field on ProgressNotification	P2	DP3	
 MCP	2025-03-26	2025-03-26#6	Audio content type	P4	OTHER	
-MCP	2025-03-26	2025-03-26#7	completions capability declared explicitly	P4	OTHER	
+MCP	2025-03-26	2025-03-26#7	completions capability declared explicitly	P3	DP5	
 MCP	2025-06-18	2025-06-18#1	JSON-RPC batching removed	P1	DP5	
 MCP	2025-06-18	2025-06-18#2	Structured tool output	P4	OTHER	DP5
 MCP	2025-06-18	2025-06-18#3	Servers classified as OAuth resource servers; protected-resource metadata	P5	DP2	
@@ -22,7 +22,7 @@ MCP	2025-11-25	2025-11-25#1	OpenID Connect Discovery for authorization servers	P
 MCP	2025-11-25	2025-11-25#2	Icons for tools, resources, templates, prompts	P3	OTHER	
 MCP	2025-11-25	2025-11-25#3	Incremental scope consent via WWW-Authenticate	P5	DP2	
 MCP	2025-11-25	2025-11-25#4	Guidance on tool names	P3	DP5	
-MCP	2025-11-25	2025-11-25#5	Standards-based ElicitResult/EnumSchema	P4	DP4	DP5
+MCP	2025-11-25	2025-11-25#5	Standards-based ElicitResult/EnumSchema	P4	DP5	DP4
 MCP	2025-11-25	2025-11-25#6	URL-mode elicitation	P4	DP4	
 MCP	2025-11-25	2025-11-25#7	Tool calling in sampling (tools, toolChoice)	P4	OTHER	
 MCP	2025-11-25	2025-11-25#8	Client ID Metadata Documents recommended for registration	P5	DP2	
@@ -53,7 +53,7 @@ MCP	2026-07-28	2026-07-28#8	Required resultType (complete | input_required)	P4	D
 MCP	2026-07-28	2026-07-28#9	SSE resumability and redelivery (Last-Event-ID) removed	P2	DP1	
 MCP	2026-07-28	2026-07-28#10	extensions field in client/server capabilities	P6	DP5	
 MCP	2026-07-28	2026-07-28#11	OpenTelemetry trace-context propagation in _meta	P1	OTHER	
-MCP	2026-07-28	2026-07-28#12	Deterministic tools/list order	P3	OTHER	
+MCP	2026-07-28	2026-07-28#12	Deterministic tools/list order	P3	DP1	
 MCP	2026-07-28	2026-07-28#13	Mcp-Method and Mcp-Name headers on Streamable HTTP POST	P1	DP1	
 MCP	2026-07-28	2026-07-28#14	ttlMs and cacheScope on list/read results	P3	DP1	
 MCP	2026-07-28	2026-07-28#15	Resource-not-found error code changed	P4	DP5	
@@ -97,7 +97,7 @@ A2A	1.0	1.0#11	supportedInterfaces[] with per-interface protocol version	P3	DP5
 A2A	1.0	1.0#12	Extension versioning and requirements; A2A-Extensions header	P6	DP5	
 A2A	1.0	1.0#13	Simplified identifiers	P4	DP5	
 A2A	1.0	1.0#14	/v1 URL prefix removed	P1	DP5	
-A2A	1.0	1.0#15	tenant field: one endpoint serves many agents	P2	DP1	
+A2A	1.0	1.0#15	tenant field: one endpoint serves many agents	P1	DP1	
 A2A	1.0	1.0#16	Agent Card signatures specified with JCS canonicalization and verification rules (signatures added in 0.3)	P3	OTHER	
 A2A	1.0	1.0#17	OAuth device authorization grant added	P5	DP2	
 A2A	1.0	1.0#18	OAuth implicit and password flows removed	P5	DP2	

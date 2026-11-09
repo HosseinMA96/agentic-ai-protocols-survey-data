@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
-"""Cohen's kappa between dp_coding.tsv (coder 1) and a filled second_coder_sample.tsv (coder 2).
-usage: kappa.py [second_coder_sample.tsv]"""
+"""Cohen's kappa between coder 1 and a filled second_coder_sample.tsv (coder 2).
+usage: kappa.py [second_coder_sample.tsv] [coder1.tsv]
+coder1.tsv defaults to dp_coding.tsv. The kappa reported in the paper compares coder 2 with the codes as they were
+BEFORE adjudication: kappa.py second_coder_sample_filled.tsv dp_coding_pre_adjudication.tsv"""
 import csv, sys, collections
-c1 = {r['item']: r for r in csv.DictReader(open('dp_coding.tsv'), delimiter='\t')}
+c1 = {r['item']: r for r in csv.DictReader(open(sys.argv[2] if len(sys.argv) > 2 else 'dp_coding.tsv'), delimiter='\t')}
 s = [r for r in csv.DictReader(open(sys.argv[1] if len(sys.argv) > 1 else 'second_coder_sample.tsv'), delimiter='\t') if r['primary_dp_coder2'].strip()]
 if not s: sys.exit('second coder column is empty')
 for col1, col2 in (('primary_dp', 'primary_dp_coder2'), ('plane', 'plane_coder2')):

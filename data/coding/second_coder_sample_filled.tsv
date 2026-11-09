@@ -1,0 +1,31 @@
+item	protocol	change	primary_dp_coder2	plane_coder2	confidence	notes
+2025-03-26#4	MCP	Tool annotations (read-only, destructive, ...)	OTHER	P3	medium	Entry: annotations 'for better describing tool behavior, like whether it is read-only or destructive'. Richer tool description, no DP fits. Plane could also be P4.
+2025-03-26#7	MCP	completions capability declared explicitly	DP5	P3	medium	Entry: capability added 'to explicitly indicate support for argument autocompletion'. Read as making capability declaration explicit/normative. Runner-up OTHER.
+2025-06-18#2	MCP	Structured tool output	OTHER	P4	medium	Richer primitive (structured results). Plane could also be P3 (tool output schema).
+2025-06-18#6	MCP	Elicitation (server requests information from the user)	DP4	P4	high	
+2025-06-18#10	MCP	_meta field on more interface types	DP5	P4	medium	Adds _meta to more interface types 'and specify proper usage': extension point + normative usage. Plane could also be P6 (extension mechanism).
+2025-11-25#1	MCP	OpenID Connect Discovery for authorization servers	DP2	P5	high	Plane could arguably be P3 (discovery), but it is discovery of the authorization server.
+2025-11-25#3	MCP	Incremental scope consent via WWW-Authenticate	DP2	P5	high	
+2025-11-25#5	MCP	Standards-based ElicitResult/EnumSchema	DP5	P4	medium	Entry stresses 'more standards-based approach' for the schemas. Runner-up DP4 (reshapes elicitation).
+2025-11-25#16	MCP	Clarification of polling/resumption semantics for GET streams	DP1	P2	medium	Entry clarifies GET-stream polling/resumption and server-initiated disconnection. Runner-up DP5 (it is a clarification).
+2025-11-25#20	MCP	Request payloads decoupled into standalone parameter schemas	DP5	P4	medium	Schema restructuring (rigor) is clear. Plane could also be P1 (message encoding/schema).
+2025-11-25#21	MCP	Formal governance structure	DP6	P6	high	
+2025-11-25#22	MCP	Community communication practices	DP6	P6	medium	Community communication guidelines read as governance/process. Runner-up OTHER.
+2026-07-28#1	MCP	Protocol-level sessions and Mcp-Session-Id removed	DP1	P2	high	Removes protocol-level session state; plane could also be P1 (header removed from Streamable HTTP), but statefulness is the main change.
+2026-07-28#10	MCP	extensions field in client/server capabilities	DP5	P6	medium	Adds an extension point ('optional extensions beyond the core'). Plane could also be P3 (capabilities).
+2026-07-28#12	MCP	Deterministic tools/list order	DP1	P3	medium	Entry states the reason: 'to enable client-side caching'. Plane could also be P4.
+2026-07-28#16	MCP	iss parameter (RFC 9207); clients must validate	DP2	P5	high	
+2026-07-28#20	MCP	elicitation/complete notification and elicitationId removed	DP4	P4	medium	Entry justifies removal by the MRTR pattern for out-of-band user interaction. Runner-up DP5 (feature removal).
+0.2-0.3#7	A2A	0.2.4: multiple transport announcement in Agent Card	OTHER	P3	medium	read PR (#749, adds only 'backward compatible'). No DP fits clearly; richer Agent Card description. Runner-up DP5; plane could also be P1.
+0.2-0.3#8	A2A	0.2.5: required protocol version in Agent Card (breaking)	DP5	P6	medium	read PR (#802, no rationale). Required version field = tighter normative definition. Runner-up DP6; plane could also be P3 (Agent Card).
+0.2-0.3#11	A2A	0.3.0: well-known URI renamed agent.json -> agent-card.json (breaking)	DP5	P3	high	Naming change of the well-known URI.
+1.0#1	A2A	a2a.proto becomes the normative source	DP5	P6	medium	Listed under 'Protocol Maturity and Standardization' (proto as normative source of truth). Plane could also be P1 (wire schema).
+1.0#4	A2A	Versioning strategy; A2A-Version header negotiation	DP5	P6	medium	'Enhanced versioning strategy with explicit backward compatibility rules'; A2A-Version header. Runner-up DP6 (lifecycle: 'graceful deprecation of old protocol versions').
+1.0#12	A2A	Extension versioning and requirements; A2A-Extensions header	DP5	P6	high	Extension mechanism gains versioning and required-extension declarations.
+1.0#13	A2A	Simplified identifiers	DP5	P4	medium	Compound IDs replaced by simple literals ('simpler to implement'). Runner-up OTHER.
+1.0#15	A2A	tenant field: one endpoint serves many agents	DP1	P1	medium	Entry: native multi-tenancy, 'serve multiple agents from a single endpoint'. Pressure clear; plane could also be P3 (default tenant on AgentInterface) or P4.
+1.0#17	A2A	OAuth device authorization grant added	DP2	P5	high	
+1.0#18	A2A	OAuth implicit and password flows removed	DP2	P5	high	Removed per OAuth Security BCP.
+1.0#19	A2A	pkce_required on authorization-code flow	DP2	P5	high	
+1.0#23	A2A	Unified Part type (text, raw, url, data)	DP5	P4	medium	Redesign removes kind discriminator for member-based polymorphism (type-safety theme). Runner-up OTHER (new raw/url/filename/mediaType content fields).
+1.0#24	A2A	Stream events wrapped; final flag removed; terminal state by stream closure	DP5	P2	medium	Discriminator removal and wrapper pattern (type safety); completion signalled by stream closure. Runner-up DP3; plane could also be P4.
