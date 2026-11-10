@@ -27,6 +27,7 @@ the reference-verification reports, and the scripts that produce them.
 | `data/coding/kappa_output_part2.txt` | Round 2: primary 0.834 (67/77), plane 0.780 (63/77); all 107 items: primary 0.844 (94/107), plane 0.797 (89/107); lenient 70/77, 98/107 | §II-C |
 | `data/coding/adjudication.tsv` | Round 1: the six disagreements and their resolution (four first codes changed) | §II-C |
 | `data/coding/adjudication_part2.tsv` | Round 2: the 19 disagreements, their resolution, and the changelog text behind each (15 first codes changed) | §II-C |
+| `scripts/adjudication_direction.py` | Direction of adjudication: for each disagreeing code, whether the second coder's code, the first code, or a third code was adopted (23 / 8 / 0 of 31) | Appendix A |
 | `data/coding/second_coder_instructions.md` | Instructions given to the second coder: rules, codebook, procedure, six worked examples outside the sample, FAQ | §II-C |
 | `data/coverage/first_run/gaps.tsv` | Works cited by competing surveys and not by us (first run, Nov. 1, 2026) | §II-E |
 | `data/coverage/rerun_2026-11-05/surveys.txt`, `gaps.tsv`, `log.txt` | The 16 surveys used and the re-run of the gap list | §II-E |
@@ -63,6 +64,7 @@ python3 scripts/openalex_supplement.py data/harvest/screening.csv data/bib/refer
 (cd data/coding && python3 ../../scripts/kappa.py second_coder_sample_filled.tsv dp_coding_pre_adjudication.tsv)   # kappa, round 1
 (cd data/coding && python3 ../../scripts/kappa.py second_coder_part2_filled.tsv dp_coding_pre_adjudication.tsv)    # kappa, round 2
 (cd data/coding && python3 ../../scripts/kappa.py second_coder_all_filled.tsv dp_coding_pre_adjudication.tsv)      # kappa, all 107 items
+python3 scripts/adjudication_direction.py   # Appendix A: adjudication outcome per disagreeing code
 ```
 
 The harvest and network-based checks query live APIs (arXiv, Crossref, Semantic Scholar, OpenAlex),
@@ -82,6 +84,12 @@ outputs used in the paper.
 
 Scripts: MIT. Data in `data/`: CC BY 4.0. See `LICENSE`. Records derived from arXiv, Crossref, and
 OpenAlex metadata keep the terms of those services (arXiv metadata and OpenAlex are CC0).
+
+## Changes in version 1.5 (November 2026)
+
+- `scripts/adjudication_direction.py`: the direction of adjudication reported in the survey's Appendix A
+  (of 31 disagreeing codes, 23 resolved to the second coder's code, 8 kept the first code, none to a third code;
+  no code on which the coders agreed was changed).
 
 ## Changes in version 1.4 (November 2026)
 
@@ -130,5 +138,5 @@ OpenAlex metadata keep the terms of those services (arXiv metadata and OpenAlex 
 
 Please cite the survey (arXiv identifier to be added) and this repository:
 
-H. Mohasel Arjomandi and A. GhaffarTehrani, *Data and Scripts for "Agentic AI Protocols"*, version 1.4, Zenodo, 2026.
+H. Mohasel Arjomandi and A. GhaffarTehrani, *Data and Scripts for "Agentic AI Protocols"*, version 1.5, Zenodo, 2026.
 DOI (all versions, resolves to the latest): [10.5281/zenodo.24000345](https://doi.org/10.5281/zenodo.24000345)
