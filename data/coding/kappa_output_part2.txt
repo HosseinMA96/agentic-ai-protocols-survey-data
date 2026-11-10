@@ -1,0 +1,8 @@
+--- kappa.py (report this) ---
+primary_dp: n=77 agreement=0.870 kappa=0.834
+plane: n=77 agreement=0.818 kappa=0.780
+--- kappa on all double-coded items (sample + part 2) ---
+primary_dp: n=107 agreement=0.879 kappa=0.844
+plane: n=107 agreement=0.832 kappa=0.797
+--- supplementary ---
+lenient DP agreement (primary or secondary): 70/77 (round 2), 98/107 (all)

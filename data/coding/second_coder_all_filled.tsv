@@ -1,0 +1,108 @@
+item	protocol	change	primary_dp_coder2	plane_coder2	confidence	notes
+2025-03-26#4	MCP	Tool annotations (read-only, destructive, ...)	OTHER	P3	medium	Entry: annotations 'for better describing tool behavior, like whether it is read-only or destructive'. Richer tool description, no DP fits. Plane could also be P4.
+2025-03-26#7	MCP	completions capability declared explicitly	DP5	P3	medium	Entry: capability added 'to explicitly indicate support for argument autocompletion'. Read as making capability declaration explicit/normative. Runner-up OTHER.
+2025-06-18#2	MCP	Structured tool output	OTHER	P4	medium	Richer primitive (structured results). Plane could also be P3 (tool output schema).
+2025-06-18#6	MCP	Elicitation (server requests information from the user)	DP4	P4	high	
+2025-06-18#10	MCP	_meta field on more interface types	DP5	P4	medium	Adds _meta to more interface types 'and specify proper usage': extension point + normative usage. Plane could also be P6 (extension mechanism).
+2025-11-25#1	MCP	OpenID Connect Discovery for authorization servers	DP2	P5	high	Plane could arguably be P3 (discovery), but it is discovery of the authorization server.
+2025-11-25#3	MCP	Incremental scope consent via WWW-Authenticate	DP2	P5	high	
+2025-11-25#5	MCP	Standards-based ElicitResult/EnumSchema	DP5	P4	medium	Entry stresses 'more standards-based approach' for the schemas. Runner-up DP4 (reshapes elicitation).
+2025-11-25#16	MCP	Clarification of polling/resumption semantics for GET streams	DP1	P2	medium	Entry clarifies GET-stream polling/resumption and server-initiated disconnection. Runner-up DP5 (it is a clarification).
+2025-11-25#20	MCP	Request payloads decoupled into standalone parameter schemas	DP5	P4	medium	Schema restructuring (rigor) is clear. Plane could also be P1 (message encoding/schema).
+2025-11-25#21	MCP	Formal governance structure	DP6	P6	high	
+2025-11-25#22	MCP	Community communication practices	DP6	P6	medium	Community communication guidelines read as governance/process. Runner-up OTHER.
+2026-07-28#1	MCP	Protocol-level sessions and Mcp-Session-Id removed	DP1	P2	high	Removes protocol-level session state; plane could also be P1 (header removed from Streamable HTTP), but statefulness is the main change.
+2026-07-28#10	MCP	extensions field in client/server capabilities	DP5	P6	medium	Adds an extension point ('optional extensions beyond the core'). Plane could also be P3 (capabilities).
+2026-07-28#12	MCP	Deterministic tools/list order	DP1	P3	medium	Entry states the reason: 'to enable client-side caching'. Plane could also be P4.
+2026-07-28#16	MCP	iss parameter (RFC 9207); clients must validate	DP2	P5	high	
+2026-07-28#20	MCP	elicitation/complete notification and elicitationId removed	DP4	P4	medium	Entry justifies removal by the MRTR pattern for out-of-band user interaction. Runner-up DP5 (feature removal).
+0.2-0.3#7	A2A	0.2.4: multiple transport announcement in Agent Card	OTHER	P3	medium	read PR (#749, adds only 'backward compatible'). No DP fits clearly; richer Agent Card description. Runner-up DP5; plane could also be P1.
+0.2-0.3#8	A2A	0.2.5: required protocol version in Agent Card (breaking)	DP5	P6	medium	read PR (#802, no rationale). Required version field = tighter normative definition. Runner-up DP6; plane could also be P3 (Agent Card).
+0.2-0.3#11	A2A	0.3.0: well-known URI renamed agent.json -> agent-card.json (breaking)	DP5	P3	high	Naming change of the well-known URI.
+1.0#1	A2A	a2a.proto becomes the normative source	DP5	P6	medium	Listed under 'Protocol Maturity and Standardization' (proto as normative source of truth). Plane could also be P1 (wire schema).
+1.0#4	A2A	Versioning strategy; A2A-Version header negotiation	DP5	P6	medium	'Enhanced versioning strategy with explicit backward compatibility rules'; A2A-Version header. Runner-up DP6 (lifecycle: 'graceful deprecation of old protocol versions').
+1.0#12	A2A	Extension versioning and requirements; A2A-Extensions header	DP5	P6	high	Extension mechanism gains versioning and required-extension declarations.
+1.0#13	A2A	Simplified identifiers	DP5	P4	medium	Compound IDs replaced by simple literals ('simpler to implement'). Runner-up OTHER.
+1.0#15	A2A	tenant field: one endpoint serves many agents	DP1	P1	medium	Entry: native multi-tenancy, 'serve multiple agents from a single endpoint'. Pressure clear; plane could also be P3 (default tenant on AgentInterface) or P4.
+1.0#17	A2A	OAuth device authorization grant added	DP2	P5	high	
+1.0#18	A2A	OAuth implicit and password flows removed	DP2	P5	high	Removed per OAuth Security BCP.
+1.0#19	A2A	pkce_required on authorization-code flow	DP2	P5	high	
+1.0#23	A2A	Unified Part type (text, raw, url, data)	DP5	P4	medium	Redesign removes kind discriminator for member-based polymorphism (type-safety theme). Runner-up OTHER (new raw/url/filename/mediaType content fields).
+1.0#24	A2A	Stream events wrapped; final flag removed; terminal state by stream closure	DP5	P2	medium	Discriminator removal and wrapper pattern (type safety); completion signalled by stream closure. Runner-up DP3; plane could also be P4.
+2025-03-26#3	MCP	JSON-RPC batching added	OTHER	P1	medium	Entry gives no rationale for batching (wire-format feature); runner-up DP1
+2025-03-26#5	MCP	message field on ProgressNotification	DP3	P2	medium	Progress reporting for long-running work; plane could also be P4
+2025-06-18#1	MCP	JSON-RPC batching removed	DP5	P1	high	Removes a feature
+2025-06-18#3	MCP	Servers classified as OAuth resource servers; protected-resource metadata	DP2	P5	high	
+2025-06-18#4	MCP	Clients must implement RFC 8707 resource indicators	DP2	P5	high	Adopts RFC 8707; stated aim (prevent token theft) is security, but via an OAuth mechanism
+2025-06-18#5	MCP	Authorization security considerations and security best-practices page	OTHER	P5	medium	Security clarification + general best-practices page (security hardening); runner-up DP2
+2025-06-18#7	MCP	Resource links in tool results	OTHER	P4	high	Richer tool-result content
+2025-06-18#8	MCP	MCP-Protocol-Version header required on subsequent HTTP requests	DP1	P1	medium	Version carried on every HTTP request (self-describing); runner-up DP5; plane could also be P6
+2025-06-18#9	MCP	Lifecycle operation SHOULD -> MUST	DP5	P2	medium	Tightens normative wording; plane could also be P4 (lifecycle = connection lifecycle, read as session)
+2025-06-18#11	MCP	context field on CompletionRequest	OTHER	P4	medium	Richer completion primitive; runner-up DP1 (request carries its own context)
+2025-06-18#12	MCP	title field for human-friendly names	DP5	P3	medium	Why = keep name as programmatic identifier (naming rigor); runner-up OTHER (UI display); plane could also be P4
+2025-11-25#2	MCP	Icons for tools, resources, templates, prompts	OTHER	P3	medium	Richer UI metadata; plane could also be P4
+2025-11-25#4	MCP	Guidance on tool names	DP5	P3	medium	Naming guidance; plane could also be P4
+2025-11-25#6	MCP	URL-mode elicitation	DP4	P4	high	
+2025-11-25#7	MCP	Tool calling in sampling (tools, toolChoice)	OTHER	P4	high	Richer sampling primitive
+2025-11-25#8	MCP	Client ID Metadata Documents recommended for registration	DP2	P5	high	
+2025-11-25#10	MCP	stdio servers may log to stderr	DP5	P1	medium	Clarifies stdio normative text; runner-up OTHER (logging/observability)
+2025-11-25#11	MCP	Optional description on Implementation (aligns with registry server.json)	OTHER	P3	medium	Richer self-description, aligned with registry server.json; runner-up DP5
+2025-11-25#12	MCP	HTTP 403 for invalid Origin headers	DP5	P1	medium	Specifies error status; runner-up OTHER (Origin check = security hardening, though entry does not say so)
+2025-11-25#13	MCP	Security best-practices guidance updated	OTHER	P5	medium	Entry terse; security guidance outside OAuth; runner-up DP2
+2025-11-25#14	MCP	Input validation errors returned as tool execution errors	DP5	P4	medium	Tightens error classification; runner-up OTHER (stated aim: model self-correction)
+2025-11-25#15	MCP	Polling SSE streams: servers may disconnect at will	DP1	P2	medium	Supports polling, avoids held-open streams; plane could also be P1
+2025-11-25#17	MCP	Protected-resource metadata discovery aligned with RFC 9728	DP2	P5	medium	Aligns with RFC 9728; plane could also be P3 (discovery)
+2025-11-25#18	MCP	Default values in elicitation schemas	DP4	P4	medium	Reshapes elicitation; runner-up OTHER (richer schema)
+2025-11-25#19	MCP	JSON Schema 2020-12 as default dialect	DP5	P3	medium	Tightens schema definitions; plane could also be P1
+2025-11-25#23	MCP	Working groups and interest groups	DP6	P6	high	
+2026-07-28#2	MCP	initialize handshake removed; per-request _meta	DP1	P2	high	Entry: 'Make MCP stateless'
+2026-07-28#3	MCP	server/discover RPC	DP1	P3	medium	Part of stateless redesign (replaces handshake for version/capability discovery); runner-up OTHER
+2026-07-28#4	MCP	subscriptions/listen replaces GET endpoint and resources/subscribe	DP1	P2	medium	Subscriptions scoped to a request stream rather than a session/GET endpoint; runner-up DP5 (consolidation)
+2026-07-28#5	MCP	ping, logging/setLevel, roots/list_changed removed	DP1	P2	medium	Log level moves to per-request _meta (removes session-level state); runner-up DP5 (removes features); plane could also be P4
+2026-07-28#6	MCP	Tasks moved to io.modelcontextprotocol/tasks extension; tasks/update	DP5	P6	medium	Moves feature to extension; runner-up DP3; plane could also be P2
+2026-07-28#7	MCP	Multi Round-Trip Requests replace server-initiated requests	DP4	P4	medium	MRTR named in codebook; runner-up DP1; plane could also be P2
+2026-07-28#8	MCP	Required resultType (complete | input_required)	DP4	P4	medium	Field exists to signal MRTR input_required; runner-up DP5 (required schema field)
+2026-07-28#9	MCP	SSE resumability and redelivery (Last-Event-ID) removed	DP1	P2	medium	Removes server-side stream/redelivery state; runner-up DP5 (removes feature)
+2026-07-28#11	MCP	OpenTelemetry trace-context propagation in _meta	OTHER	P1	medium	Observability; plane could also be P4 (_meta conventions)
+2026-07-28#13	MCP	Mcp-Method and Mcp-Name headers on Streamable HTTP POST	DP1	P1	high	Requests routable without the body
+2026-07-28#14	MCP	ttlMs and cacheScope on list/read results	DP1	P3	medium	Caching / reduced polling / shared intermediaries; plane could also be P4
+2026-07-28#15	MCP	Resource-not-found error code changed	DP5	P4	medium	Aligns error code with JSON-RPC; plane could also be P1
+2026-07-28#17	MCP	application_type required in Dynamic Client Registration	DP2	P5	high	
+2026-07-28#18	MCP	Client credentials bound to issuing authorization server	DP2	P5	high	Tightens OAuth client-credential handling
+2026-07-28#19	MCP	inputSchema/outputSchema accept any JSON Schema 2020-12 keywords	DP5	P3	medium	Schema rules (loosened keywords, added $ref/bounds requirements); runner-up OTHER (richer tool schemas)
+2026-07-28#21	MCP	Error-code allocation policy	DP5	P6	medium	Error-code rigor; runner-up DP6 (allocation policy); plane could also be P1
+2026-07-28#22	MCP	Roots, Sampling, Logging deprecated	DP5	P4	medium	Deprecates features; plane could also be P6
+2026-07-28#23	MCP	HTTP+SSE transport reclassified as Deprecated	DP5	P1	medium	Deprecation; runner-up DP6 (reclassified under lifecycle policy); plane could also be P6
+2026-07-28#24	MCP	includeContext values thisServer/allServers deprecated	DP5	P4	medium	Deprecation; runner-up DP6 (reclassified under lifecycle policy); plane could also be P6
+2026-07-28#25	MCP	Dynamic Client Registration deprecated in favor of CIMD	DP2	P5	medium	Removes/deprecates an OAuth mechanism (RFC 7591) in favor of CIMD; runner-up DP5
+2026-07-28#26	MCP	schema.json numeric types corrected	DP5	P1	medium	Schema correction; plane could also be P4
+2026-07-28#27	MCP	Feature lifecycle and 12-month deprecation policy	DP6	P6	high	
+2026-07-28#28	MCP	PR-based SEP workflow	DP6	P6	high	
+0.2-0.3#1	A2A	0.2.1: flag for authenticated extended Agent Cards	OTHER	P3	medium	No DP fits well (authenticated card, not OAuth); plane could also be P5
+0.2-0.3#2	A2A	0.2.1: referenceTaskIds for task follow-ups	OTHER	P4	medium	Richer task primitive (follow-up references); runner-up DP3
+0.2-0.3#3	A2A	0.2.2: resolve inconsistencies with JSON-RPC 2.0 (breaking)	DP5	P1	high	Consistency with JSON-RPC 2.0
+0.2-0.3#4	A2A	0.2.2: gRPC and REST definitions	OTHER	P1	medium	Additional bindings; entry gives no rationale; runner-up DP5
+0.2-0.3#5	A2A	0.2.2: protocol support for extensions	DP5	P6	high	Adds extension points
+0.2-0.3#6	A2A	0.2.2: optional iconUrl on Agent Card	OTHER	P3	high	Richer UI metadata on Agent Card
+0.2-0.3#9	A2A	0.2.5: multiple push-notification configs per task (breaking)	DP3	P2	medium	Push notifications for tasks; plane could also be P4
+0.2-0.3#10	A2A	0.3.0: mTLS security scheme, OAuth 2.0 metadata URL, per-skill security (breaking)	OTHER	P5	medium	Mostly security-scheme hardening (mTLS, per-skill security); runner-up DP2 (OAuth metadata URL)
+0.2-0.3#12	A2A	0.3.0: method for fetching the extended Agent Card (breaking)	OTHER	P3	medium	No DP fits well; runner-up DP5; plane could also be P5
+0.2-0.3#13	A2A	0.3.0: signatures on the Agent Card	OTHER	P5	high	Signed metadata; security outside OAuth
+1.0#2	A2A	google.rpc.Status error model replaces RFC 9457	DP5	P1	high	Standardized error model
+1.0#3	A2A	Three bindings formally specified with stricter adherence	DP5	P1	high	
+1.0#5	A2A	Error taxonomy	DP5	P4	medium	Error rigor; plane could also be P1 (protocol-specific mappings)
+1.0#6	A2A	kind discriminators removed	DP5	P4	medium	Type-safety/schema rigor; plane could also be P1
+1.0#8	A2A	camelCase JSON and ISO 8601 timestamps	DP5	P1	medium	Naming/format rigor; plane could also be P4 (cf. enum worked example)
+1.0#9	A2A	Optional vs. required field semantics	DP5	P4	medium	Schema rigor; plane could also be P1
+1.0#10	A2A	Operations renamed (SendMessage, GetTask, ...)	DP5	P4	high	Naming consistency
+1.0#11	A2A	supportedInterfaces[] with per-interface protocol version	DP5	P3	low	Agent Card restructuring plus per-interface versioning for backward compatibility; runner-up DP6 (versioning strategy); plane could also be P6
+1.0#14	A2A	/v1 URL prefix removed	DP5	P1	medium	Simplification; version moved to interface level; runner-up OTHER
+1.0#16	A2A	Agent Card signatures specified with JCS canonicalization and verification rules (signatures added in 0.3)	DP5	P5	medium	Normative spec of existing signatures (JCS/JWS); runner-up OTHER (trust/security)
+1.0#20	A2A	Cursor-based pagination	DP1	P4	medium	Entry: 'for scalable task listing'; runner-up DP5
+1.0#21	A2A	ListTasks operation	DP3	P4	medium	Tracking tasks; runner-up OTHER; plane could also be P2
+1.0#22	A2A	Multiple concurrent streams/subscriptions per task	DP3	P2	medium	Observing long-running tasks via streams; runner-up DP5 (entry marks it CLARIFIED)
+1.0#25	A2A	index field on TaskArtifactUpdateEvent	OTHER	P4	low	Small schema addition, rationale unclear; runner-up DP5; plane could also be P2
+1.0#26	A2A	Push-notification config operations renamed, flattened, authentication enhanced	DP5	P4	medium	Renaming/flattening; runner-up DP3; plane could also be P2
+1.0#27	A2A	returnImmediately execution-mode control	DP3	P2	medium	Return immediately, poll later (deferred results); runner-up DP1; plane could also be P4
+1.0#28	A2A	Task visibility and authorization scoped to the caller	OTHER	P5	medium	Access scoping = security outside OAuth; runner-up DP5 (entry marks it CLARIFIED)
+1.0#29	A2A	extensions[] on Message and Artifact	DP5	P6	medium	Extension points; plane could also be P4

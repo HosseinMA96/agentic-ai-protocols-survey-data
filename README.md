@@ -19,10 +19,14 @@ the reference-verification reports, and the scripts that produce them.
 | `data/coding/dp_coding.tsv` | 113 changelog changes (MCP 2025-03-26 to 2026-07-28; A2A 0.2.1–0.3.0 and 0.3→1.0), each with concern plane and primary/secondary design pressure (adjudicated codes, used in Table VI) | §II-C, §IX-B, Table VI |
 | `data/coding/CODEBOOK.md` | Coding rules for DP1–DP6, "other", and planes | §II-C |
 | `data/coding/second_coder_sample.tsv` | Blinded 30-item sample for an independent second coder (blank form) | §II-C |
-| `data/coding/second_coder_sample_filled.tsv` | The second coder's codes for the 30 items (primary pressure, plane, confidence, notes) | §II-C |
-| `data/coding/dp_coding_pre_adjudication.tsv` | First codes before adjudication (the basis of the reported κ) | §II-C |
-| `data/coding/kappa_output.txt` | Cohen's κ: primary pressure 0.868 (27/30), plane 0.833 (26/30); lenient agreement 28/30 | §II-C |
-| `data/coding/adjudication.tsv` | The six disagreements and their resolution (four first codes changed) | §II-C |
+| `data/coding/second_coder_sample_filled.tsv` | The second coder's codes for the 30 items (round 1: primary pressure, plane, confidence, notes) | §II-C |
+| `data/coding/second_coder_part2_filled.tsv` | The second coder's codes for the other 77 items (round 2; all items except the 30 and the six worked examples) | §II-C |
+| `data/coding/second_coder_all_filled.tsv` | Both rounds joined: 107 double-coded items | §II-C |
+| `data/coding/dp_coding_pre_adjudication.tsv` | First codes before any adjudication (the basis of every reported κ) | §II-C |
+| `data/coding/kappa_output.txt` | Round 1, Cohen's κ: primary pressure 0.868 (27/30), plane 0.833 (26/30); lenient agreement 28/30 | §II-C |
+| `data/coding/kappa_output_part2.txt` | Round 2: primary 0.834 (67/77), plane 0.780 (63/77); all 107 items: primary 0.844 (94/107), plane 0.797 (89/107); lenient 70/77, 98/107 | §II-C |
+| `data/coding/adjudication.tsv` | Round 1: the six disagreements and their resolution (four first codes changed) | §II-C |
+| `data/coding/adjudication_part2.tsv` | Round 2: the 19 disagreements, their resolution, and the changelog text behind each (15 first codes changed) | §II-C |
 | `data/coding/second_coder_instructions.md` | Instructions given to the second coder: rules, codebook, procedure, six worked examples outside the sample, FAQ | §II-C |
 | `data/coverage/first_run/gaps.tsv` | Works cited by competing surveys and not by us (first run, Nov. 1, 2026) | §II-E |
 | `data/coverage/rerun_2026-11-05/surveys.txt`, `gaps.tsv`, `log.txt` | The 16 surveys used and the re-run of the gap list | §II-E |
@@ -48,7 +52,7 @@ the reference-verification reports, and the scripts that produce them.
 Run from the repository root (Python 3, standard library only):
 
 ```bash
-python3 scripts/build_coding.py            # Table VI: 113 changes, 92 explained by DP1-DP6
+python3 scripts/build_coding.py            # Table VI: 113 changes, 91 explained by DP1-DP6
 python3 scripts/provenance.py              # Table II: provenance of the 280 cited works
 python3 scripts/learning_screen.py         # learning-centric screen: 37 flagged, 7 cited before it, 9 added
 python3 scripts/verify_arxiv_ids.py data/bib/references.bib out.tsv
@@ -56,7 +60,9 @@ python3 scripts/verify_dois.py data/bib/references.bib out.tsv
 python3 scripts/check_withdrawn.py data/bib/references.bib out.tsv
 python3 scripts/title_retrieval.py data/harvest/screening.csv data/bib/references.bib out.tsv
 python3 scripts/openalex_supplement.py data/harvest/screening.csv data/bib/references.bib out.tsv
-(cd data/coding && python3 ../../scripts/kappa.py second_coder_sample_filled.tsv dp_coding_pre_adjudication.tsv)   # reported kappa
+(cd data/coding && python3 ../../scripts/kappa.py second_coder_sample_filled.tsv dp_coding_pre_adjudication.tsv)   # kappa, round 1
+(cd data/coding && python3 ../../scripts/kappa.py second_coder_part2_filled.tsv dp_coding_pre_adjudication.tsv)    # kappa, round 2
+(cd data/coding && python3 ../../scripts/kappa.py second_coder_all_filled.tsv dp_coding_pre_adjudication.tsv)      # kappa, all 107 items
 ```
 
 The harvest and network-based checks query live APIs (arXiv, Crossref, Semantic Scholar, OpenAlex),
@@ -76,6 +82,21 @@ outputs used in the paper.
 
 Scripts: MIT. Data in `data/`: CC BY 4.0. See `LICENSE`. Records derived from arXiv, Crossref, and
 OpenAlex metadata keep the terms of those services (arXiv metadata and OpenAlex are CC0).
+
+## Changes in version 1.4 (November 2026)
+
+- Second round of the changelog coding: the survey's second author, blinded to the first codes and without AI
+  tools, coded the items in two rounds: the 30-item sample (`second_coder_sample_filled.tsv`; κ primary 0.868, plane
+  0.833) and the other 77 items except the six worked examples shown in the instructions
+  (`second_coder_part2_filled.tsv`; κ primary 0.834, plane 0.780). Before round 2 the coder confirmed not having seen
+  the first codes of any of its items. Over all 107 items: κ primary 0.844, plane 0.797. Agreement is lowest for DP3.
+- Disagreements were adjudicated by the first author, supported by an AI assistant, after κ was computed for the
+  round (`adjudication.tsv`: four first codes changed; `adjudication_part2.tsv`: 15 changed). `dp_coding.tsv` holds
+  the adjudicated codes (91 of 113 changes explained by DP1–DP6; 90 before round 1, 92 before round 2);
+  the original first codes are in `dp_coding_pre_adjudication.tsv`. `kappa.py` takes the first-coder file as an
+  optional second argument. `scripts/build_coding.py` writes `data/coding/dp_coding.tsv`.
+- `README.md` and `CODEBOOK.md` describe both rounds; Table VI counts per protocol, period, pressure, and plane change
+  with the round-2 adjudication (§II-C, §IV, §IX-B of the survey).
 
 ## Changes in version 1.3 (November 2026)
 
@@ -109,5 +130,5 @@ OpenAlex metadata keep the terms of those services (arXiv metadata and OpenAlex 
 
 Please cite the survey (arXiv identifier to be added) and this repository:
 
-H. Mohasel Arjomandi, *Data and Scripts for "Agentic AI Protocols"*, version 1.3, Zenodo, 2026.
+H. Mohasel Arjomandi and A. GhaffarTehrani, *Data and Scripts for "Agentic AI Protocols"*, version 1.4, Zenodo, 2026.
 DOI (all versions, resolves to the latest): [10.5281/zenodo.24000345](https://doi.org/10.5281/zenodo.24000345)

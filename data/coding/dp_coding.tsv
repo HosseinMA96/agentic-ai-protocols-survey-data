@@ -10,14 +10,14 @@ MCP	2025-06-18	2025-06-18#1	JSON-RPC batching removed	P1	DP5
 MCP	2025-06-18	2025-06-18#2	Structured tool output	P4	OTHER	DP5
 MCP	2025-06-18	2025-06-18#3	Servers classified as OAuth resource servers; protected-resource metadata	P5	DP2	
 MCP	2025-06-18	2025-06-18#4	Clients must implement RFC 8707 resource indicators	P5	DP2	
-MCP	2025-06-18	2025-06-18#5	Authorization security considerations and security best-practices page	P5	DP2	
+MCP	2025-06-18	2025-06-18#5	Authorization security considerations and security best-practices page	P5	OTHER	DP2
 MCP	2025-06-18	2025-06-18#6	Elicitation (server requests information from the user)	P4	DP4	
 MCP	2025-06-18	2025-06-18#7	Resource links in tool results	P4	OTHER	
 MCP	2025-06-18	2025-06-18#8	MCP-Protocol-Version header required on subsequent HTTP requests	P1	DP1	DP5
 MCP	2025-06-18	2025-06-18#9	Lifecycle operation SHOULD -> MUST	P2	DP5	
 MCP	2025-06-18	2025-06-18#10	_meta field on more interface types	P6	DP5	
 MCP	2025-06-18	2025-06-18#11	context field on CompletionRequest	P4	OTHER	
-MCP	2025-06-18	2025-06-18#12	title field for human-friendly names	P3	OTHER	
+MCP	2025-06-18	2025-06-18#12	title field for human-friendly names	P3	OTHER	DP5
 MCP	2025-11-25	2025-11-25#1	OpenID Connect Discovery for authorization servers	P5	DP2	
 MCP	2025-11-25	2025-11-25#2	Icons for tools, resources, templates, prompts	P3	OTHER	
 MCP	2025-11-25	2025-11-25#3	Incremental scope consent via WWW-Authenticate	P5	DP2	
@@ -29,7 +29,7 @@ MCP	2025-11-25	2025-11-25#8	Client ID Metadata Documents recommended for registr
 MCP	2025-11-25	2025-11-25#9	Experimental tasks (durable requests, polling, deferred results)	P2	DP3	
 MCP	2025-11-25	2025-11-25#10	stdio servers may log to stderr	P1	DP5	
 MCP	2025-11-25	2025-11-25#11	Optional description on Implementation (aligns with registry server.json)	P3	OTHER	
-MCP	2025-11-25	2025-11-25#12	HTTP 403 for invalid Origin headers	P1	OTHER	
+MCP	2025-11-25	2025-11-25#12	HTTP 403 for invalid Origin headers	P1	DP5	OTHER
 MCP	2025-11-25	2025-11-25#13	Security best-practices guidance updated	P5	OTHER	
 MCP	2025-11-25	2025-11-25#14	Input validation errors returned as tool execution errors	P4	DP5	
 MCP	2025-11-25	2025-11-25#15	Polling SSE streams: servers may disconnect at will	P2	DP1	
@@ -47,7 +47,7 @@ MCP	2026-07-28	2026-07-28#2	initialize handshake removed; per-request _meta	P2	D
 MCP	2026-07-28	2026-07-28#3	server/discover RPC	P3	DP1	
 MCP	2026-07-28	2026-07-28#4	subscriptions/listen replaces GET endpoint and resources/subscribe	P2	DP1	
 MCP	2026-07-28	2026-07-28#5	ping, logging/setLevel, roots/list_changed removed	P2	DP1	DP5
-MCP	2026-07-28	2026-07-28#6	Tasks moved to io.modelcontextprotocol/tasks extension; tasks/update	P2	DP3	DP5
+MCP	2026-07-28	2026-07-28#6	Tasks moved to io.modelcontextprotocol/tasks extension; tasks/update	P2	DP5	DP3
 MCP	2026-07-28	2026-07-28#7	Multi Round-Trip Requests replace server-initiated requests	P4	DP4	DP1
 MCP	2026-07-28	2026-07-28#8	Required resultType (complete | input_required)	P4	DP4	
 MCP	2026-07-28	2026-07-28#9	SSE resumability and redelivery (Last-Event-ID) removed	P2	DP1	
@@ -62,16 +62,16 @@ MCP	2026-07-28	2026-07-28#17	application_type required in Dynamic Client Registr
 MCP	2026-07-28	2026-07-28#18	Client credentials bound to issuing authorization server	P5	DP2	
 MCP	2026-07-28	2026-07-28#19	inputSchema/outputSchema accept any JSON Schema 2020-12 keywords	P3	DP5	
 MCP	2026-07-28	2026-07-28#20	elicitation/complete notification and elicitationId removed	P4	DP4	DP1
-MCP	2026-07-28	2026-07-28#21	Error-code allocation policy	P4	DP5	
-MCP	2026-07-28	2026-07-28#22	Roots, Sampling, Logging deprecated	P6	DP5	
-MCP	2026-07-28	2026-07-28#23	HTTP+SSE transport reclassified as Deprecated	P6	DP5	
-MCP	2026-07-28	2026-07-28#24	includeContext values thisServer/allServers deprecated	P6	DP5	
+MCP	2026-07-28	2026-07-28#21	Error-code allocation policy	P6	DP5	
+MCP	2026-07-28	2026-07-28#22	Roots, Sampling, Logging deprecated	P4	DP5	
+MCP	2026-07-28	2026-07-28#23	HTTP+SSE transport reclassified as Deprecated	P1	DP5	
+MCP	2026-07-28	2026-07-28#24	includeContext values thisServer/allServers deprecated	P4	DP5	
 MCP	2026-07-28	2026-07-28#25	Dynamic Client Registration deprecated in favor of CIMD	P5	DP2	
 MCP	2026-07-28	2026-07-28#26	schema.json numeric types corrected	P4	DP5	
 MCP	2026-07-28	2026-07-28#27	Feature lifecycle and 12-month deprecation policy	P6	DP6	
 MCP	2026-07-28	2026-07-28#28	PR-based SEP workflow	P6	DP6	
 A2A	0.2-0.3	0.2-0.3#1	0.2.1: flag for authenticated extended Agent Cards	P3	OTHER	
-A2A	0.2-0.3	0.2-0.3#2	0.2.1: referenceTaskIds for task follow-ups	P2	DP3	
+A2A	0.2-0.3	0.2-0.3#2	0.2.1: referenceTaskIds for task follow-ups	P4	OTHER	DP3
 A2A	0.2-0.3	0.2-0.3#3	0.2.2: resolve inconsistencies with JSON-RPC 2.0 (breaking)	P1	DP5	
 A2A	0.2-0.3	0.2-0.3#4	0.2.2: gRPC and REST definitions	P1	OTHER	
 A2A	0.2-0.3	0.2-0.3#5	0.2.2: protocol support for extensions	P6	DP5	
@@ -79,12 +79,12 @@ A2A	0.2-0.3	0.2-0.3#6	0.2.2: optional iconUrl on Agent Card	P3	OTHER
 A2A	0.2-0.3	0.2-0.3#7	0.2.4: multiple transport announcement in Agent Card	P3	OTHER	
 A2A	0.2-0.3	0.2-0.3#8	0.2.5: required protocol version in Agent Card (breaking)	P6	DP5	
 A2A	0.2-0.3	0.2-0.3#9	0.2.5: multiple push-notification configs per task (breaking)	P2	DP3	
-A2A	0.2-0.3	0.2-0.3#10	0.3.0: mTLS security scheme, OAuth 2.0 metadata URL, per-skill security (breaking)	P5	DP2	OTHER
+A2A	0.2-0.3	0.2-0.3#10	0.3.0: mTLS security scheme, OAuth 2.0 metadata URL, per-skill security (breaking)	P5	OTHER	DP2
 A2A	0.2-0.3	0.2-0.3#11	0.3.0: well-known URI renamed agent.json -> agent-card.json (breaking)	P3	DP5	
 A2A	0.2-0.3	0.2-0.3#12	0.3.0: method for fetching the extended Agent Card (breaking)	P3	OTHER	
-A2A	0.2-0.3	0.2-0.3#13	0.3.0: signatures on the Agent Card	P3	OTHER	
+A2A	0.2-0.3	0.2-0.3#13	0.3.0: signatures on the Agent Card	P5	OTHER	
 A2A	1.0	1.0#1	a2a.proto becomes the normative source	P1	DP5	
-A2A	1.0	1.0#2	google.rpc.Status error model replaces RFC 9457	P4	DP5	
+A2A	1.0	1.0#2	google.rpc.Status error model replaces RFC 9457	P1	DP5	
 A2A	1.0	1.0#3	Three bindings formally specified with stricter adherence	P1	DP5	
 A2A	1.0	1.0#4	Versioning strategy; A2A-Version header negotiation	P6	DP5	
 A2A	1.0	1.0#5	Error taxonomy	P4	DP5	
@@ -98,17 +98,17 @@ A2A	1.0	1.0#12	Extension versioning and requirements; A2A-Extensions header	P6	D
 A2A	1.0	1.0#13	Simplified identifiers	P4	DP5	
 A2A	1.0	1.0#14	/v1 URL prefix removed	P1	DP5	
 A2A	1.0	1.0#15	tenant field: one endpoint serves many agents	P1	DP1	
-A2A	1.0	1.0#16	Agent Card signatures specified with JCS canonicalization and verification rules (signatures added in 0.3)	P3	OTHER	
+A2A	1.0	1.0#16	Agent Card signatures specified with JCS canonicalization and verification rules (signatures added in 0.3)	P5	DP5	OTHER
 A2A	1.0	1.0#17	OAuth device authorization grant added	P5	DP2	
 A2A	1.0	1.0#18	OAuth implicit and password flows removed	P5	DP2	
 A2A	1.0	1.0#19	pkce_required on authorization-code flow	P5	DP2	
-A2A	1.0	1.0#20	Cursor-based pagination	P2	DP1	
+A2A	1.0	1.0#20	Cursor-based pagination	P4	DP1	
 A2A	1.0	1.0#21	ListTasks operation	P2	DP3	
-A2A	1.0	1.0#22	Multiple concurrent streams/subscriptions per task	P2	DP1	DP3
+A2A	1.0	1.0#22	Multiple concurrent streams/subscriptions per task	P2	DP3	DP1
 A2A	1.0	1.0#23	Unified Part type (text, raw, url, data)	P4	DP5	
 A2A	1.0	1.0#24	Stream events wrapped; final flag removed; terminal state by stream closure	P2	DP5	DP3
 A2A	1.0	1.0#25	index field on TaskArtifactUpdateEvent	P2	DP3	
-A2A	1.0	1.0#26	Push-notification config operations renamed, flattened, authentication enhanced	P2	DP3	
+A2A	1.0	1.0#26	Push-notification config operations renamed, flattened, authentication enhanced	P4	DP5	DP3
 A2A	1.0	1.0#27	returnImmediately execution-mode control	P2	DP3	
 A2A	1.0	1.0#28	Task visibility and authorization scoped to the caller	P5	OTHER	
 A2A	1.0	1.0#29	extensions[] on Message and Artifact	P6	DP5	

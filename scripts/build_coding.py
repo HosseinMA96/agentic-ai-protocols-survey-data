@@ -7,7 +7,9 @@ change enumerated in A2A's "What's New in v1.0" page (0.3 -> 1.0) is assigned
 Sources fetched 2026-11-05. Coding rules are in CODEBOOK.md. Writes dp_coding.tsv and prints the summary tables used in
 the paper (coverage per DP, churn per plane per revision).
 Four first codes were changed on 2026-11-08 when the second-coder disagreements were adjudicated (after kappa was
-computed against the original codes, kept in dp_coding_pre_adjudication.tsv); see adjudication.tsv."""
+computed against the original codes, kept in dp_coding_pre_adjudication.tsv); see adjudication.tsv.
+Fifteen further first codes were changed on 2026-11-09 when the part-2 disagreements (the other 77 items) were
+adjudicated, again after kappa was computed; see second_coder/adjudication_part2.tsv."""
 import csv, collections, os
 H = os.path.dirname(os.path.abspath(__file__))
 R = []
@@ -27,14 +29,14 @@ add('MCP', '2025-06-18', [
  ('Structured tool output', 'P4', 'OTHER', 'DP5'),
  ('Servers classified as OAuth resource servers; protected-resource metadata', 'P5', 'DP2', ''),
  ('Clients must implement RFC 8707 resource indicators', 'P5', 'DP2', ''),
- ('Authorization security considerations and security best-practices page', 'P5', 'DP2', ''),
+ ('Authorization security considerations and security best-practices page', 'P5', 'OTHER', 'DP2'),  # adjudicated 2026-11-09, part 2 (was DP2/P5)
  ('Elicitation (server requests information from the user)', 'P4', 'DP4', ''),
  ('Resource links in tool results', 'P4', 'OTHER', ''),
  ('MCP-Protocol-Version header required on subsequent HTTP requests', 'P1', 'DP1', 'DP5'),
  ('Lifecycle operation SHOULD -> MUST', 'P2', 'DP5', ''),
  ('_meta field on more interface types', 'P6', 'DP5', ''),
  ('context field on CompletionRequest', 'P4', 'OTHER', ''),
- ('title field for human-friendly names', 'P3', 'OTHER', ''),
+ ('title field for human-friendly names', 'P3', 'OTHER', 'DP5'),
 ])
 add('MCP', '2025-11-25', [
  ('OpenID Connect Discovery for authorization servers', 'P5', 'DP2', ''),
@@ -48,7 +50,7 @@ add('MCP', '2025-11-25', [
  ('Experimental tasks (durable requests, polling, deferred results)', 'P2', 'DP3', ''),
  ('stdio servers may log to stderr', 'P1', 'DP5', ''),
  ('Optional description on Implementation (aligns with registry server.json)', 'P3', 'OTHER', ''),
- ('HTTP 403 for invalid Origin headers', 'P1', 'OTHER', ''),
+ ('HTTP 403 for invalid Origin headers', 'P1', 'DP5', 'OTHER'),  # adjudicated 2026-11-09, part 2 (was OTHER/P1)
  ('Security best-practices guidance updated', 'P5', 'OTHER', ''),
  ('Input validation errors returned as tool execution errors', 'P4', 'DP5', ''),
  ('Polling SSE streams: servers may disconnect at will', 'P2', 'DP1', ''),
@@ -68,7 +70,7 @@ add('MCP', '2026-07-28', [
  ('server/discover RPC', 'P3', 'DP1', ''),
  ('subscriptions/listen replaces GET endpoint and resources/subscribe', 'P2', 'DP1', ''),
  ('ping, logging/setLevel, roots/list_changed removed', 'P2', 'DP1', 'DP5'),
- ('Tasks moved to io.modelcontextprotocol/tasks extension; tasks/update', 'P2', 'DP3', 'DP5'),
+ ('Tasks moved to io.modelcontextprotocol/tasks extension; tasks/update', 'P2', 'DP5', 'DP3'),  # adjudicated 2026-11-09, part 2 (was DP3/DP5)
  ('Multi Round-Trip Requests replace server-initiated requests', 'P4', 'DP4', 'DP1'),
  ('Required resultType (complete | input_required)', 'P4', 'DP4', ''),
  ('SSE resumability and redelivery (Last-Event-ID) removed', 'P2', 'DP1', ''),
@@ -83,10 +85,10 @@ add('MCP', '2026-07-28', [
  ('Client credentials bound to issuing authorization server', 'P5', 'DP2', ''),
  ('inputSchema/outputSchema accept any JSON Schema 2020-12 keywords', 'P3', 'DP5', ''),
  ('elicitation/complete notification and elicitationId removed', 'P4', 'DP4', 'DP1'),
- ('Error-code allocation policy', 'P4', 'DP5', ''),
- ('Roots, Sampling, Logging deprecated', 'P6', 'DP5', ''),
- ('HTTP+SSE transport reclassified as Deprecated', 'P6', 'DP5', ''),
- ('includeContext values thisServer/allServers deprecated', 'P6', 'DP5', ''),
+ ('Error-code allocation policy', 'P6', 'DP5', ''),  # adjudicated 2026-11-09, part 2 (was P4)
+ ('Roots, Sampling, Logging deprecated', 'P4', 'DP5', ''),  # adjudicated 2026-11-09, part 2 (was P6)
+ ('HTTP+SSE transport reclassified as Deprecated', 'P1', 'DP5', ''),  # adjudicated 2026-11-09, part 2 (was P6)
+ ('includeContext values thisServer/allServers deprecated', 'P4', 'DP5', ''),  # adjudicated 2026-11-09, part 2 (was P6)
  ('Dynamic Client Registration deprecated in favor of CIMD', 'P5', 'DP2', ''),
  ('schema.json numeric types corrected', 'P4', 'DP5', ''),
  ('Feature lifecycle and 12-month deprecation policy', 'P6', 'DP6', ''),
@@ -95,7 +97,7 @@ add('MCP', '2026-07-28', [
 add('A2A', '0.2-0.3', [
  # CHANGELOG.md features and breaking changes, v0.2.1 (2025-05-27) to v0.3.0 (2025-07-30); typo, bug-fix, and docs entries excluded
  ('0.2.1: flag for authenticated extended Agent Cards', 'P3', 'OTHER', ''),
- ('0.2.1: referenceTaskIds for task follow-ups', 'P2', 'DP3', ''),
+ ('0.2.1: referenceTaskIds for task follow-ups', 'P4', 'OTHER', 'DP3'),  # adjudicated 2026-11-09, part 2 (was DP3/P2)
  ('0.2.2: resolve inconsistencies with JSON-RPC 2.0 (breaking)', 'P1', 'DP5', ''),
  ('0.2.2: gRPC and REST definitions', 'P1', 'OTHER', ''),
  ('0.2.2: protocol support for extensions', 'P6', 'DP5', ''),
@@ -103,14 +105,14 @@ add('A2A', '0.2-0.3', [
  ('0.2.4: multiple transport announcement in Agent Card', 'P3', 'OTHER', ''),
  ('0.2.5: required protocol version in Agent Card (breaking)', 'P6', 'DP5', ''),
  ('0.2.5: multiple push-notification configs per task (breaking)', 'P2', 'DP3', ''),
- ('0.3.0: mTLS security scheme, OAuth 2.0 metadata URL, per-skill security (breaking)', 'P5', 'DP2', 'OTHER'),
+ ('0.3.0: mTLS security scheme, OAuth 2.0 metadata URL, per-skill security (breaking)', 'P5', 'OTHER', 'DP2'),  # adjudicated 2026-11-09, part 2 (was DP2/OTHER)
  ('0.3.0: well-known URI renamed agent.json -> agent-card.json (breaking)', 'P3', 'DP5', ''),
  ('0.3.0: method for fetching the extended Agent Card (breaking)', 'P3', 'OTHER', ''),
- ('0.3.0: signatures on the Agent Card', 'P3', 'OTHER', ''),
+ ('0.3.0: signatures on the Agent Card', 'P5', 'OTHER', ''),  # adjudicated 2026-11-09, part 2 (was P3)
 ])
 add('A2A', '1.0', [
  ('a2a.proto becomes the normative source', 'P1', 'DP5', ''),
- ('google.rpc.Status error model replaces RFC 9457', 'P4', 'DP5', ''),
+ ('google.rpc.Status error model replaces RFC 9457', 'P1', 'DP5', ''),  # adjudicated 2026-11-09, part 2 (was P4)
  ('Three bindings formally specified with stricter adherence', 'P1', 'DP5', ''),
  ('Versioning strategy; A2A-Version header negotiation', 'P6', 'DP5', ''),
  ('Error taxonomy', 'P4', 'DP5', ''),
@@ -124,22 +126,23 @@ add('A2A', '1.0', [
  ('Simplified identifiers', 'P4', 'DP5', ''),
  ('/v1 URL prefix removed', 'P1', 'DP5', ''),
  ('tenant field: one endpoint serves many agents', 'P1', 'DP1', ''),  # adjudicated 2026-11-08 (was P2)
- ('Agent Card signatures specified with JCS canonicalization and verification rules (signatures added in 0.3)', 'P3', 'OTHER', ''),
+ ('Agent Card signatures specified with JCS canonicalization and verification rules (signatures added in 0.3)', 'P5', 'DP5', 'OTHER'),  # adjudicated 2026-11-09, part 2 (was OTHER/P3)
  ('OAuth device authorization grant added', 'P5', 'DP2', ''),
  ('OAuth implicit and password flows removed', 'P5', 'DP2', ''),
  ('pkce_required on authorization-code flow', 'P5', 'DP2', ''),
- ('Cursor-based pagination', 'P2', 'DP1', ''),
+ ('Cursor-based pagination', 'P4', 'DP1', ''),  # adjudicated 2026-11-09, part 2 (was P2)
  ('ListTasks operation', 'P2', 'DP3', ''),
- ('Multiple concurrent streams/subscriptions per task', 'P2', 'DP1', 'DP3'),
+ ('Multiple concurrent streams/subscriptions per task', 'P2', 'DP3', 'DP1'),  # adjudicated 2026-11-09, part 2 (was DP1/DP3)
  ('Unified Part type (text, raw, url, data)', 'P4', 'DP5', ''),
  ('Stream events wrapped; final flag removed; terminal state by stream closure', 'P2', 'DP5', 'DP3'),
  ('index field on TaskArtifactUpdateEvent', 'P2', 'DP3', ''),
- ('Push-notification config operations renamed, flattened, authentication enhanced', 'P2', 'DP3', ''),
+ ('Push-notification config operations renamed, flattened, authentication enhanced', 'P4', 'DP5', 'DP3'),  # adjudicated 2026-11-09, part 2 (was DP3/P2)
  ('returnImmediately execution-mode control', 'P2', 'DP3', ''),
  ('Task visibility and authorization scoped to the caller', 'P5', 'OTHER', ''),
  ('extensions[] on Message and Artifact', 'P6', 'DP5', ''),
 ])
-with open(os.path.join(H, 'dp_coding.tsv'), 'w', newline='') as f:
+OUT = os.path.join(H, '..', 'data', 'coding') if os.path.isdir(os.path.join(H, '..', 'data', 'coding')) else H  # data-repo layout or literature/dp_coding
+with open(os.path.join(OUT, 'dp_coding.tsv'), 'w', newline='') as f:
     w = csv.writer(f, delimiter='\t'); w.writerow(['protocol', 'revision', 'item', 'change', 'plane', 'primary_dp', 'secondary_dp'])
     w.writerows(R)
 N = len(R); C = collections.Counter(r[5] for r in R)

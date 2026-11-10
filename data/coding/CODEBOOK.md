@@ -22,9 +22,18 @@ Plane (P1..P6) follows Section IV of the paper: P1 transport/encoding, P2 state/
 P4 interaction semantics, P5 identity/authorization, P6 governance/evolution.
 
 Primary coder: first coding by the AI assistant from the changelog text, reviewed by the first author.
-Second coder: the second author, who took no part in the first coding and was blinded to its codes, coded the 30-item sample in
-`second_coder_sample.tsv` (blank form) from the official changelog pages, without AI tools, with this codebook, the plane definitions,
-and six worked examples outside the sample. Codes: `second_coder_sample_filled.tsv`. Cohen's kappa against the first
-codes before adjudication (`dp_coding_pre_adjudication.tsv`): primary pressure 0.868 (27/30), plane 0.833 (26/30)
-(`kappa_output.txt`). Disagreements were adjudicated afterwards (`adjudication.tsv`); four first codes changed, and
-`dp_coding.tsv` holds the adjudicated codes.
+Second coder: the second author, who took no part in the first coding and was blinded to its codes, coded the items
+from the official changelog pages, without AI tools, with this codebook, the plane definitions, and six worked examples
+outside the first sample, in two rounds:
+1. the 30-item random sample in `second_coder_sample.tsv` (blank form); codes in `second_coder_sample_filled.tsv`;
+2. the remaining 77 items except the six worked examples (whose codes the coder had seen); codes in
+   `second_coder_part2_filled.tsv`. Before this round the coder confirmed not having seen the first codes of any of
+   its items.
+`second_coder_all_filled.tsv` joins both rounds (107 of the 113 items). Cohen's kappa against the first codes before
+adjudication (`dp_coding_pre_adjudication.tsv`): round 1 primary pressure 0.868 (27/30), plane 0.833 (26/30)
+(`kappa_output.txt`); round 2 primary 0.834 (67/77), plane 0.780 (63/77); all 107 items primary 0.844 (94/107), plane
+0.797 (89/107) (`kappa_output_part2.txt`). Agreement is lowest for DP3 (coder 2 assigned DP3 to 4 of the 8 items the
+first coder coded DP3). Disagreements were adjudicated by the first author, supported by an AI assistant, after kappa
+was computed for the round: `adjudication.tsv` (round 1: six disagreements, four first codes changed) and
+`adjudication_part2.tsv` (round 2: 19 disagreements, 15 first codes changed). `dp_coding.tsv` holds the adjudicated
+codes (91 of 113 explained by DP1-DP6; 92 before the round-2 adjudication).
