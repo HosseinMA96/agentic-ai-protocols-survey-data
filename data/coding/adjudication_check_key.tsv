@@ -1,0 +1,32 @@
+row	item	dimension	option_A	option_B	A_is	first_code	second_code	adjudicated
+1	2025-03-26#7	Primary pressure	OTHER	DP5	first	OTHER	DP5	DP5
+2	2025-03-26#7	Plane	P4	P3	first	P4	P3	P3
+3	2025-06-18#5	Primary pressure	OTHER	DP2	second	DP2	OTHER	OTHER
+4	2025-06-18#10	Plane	P4	P6	second	P6	P4	P6
+5	2025-06-18#12	Primary pressure	OTHER	DP5	first	OTHER	DP5	OTHER
+6	2025-11-25#5	Primary pressure	DP5	DP4	second	DP4	DP5	DP5
+7	2025-11-25#12	Primary pressure	DP5	OTHER	second	OTHER	DP5	DP5
+8	2026-07-28#6	Primary pressure	DP3	DP5	first	DP3	DP5	DP5
+9	2026-07-28#6	Plane	P2	P6	first	P2	P6	P2
+10	2026-07-28#12	Primary pressure	DP1	OTHER	second	OTHER	DP1	DP1
+11	2026-07-28#21	Plane	P4	P6	first	P4	P6	P6
+12	2026-07-28#22	Plane	P6	P4	first	P6	P4	P4
+13	2026-07-28#23	Plane	P1	P6	second	P6	P1	P1
+14	2026-07-28#24	Plane	P6	P4	first	P6	P4	P4
+15	2026-07-28#26	Plane	P1	P4	second	P4	P1	P4
+16	0.2-0.3#2	Primary pressure	DP3	OTHER	first	DP3	OTHER	OTHER
+17	0.2-0.3#2	Plane	P4	P2	second	P2	P4	P4
+18	0.2-0.3#10	Primary pressure	OTHER	DP2	second	DP2	OTHER	OTHER
+19	0.2-0.3#13	Plane	P3	P5	first	P3	P5	P5
+20	1.0#1	Plane	P6	P1	second	P1	P6	P1
+21	1.0#2	Plane	P1	P4	second	P4	P1	P1
+22	1.0#15	Plane	P1	P2	second	P2	P1	P1
+23	1.0#16	Primary pressure	OTHER	DP5	first	OTHER	DP5	DP5
+24	1.0#16	Plane	P5	P3	second	P3	P5	P5
+25	1.0#20	Plane	P2	P4	first	P2	P4	P4
+26	1.0#21	Plane	P2	P4	first	P2	P4	P2
+27	1.0#22	Primary pressure	DP1	DP3	first	DP1	DP3	DP3
+28	1.0#25	Primary pressure	OTHER	DP3	second	DP3	OTHER	DP3
+29	1.0#25	Plane	P2	P4	first	P2	P4	P2
+30	1.0#26	Primary pressure	DP5	DP3	second	DP3	DP5	DP5
+31	1.0#26	Plane	P2	P4	first	P2	P4	P4

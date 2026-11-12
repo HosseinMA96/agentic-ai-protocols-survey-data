@@ -28,6 +28,10 @@ the reference-verification reports, and the scripts that produce them.
 | `data/coding/adjudication.tsv` | Round 1: the six disagreements and their resolution (four first codes changed) | §II-C |
 | `data/coding/adjudication_part2.tsv` | Round 2: the 19 disagreements, their resolution, and the changelog text behind each (15 first codes changed) | §II-C |
 | `scripts/adjudication_direction.py` | Direction of adjudication: for each disagreeing code, whether the second coder's code, the first code, or a third code was adopted (23 / 8 / 0 of 31) | Appendix A |
+| `data/coding/adjudication_check_instructions.md` | Instructions for the second author's blind check of the adjudication (each disagreeing code shown as two unlabeled options, resolution hidden) | Appendix A |
+| `data/coding/adjudication_check_key.tsv` | Key of the check: for each of the 31 rows, which option is the first / second code and the adjudicated code | Appendix A |
+| `data/coding/adjudication_check_scored.tsv` | The second author's choice, confidence, and reason for each of the 31 codes, scored against the adjudication (20 of 31 agree) | Appendix A |
+| `scripts/adjudication_check_summary.py` | Summary of the check: 20 / 31 agree with the adjudication (17 / 23 resolved to the second code, 3 / 8 first codes kept); 22 / 31 equal the second author's earlier code | Appendix A |
 | `data/coding/second_coder_instructions.md` | Instructions given to the second coder: rules, codebook, procedure, six worked examples outside the sample, FAQ | §II-C |
 | `data/coverage/first_run/gaps.tsv` | Works cited by competing surveys and not by us (first run, Nov. 1, 2026) | §II-E |
 | `data/coverage/rerun_2026-11-05/surveys.txt`, `gaps.tsv`, `log.txt` | The 16 surveys used and the re-run of the gap list | §II-E |
@@ -65,6 +69,7 @@ python3 scripts/openalex_supplement.py data/harvest/screening.csv data/bib/refer
 (cd data/coding && python3 ../../scripts/kappa.py second_coder_part2_filled.tsv dp_coding_pre_adjudication.tsv)    # kappa, round 2
 (cd data/coding && python3 ../../scripts/kappa.py second_coder_all_filled.tsv dp_coding_pre_adjudication.tsv)      # kappa, all 107 items
 python3 scripts/adjudication_direction.py   # Appendix A: adjudication outcome per disagreeing code
+python3 scripts/adjudication_check_summary.py   # Appendix A: second author's blind check of the adjudication
 ```
 
 The harvest and network-based checks query live APIs (arXiv, Crossref, Semantic Scholar, OpenAlex),
@@ -84,6 +89,17 @@ outputs used in the paper.
 
 Scripts: MIT. Data in `data/`: CC BY 4.0. See `LICENSE`. Records derived from arXiv, Crossref, and
 OpenAlex metadata keep the terms of those services (arXiv metadata and OpenAlex are CC0).
+
+## Changes in version 1.6 (November 2026)
+
+- Blind check of the adjudication by the survey's second author (Appendix A): each of the 31 disagreeing codes was
+  shown as two unlabeled options in random order, with the changelog entry and without the resolution
+  (`adjudication_check_instructions.md`, `adjudication_check_key.tsv`). The second author's choice, confidence, and
+  reason for each code are in `adjudication_check_scored.tsv`; `scripts/adjudication_check_summary.py` summarizes
+  them: 20 of 31 choices equal the adjudicated code (17 of the 23 codes resolved to the second coder's code, 3 of the
+  8 first codes kept), and 22 of 31 equal the second coder's earlier code. The adjudicated codes were not changed.
+  The second author confirmed not having seen the adjudication files or the survey's description of the recodes
+  before the check.
 
 ## Changes in version 1.5 (November 2026)
 
