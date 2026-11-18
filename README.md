@@ -2,7 +2,7 @@
 
 Supporting data for the survey *Agentic AI Protocols: A Survey of Interoperability Standards, Their
 Evolution, and Open Challenges* (H. Mohasel Arjomandi and A. GhaffarTehrani, preprint, November 2026).
-Survey cutoff: November 17, 2026 (systematic harvest window to October 31, 2026). Archived versions: [10.5281/zenodo.24000345](https://doi.org/10.5281/zenodo.24000345) (all versions; v1.7: [10.5281/zenodo.24331260](https://doi.org/10.5281/zenodo.24331260); v1.6: [10.5281/zenodo.24151561](https://doi.org/10.5281/zenodo.24151561); v1.5: [10.5281/zenodo.24096592](https://doi.org/10.5281/zenodo.24096592); v1.4: [10.5281/zenodo.24096244](https://doi.org/10.5281/zenodo.24096244); v1.3: [10.5281/zenodo.24074354](https://doi.org/10.5281/zenodo.24074354); v1.2: [10.5281/zenodo.24072244](https://doi.org/10.5281/zenodo.24072244); v1.1: [10.5281/zenodo.24058686](https://doi.org/10.5281/zenodo.24058686))
+Survey cutoff: November 17, 2026 (systematic harvest window to October 31, 2026). Archived versions: [10.5281/zenodo.24000345](https://doi.org/10.5281/zenodo.24000345) (all versions; v1.8: [10.5281/zenodo.24331459](https://doi.org/10.5281/zenodo.24331459); v1.7: [10.5281/zenodo.24331260](https://doi.org/10.5281/zenodo.24331260); v1.6: [10.5281/zenodo.24151561](https://doi.org/10.5281/zenodo.24151561); v1.5: [10.5281/zenodo.24096592](https://doi.org/10.5281/zenodo.24096592); v1.4: [10.5281/zenodo.24096244](https://doi.org/10.5281/zenodo.24096244); v1.3: [10.5281/zenodo.24074354](https://doi.org/10.5281/zenodo.24074354); v1.2: [10.5281/zenodo.24072244](https://doi.org/10.5281/zenodo.24072244); v1.1: [10.5281/zenodo.24058686](https://doi.org/10.5281/zenodo.24058686))
 (concept DOI for the latest version: [10.5281/zenodo.24000345](https://doi.org/10.5281/zenodo.24000345)).
 
 This repository contains the arXiv harvest and screening sheet, the coding of every MCP and A2A
@@ -181,5 +181,5 @@ OpenAlex metadata keep the terms of those services (arXiv metadata and OpenAlex 
 
 Please cite the survey (arXiv identifier to be added) and this repository:
 
-H. Mohasel Arjomandi and A. GhaffarTehrani, *Data and Scripts for "Agentic AI Protocols"*, version 1.7, Zenodo, 2026.
+H. Mohasel Arjomandi and A. GhaffarTehrani, *Data and Scripts for "Agentic AI Protocols"*, version 1.8, Zenodo, 2026.
 DOI (all versions, resolves to the latest): [10.5281/zenodo.24000345](https://doi.org/10.5281/zenodo.24000345)
