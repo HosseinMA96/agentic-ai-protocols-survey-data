@@ -37,6 +37,7 @@ chen2026rethinking
 chen2026signals
 chen2026understanding
 chidambaram2026twodimensional
+chopra2020evaluation
 cimddraft
 cloudflare2025webbotauth
 cloudflare2025x402
@@ -183,6 +184,7 @@ paschalides2026mcpgranite
 patil2023gorilla
 pattison2026normative
 petrova2025web
+plaat2025agentic
 prakash2026aip
 predoaia2026comparative
 qiu2025agentdistill

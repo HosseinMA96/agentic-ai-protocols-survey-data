@@ -6,8 +6,8 @@
 8 3b coverage only: survey bibliographies (first run)
 5 4 OpenAlex only
 16 4b update search (arXiv + OpenAlex)
-20 5 snowball 2024+
-13 6 foundations
+21 5 snowball 2024+
+14 6 foundations
 32 7 standards
 44 8 grey
-300 cited
+302 cited

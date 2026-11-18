@@ -47,7 +47,7 @@ the reference-verification reports, and the scripts that produce them.
 | `data/verification/withdrawn_check.tsv` | Withdrawal check of every cited arXiv preprint | References |
 | `data/coverage/update_2026-11-17/` | Update search of Nov. 17, 2026: arXiv and OpenAlex records outside the frozen harvest, screening decisions (`update_decisions.tsv`), README with the counts and the specification check | §II-F |
 | `scripts/update_search.py` | Update search: same six queries and title retrieval to Nov. 17, 2026, OpenAlex for Nov. 1-17, 2026 | §II-F |
-| `data/verification/provenance_summary.txt` | Provenance counts of the 300 cited works | Table II |
+| `data/verification/provenance_summary.txt` | Provenance counts of the 302 cited works | Table II |
 | `data/bib/references.bib`, `cited_keys.txt`, `manual.bib` | Final bibliography, the keys cited in the paper, and hand-verified entries | — |
 | `scripts/harvest.py`, `screen.py`, `arxiv.py` | arXiv harvest, title-rule screening, BibTeX from the arXiv API | §II-A |
 | `scripts/learning_screen.py` | Learning-centric keyword screen of the protocol-centric pool | §II-A |
@@ -62,7 +62,7 @@ Run from the repository root (Python 3, standard library only):
 
 ```bash
 python3 scripts/build_coding.py            # Table VI: 113 changes, 91 explained by DP1-DP6
-python3 scripts/provenance.py              # Table II: provenance of the 300 cited works
+python3 scripts/provenance.py              # Table II: provenance of the 302 cited works
 python3 scripts/learning_screen.py         # learning-centric screen: 37 flagged, 7 cited before it, 9 added
 python3 scripts/verify_arxiv_ids.py data/bib/references.bib out.tsv
 python3 scripts/verify_dois.py data/bib/references.bib out.tsv
@@ -95,6 +95,17 @@ outputs used in the paper.
 
 Scripts: MIT. Data in `data/`: CC BY 4.0. See `LICENSE`. Records derived from arXiv, Crossref, and
 OpenAlex metadata keep the terms of those services (arXiv metadata and OpenAlex are CC0).
+
+## Changes in version 1.9 (November 2026)
+
+- Two articles from the Journal of Artificial Intelligence Research are now cited in the background section:
+  Chopra, Christie, and Singh (2020; doi:10.1613/jair.1.12212), an evaluation of protocol languages for multiagent
+  systems, and Plaat et al. (2025; doi:10.1613/jair.1.18675), a survey of agentic LLMs. Both were found by targeted
+  search (neither is in the arXiv harvest). The survey now cites 302 works (226 research, 32 standards, 44 grey);
+  `scripts/provenance.py` (unchanged) classifies them as snowballing, 2024 onward (21) and foundational works
+  before 2024 (14). Updated: `data/bib/references.bib`, `data/bib/cited_keys.txt`,
+  `data/verification/provenance_summary.txt`, and `data/verification/doi_check_round2.tsv` (both DOIs checked
+  against Crossref, OK).
 
 ## Changes in version 1.8 (November 2026)
 
@@ -181,5 +192,5 @@ OpenAlex metadata keep the terms of those services (arXiv metadata and OpenAlex 
 
 Please cite the survey (arXiv identifier to be added) and this repository:
 
-H. Mohasel Arjomandi and A. GhaffarTehrani, *Data and Scripts for "Agentic AI Protocols"*, version 1.8, Zenodo, 2026.
+H. Mohasel Arjomandi and A. GhaffarTehrani, *Data and Scripts for "Agentic AI Protocols"*, version 1.9, Zenodo, 2026.
 DOI (all versions, resolves to the latest): [10.5281/zenodo.24000345](https://doi.org/10.5281/zenodo.24000345)
