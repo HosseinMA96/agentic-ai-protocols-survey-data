@@ -32,7 +32,7 @@ the reference-verification reports, and the scripts that produce them.
 | `data/coding/adjudication_check_key.tsv` | Key of the check: for each of the 31 rows, which option is the first / second code and the adjudicated code | Appendix A |
 | `data/coding/adjudication_check_scored.tsv` | The second author's choice, confidence, and reason for each of the 31 codes, scored against the adjudication (20 of 31 agree) | Appendix A |
 | `scripts/adjudication_check_summary.py` | Summary of the check: 20 / 31 agree with the adjudication (17 / 23 resolved to the second code, 3 / 8 first codes kept); 22 / 31 equal the second author's earlier code | Appendix A |
-| `data/coding/dp5_split.tsv` | The 43 changes coded DP5, each marked `core` (smaller or modular core: moved into an extension, extension point added, feature deprecated or removed; 10) or `tightening` (schemas, names, error models, normative definitions; 33). Made after adjudication by a single coder; not double-coded | §IX-B, Table VI |
+| `data/coding/dp5_split.tsv` | The 43 changes coded DP5, each marked `core` (smaller or modular core: moved into an extension, extension point added, feature deprecated or removed; 10) or `tightening` (schemas, names, error models, normative definitions; 33). Proposed after adjudication by the first author with an AI assistant and reviewed by the second author; not coded independently by two coders | §IX-B, Table VI |
 | `scripts/dp5_split.py` | Coverage with and without DP5 and the DP5 split per protocol and period (Table VI rows; 91 / 113 with DP5, 48 / 113 without, 58 / 113 without its tightening part) | §IX-B, Table VI |
 | `data/coding/second_coder_instructions.md` | Instructions given to the second coder: rules, codebook, procedure, six worked examples outside the sample, FAQ | §II-C |
 | `data/coverage/first_run/gaps.tsv` | Works cited by competing surveys and not by us (first run, Nov. 1, 2026) | §II-E |
@@ -107,8 +107,9 @@ OpenAlex metadata keep the terms of those services (arXiv metadata and OpenAlex 
 - `data/coding/dp5_split.tsv` and `scripts/dp5_split.py`: DP5 ("smaller core, extensions, and rigor") split into the
   two kinds of change its codebook definition lists: 10 changes make the core smaller or modular, 33 tighten schemas,
   names, error models, or normative definitions (17 of them in A2A 1.0). Without DP5 the six pressures fit 48 of 113
-  changes (42%; MCP 38 of 71, A2A 10 of 42); without its tightening part, 58 of 113 (51%). The split was made after
-  adjudication by a single coder and was not double-coded. The codebook is unchanged.
+  changes (42%; MCP 38 of 71, A2A 10 of 42); without its tightening part, 58 of 113 (51%). The split was proposed after
+  adjudication by the first author with an AI assistant and reviewed by the second author; it was not coded
+  independently by two coders. The codebook is unchanged.
 
 ## Changes in version 1.6 (November 2026)
 

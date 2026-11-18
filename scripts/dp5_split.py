@@ -6,7 +6,8 @@ DP5 ("smaller core, extensions, and rigor") bundles two kinds of change named in
 'core'       makes the core smaller or modular (moves a feature into an extension, adds an extension point,
              deprecates or removes a feature);
 'tightening' tightens what remains (schemas, names, error models, normative definitions).
-The split (data/coding/dp5_split.tsv) was made after adjudication by a single coder and was not double-coded.
+The split (data/coding/dp5_split.tsv) was proposed after adjudication by the first author with an AI assistant and
+reviewed by the second author; it was not coded independently by two coders.
 """
 import csv, pathlib
 from collections import Counter
