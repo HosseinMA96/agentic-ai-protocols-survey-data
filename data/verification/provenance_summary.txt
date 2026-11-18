@@ -1,11 +1,13 @@
 51 1 pool, initial synthesis
 90 2 pool, added by coverage check
 9 2b pool, added by learning-centric screen
+2 2c pool, added in final update
 10 3a coverage only: title retrieval
 8 3b coverage only: survey bibliographies (first run)
 5 4 OpenAlex only
+16 4b update search (arXiv + OpenAlex)
 20 5 snowball 2024+
 13 6 foundations
 32 7 standards
-42 8 grey
-280 cited
+44 8 grey
+300 cited

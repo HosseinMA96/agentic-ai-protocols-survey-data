@@ -126,14 +126,12 @@ id	published	keyword_category	note	title
 2603.21641	2026-03-23	security		Auditing MCP Servers for Over-Privileged Tool Capabilities
 2603.24703	2026-03-25	security		IndustriConnect: MCP Adapters and Mock-First Evaluation for AI-Assisted Industrial Operations
 2604.01905	2026-04-02	security		From Component Manipulation to System Compromise: Understanding and Detecting Malicious MCP Servers
-2604.02369	2026-03-30	security		Beyond Message Passing: A Semantic View of Agent Communication Protocols
 2604.07065	2026-04-08	security		Trust-as-a-Service: Intelligent Collaboration Orchestration via Model Context Protocol-Aided Agentic AI
 2604.10534	2026-04-12	security		Machine Learning-Based Detection of MCP Attacks
 2604.16870	2026-04-18	security		Governed MCP: Kernel-Level Tool Governance for AI Agents via Logit-Based Safety Primitives
 2604.17125	2026-04-18	security		Evaluating a Layered Prompt-Injection Defence for the Model Context Protocol: A Record-Level Audit of Decision Conventions, Corpus Provenance and Reproducibility
 2604.21816	2026-04-23	security		Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows
 2606.18037	2026-06-16	security		ProvenanceGuard: Source-Aware Factuality Verification for MCP-Based LLM Agents
-2606.19135	2026-06-17	security		A Technical Taxonomy of LLM Agent Communication Protocols
 2608.08654	2026-08-09	security		The Scaffolding Matters More Than the Interface: A Controlled Comparison of MCP and CLI Tool Use Across Seven Agent Scaffoldings, Five Language Models, and One Software Task
 2608.20481	2026-08-20	security		AEGIS: Preventing Cross-Domain Resource Abuse in MCP
 2608.23992	2026-08-25	security		Hybrid Semantic Tool Discovery for Enterprise MCP Gateway: Architecture and Implementation

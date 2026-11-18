@@ -7,6 +7,10 @@ scr = {r['id']: r for r in csv.DictReader(open('data/harvest/screening.csv'))}; 
 k5 = {l.split()[0] for l in open('data/coverage/coverage_check_added_keys.txt') if l.strip()}
 OA = {'li2026confused', 'park2026token', 'deshmukh2026agentcard', 'he2026bugs', 'debi2026whispers'}
 LEARN = {r['key'] for r in csv.DictReader(open('data/harvest/learning_screen_decisions.tsv'), delimiter='\t') if r['decision'] == 'include'}
+# update search of 2026-11-17 (data/coverage/update_2026-11-17/update_decisions.tsv)
+UPD = list(csv.DictReader(open('data/coverage/update_2026-11-17/update_decisions.tsv'), delimiter='\t'))
+UPD_POOL = {r['bibkey'] for r in UPD if r['source'] == 'survey search' and r['decision'] == 'include'}
+UPD_NEW = {r['bibkey'] for r in UPD if r['source'] != 'survey search' and r['bibkey']}
 GREY_EXTRA = {'google2025a2a'}; POOL_EXTRA = {'habler2025a2a'}
 STD = r'^(rfc|w3c|oasis|fipa|jsonrpc|openapi|erc8004|cimddraft|oauth21draft|lsp|ecma|webbotauthdraft|txntokensdraft)'
 tr = {r['id']: r for r in csv.DictReader(open('data/coverage/rerun_2026-11-05/title_retrieval.tsv'), delimiter='\t')}
@@ -17,7 +21,9 @@ for m in re.finditer(r'@(\w+)\{([^,]+),(.*?)\n\}', bib, re.S):
     e = re.search(r'eprint = \{([^}]*)', b); y = re.search(r'year = \{(\d+)', b); y = int(y.group(1)) if y else 0
     tt = re.search(r'title = \{(.*)\},?\n', b).group(1); ax = e.group(1) if e else None; doi = 'doi =' in b
     r = (scr.get(ax) if ax else None) or ti.get(n(tt))
-    if k in OA: c = '4 OpenAlex only'
+    if k in UPD_POOL: c = '2c pool, added in final update'
+    elif k in UPD_NEW: c = '4b update search (arXiv + OpenAlex)'
+    elif k in OA: c = '4 OpenAlex only'
     elif k in LEARN: c = '2b pool, added by learning-centric screen'
     elif k in POOL_EXTRA or (r and r['protocol_centric'] == 'True'): c = '2 pool, added by coverage check' if k in k5 else '1 pool, initial synthesis'
     elif k in GREY_EXTRA: c = '8 grey'

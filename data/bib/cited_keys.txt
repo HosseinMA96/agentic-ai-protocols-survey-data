@@ -1,3 +1,4 @@
+a2a2026v11rc
 a2achangelog
 a2aspec10
 a2awhatsnew
@@ -10,13 +11,16 @@ afsar2026random
 agui
 ahmadi2025mcpbridge
 ahmed2026labels
+almasri2026shadowbench
 alshammari2026a2acaseverify
 alshammari2026forensic
 ameur2026sixg
 an2026flowguard
+anbiaee2026misbinding
 anbiaee2026threat
 anthropic2024mcp
 antonioni2025jsplit
+aun2026signed
 balija2025trust
 bandi2026mcpatlas
 belkhiter2026breaking
@@ -30,6 +34,7 @@ chang2025anp
 chen2024ioa
 chen2026probeid
 chen2026rethinking
+chen2026signals
 chen2026understanding
 chidambaram2026twodimensional
 cimddraft
@@ -41,6 +46,7 @@ debi2026whispers
 deshmukh2026agentcard
 ding2026aclemcp
 dong2025etom
+donno2026authorization
 du2025protocolbench
 du2026mcpdisco
 duan2025agent
@@ -64,6 +70,7 @@ fleming2025layered
 fu2025riskcue
 gaire2026sok
 gao2025mcpradar
+gao2026evomcp
 genesereth1994software
 google2025a2a
 google2025a2av03
@@ -71,10 +78,12 @@ google2025a2ui
 google2025ap2
 goswami2025ajwt
 greshake2023indirect
+guirao2026cards
 guo2025mcpagentbench
 guo2025measurement
 guo2026mcpxkit
 habler2025a2a
+haider2026dctr
 halloran2025mcp
 halloran2026ragpref
 hao2026mcp
@@ -83,6 +92,7 @@ hasan2026smelly
 he2025redteam
 he2025redteaming
 he2026bugs
+he2026cvedataset
 he2026eemcp
 he2026hybrid
 hong2024metagpt
@@ -101,6 +111,7 @@ jamshidi2025semantic
 jamshidi2026verifiable
 jeong2025mcpa2a
 jia2025osworldmcp
+jiang2026mcphallu
 jing2025mcip
 jsonrpc2
 kaminski2026dynamicmcpbenc
@@ -109,6 +120,7 @@ karanjai2026agents
 knostic2025mapping
 kong2025survey
 kraishan2026same
+krakauer2026owasp
 krishnan2025advancing
 kumar2025guardian
 labrou1999acl
@@ -151,6 +163,7 @@ mcp20250326transport
 mcp20250618
 mcp20251125
 mcp20260728
+mcp2026releasecycle
 mcpapps2026
 mcpregistry2025
 metere2026attested
@@ -191,11 +204,13 @@ rfc9728
 rostamzadeh2026mcpdpt
 rostamzadeh2026trustshiftprob
 saltzer1984endtoend
+sander2026taxonomy
 sarkar2025survey
 schick2023toolformer
 sep1865
 sep2133
 shahid2026chap
+shaikh2026poisoning
 sharma2025position
 shen2026invisible
 shen2026mcp38
@@ -217,10 +232,12 @@ stappen2026agent2agent
 stein2026ai
 steiner2025mcp
 stripe2025acp
+sun2026conformance
 sun2026vipermcp
 syros2025saga
 tan2026mcpsandboxscan
 tang2026understanding
+tounoussi2026mcpeco
 tran2025multiagent
 tu2026leastprivilege
 txntokensdraft
@@ -250,6 +267,7 @@ wu2025mcpzoo
 xi2025rise
 xiang2026architecting
 xing2025mcpguard
+xiong2026ioa
 xu2025toucan
 yan2025mcp
 yan2025selftalk
@@ -260,8 +278,10 @@ yang2025survey
 yang2026compatibility
 yao2023react
 yao2025intentminer
+yao2026approval
 ye2026trustdesc
 yocam2026agentic
+yuan2026semantic
 zed2025acp
 zhan2025adaptive
 zhang2025mcp

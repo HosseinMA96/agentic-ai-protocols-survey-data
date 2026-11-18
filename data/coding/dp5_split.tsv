@@ -1,0 +1,44 @@
+item	protocol	revision	change	dp5_part	reason
+2025-03-26#7	MCP	2025-03-26	completions capability declared explicitly	tightening	tightens a schema, name, error model, or normative definition
+2025-06-18#1	MCP	2025-06-18	JSON-RPC batching removed	core	JSON-RPC batching removed
+2025-06-18#9	MCP	2025-06-18	Lifecycle operation SHOULD -> MUST	tightening	tightens a schema, name, error model, or normative definition
+2025-06-18#10	MCP	2025-06-18	_meta field on more interface types	core	_meta extension field added to more types
+2025-11-25#4	MCP	2025-11-25	Guidance on tool names	tightening	tightens a schema, name, error model, or normative definition
+2025-11-25#5	MCP	2025-11-25	Standards-based ElicitResult/EnumSchema	tightening	tightens a schema, name, error model, or normative definition
+2025-11-25#10	MCP	2025-11-25	stdio servers may log to stderr	tightening	tightens a schema, name, error model, or normative definition
+2025-11-25#12	MCP	2025-11-25	HTTP 403 for invalid Origin headers	tightening	tightens a schema, name, error model, or normative definition
+2025-11-25#14	MCP	2025-11-25	Input validation errors returned as tool execution errors	tightening	tightens a schema, name, error model, or normative definition
+2025-11-25#19	MCP	2025-11-25	JSON Schema 2020-12 as default dialect	tightening	tightens a schema, name, error model, or normative definition
+2025-11-25#20	MCP	2025-11-25	Request payloads decoupled into standalone parameter schemas	tightening	tightens a schema, name, error model, or normative definition
+2026-07-28#6	MCP	2026-07-28	Tasks moved to io.modelcontextprotocol/tasks extension; tasks/update	core	tasks moved into an extension
+2026-07-28#10	MCP	2026-07-28	extensions field in client/server capabilities	core	extensions field in capabilities
+2026-07-28#15	MCP	2026-07-28	Resource-not-found error code changed	tightening	tightens a schema, name, error model, or normative definition
+2026-07-28#19	MCP	2026-07-28	inputSchema/outputSchema accept any JSON Schema 2020-12 keywords	tightening	tightens a schema, name, error model, or normative definition
+2026-07-28#21	MCP	2026-07-28	Error-code allocation policy	tightening	tightens a schema, name, error model, or normative definition
+2026-07-28#22	MCP	2026-07-28	Roots, Sampling, Logging deprecated	core	roots, sampling, logging deprecated
+2026-07-28#23	MCP	2026-07-28	HTTP+SSE transport reclassified as Deprecated	core	HTTP+SSE transport deprecated
+2026-07-28#24	MCP	2026-07-28	includeContext values thisServer/allServers deprecated	core	includeContext values deprecated
+2026-07-28#26	MCP	2026-07-28	schema.json numeric types corrected	tightening	tightens a schema, name, error model, or normative definition
+0.2-0.3#3	A2A	0.2-0.3	0.2.2: resolve inconsistencies with JSON-RPC 2.0 (breaking)	tightening	tightens a schema, name, error model, or normative definition
+0.2-0.3#5	A2A	0.2-0.3	0.2.2: protocol support for extensions	core	protocol support for extensions
+0.2-0.3#8	A2A	0.2-0.3	0.2.5: required protocol version in Agent Card (breaking)	tightening	tightens a schema, name, error model, or normative definition
+0.2-0.3#11	A2A	0.2-0.3	0.3.0: well-known URI renamed agent.json -> agent-card.json (breaking)	tightening	tightens a schema, name, error model, or normative definition
+1.0#1	A2A	1.0	a2a.proto becomes the normative source	tightening	tightens a schema, name, error model, or normative definition
+1.0#2	A2A	1.0	google.rpc.Status error model replaces RFC 9457	tightening	tightens a schema, name, error model, or normative definition
+1.0#3	A2A	1.0	Three bindings formally specified with stricter adherence	tightening	tightens a schema, name, error model, or normative definition
+1.0#4	A2A	1.0	Versioning strategy; A2A-Version header negotiation	tightening	tightens a schema, name, error model, or normative definition
+1.0#5	A2A	1.0	Error taxonomy	tightening	tightens a schema, name, error model, or normative definition
+1.0#6	A2A	1.0	kind discriminators removed	tightening	tightens a schema, name, error model, or normative definition
+1.0#7	A2A	1.0	Enum values in SCREAMING_SNAKE_CASE	tightening	tightens a schema, name, error model, or normative definition
+1.0#8	A2A	1.0	camelCase JSON and ISO 8601 timestamps	tightening	tightens a schema, name, error model, or normative definition
+1.0#9	A2A	1.0	Optional vs. required field semantics	tightening	tightens a schema, name, error model, or normative definition
+1.0#10	A2A	1.0	Operations renamed (SendMessage, GetTask, ...)	tightening	tightens a schema, name, error model, or normative definition
+1.0#11	A2A	1.0	supportedInterfaces[] with per-interface protocol version	tightening	tightens a schema, name, error model, or normative definition
+1.0#12	A2A	1.0	Extension versioning and requirements; A2A-Extensions header	core	extension versioning and required extensions
+1.0#13	A2A	1.0	Simplified identifiers	tightening	tightens a schema, name, error model, or normative definition
+1.0#14	A2A	1.0	/v1 URL prefix removed	tightening	tightens a schema, name, error model, or normative definition
+1.0#16	A2A	1.0	Agent Card signatures specified with JCS canonicalization and verification rules (signatures added in 0.3)	tightening	tightens a schema, name, error model, or normative definition
+1.0#23	A2A	1.0	Unified Part type (text, raw, url, data)	tightening	tightens a schema, name, error model, or normative definition
+1.0#24	A2A	1.0	Stream events wrapped; final flag removed; terminal state by stream closure	tightening	tightens a schema, name, error model, or normative definition
+1.0#26	A2A	1.0	Push-notification config operations renamed, flattened, authentication enhanced	tightening	tightens a schema, name, error model, or normative definition
+1.0#29	A2A	1.0	extensions[] on Message and Artifact	core	extensions[] on Message and Artifact

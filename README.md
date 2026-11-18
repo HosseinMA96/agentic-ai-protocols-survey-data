@@ -32,18 +32,22 @@ the reference-verification reports, and the scripts that produce them.
 | `data/coding/adjudication_check_key.tsv` | Key of the check: for each of the 31 rows, which option is the first / second code and the adjudicated code | Appendix A |
 | `data/coding/adjudication_check_scored.tsv` | The second author's choice, confidence, and reason for each of the 31 codes, scored against the adjudication (20 of 31 agree) | Appendix A |
 | `scripts/adjudication_check_summary.py` | Summary of the check: 20 / 31 agree with the adjudication (17 / 23 resolved to the second code, 3 / 8 first codes kept); 22 / 31 equal the second author's earlier code | Appendix A |
+| `data/coding/dp5_split.tsv` | The 43 changes coded DP5, each marked `core` (smaller or modular core: moved into an extension, extension point added, feature deprecated or removed; 10) or `tightening` (schemas, names, error models, normative definitions; 33). Made after adjudication by a single coder; not double-coded | §IX-B, Table VI |
+| `scripts/dp5_split.py` | Coverage with and without DP5 and the DP5 split per protocol and period (Table VI rows; 91 / 113 with DP5, 48 / 113 without, 58 / 113 without its tightening part) | §IX-B, Table VI |
 | `data/coding/second_coder_instructions.md` | Instructions given to the second coder: rules, codebook, procedure, six worked examples outside the sample, FAQ | §II-C |
 | `data/coverage/first_run/gaps.tsv` | Works cited by competing surveys and not by us (first run, Nov. 1, 2026) | §II-E |
 | `data/coverage/rerun_2026-11-05/surveys.txt`, `gaps.tsv`, `log.txt` | The 16 surveys used and the re-run of the gap list | §II-E |
 | `data/coverage/rerun_2026-11-05/title_retrieval.tsv` | 341 arXiv records whose titles name MCP, A2A, or an agent protocol, with overlap flags | §II-E |
-| `data/coverage/uncited_flagged_pool.tsv` | The 143 protocol-centric pool records flagged by the title retrieval that the survey does not cite, with keyword category (one withdrawn by its authors) | §II-E |
+| `data/coverage/uncited_flagged_pool.tsv` | The 141 protocol-centric pool records flagged by the title retrieval that the survey does not cite, with keyword category (one withdrawn by its authors) | §II-E |
 | `data/coverage/rerun_2026-11-05/openalex.tsv`, `openalex_summary.txt` | OpenAlex supplementary search (1,259 records) with arXiv-only, in-harvest, and title-rule flags | §II-B |
 | `data/coverage/rerun_2026-11-05/openalex_peer256_screened.tsv` | Manual screening of all 256 peer-reviewed-type delta records into five categories | §II-B |
 | `data/coverage/coverage_check_added_keys.txt` | Works added after the coverage check (bib key, arXiv id) | Table II |
 | `data/verification/arxiv_id_check.tsv` | Title and first-author check of every cited arXiv identifier | References |
 | `data/verification/doi_check*.tsv` | Crossref check (title, first author, venue, year) of every DOI | References |
 | `data/verification/withdrawn_check.tsv` | Withdrawal check of every cited arXiv preprint | References |
-| `data/verification/provenance_summary.txt` | Provenance counts of the 280 cited works | Table II |
+| `data/coverage/update_2026-11-17/` | Update search of Nov. 17, 2026: arXiv and OpenAlex records outside the frozen harvest, screening decisions (`update_decisions.tsv`), README with the counts and the specification check | §II-F |
+| `scripts/update_search.py` | Update search: same six queries and title retrieval to Nov. 17, 2026, OpenAlex for Nov. 1-17, 2026 | §II-F |
+| `data/verification/provenance_summary.txt` | Provenance counts of the 300 cited works | Table II |
 | `data/bib/references.bib`, `cited_keys.txt`, `manual.bib` | Final bibliography, the keys cited in the paper, and hand-verified entries | — |
 | `scripts/harvest.py`, `screen.py`, `arxiv.py` | arXiv harvest, title-rule screening, BibTeX from the arXiv API | §II-A |
 | `scripts/learning_screen.py` | Learning-centric keyword screen of the protocol-centric pool | §II-A |
@@ -58,7 +62,7 @@ Run from the repository root (Python 3, standard library only):
 
 ```bash
 python3 scripts/build_coding.py            # Table VI: 113 changes, 91 explained by DP1-DP6
-python3 scripts/provenance.py              # Table II: provenance of the 280 cited works
+python3 scripts/provenance.py              # Table II: provenance of the 300 cited works
 python3 scripts/learning_screen.py         # learning-centric screen: 37 flagged, 7 cited before it, 9 added
 python3 scripts/verify_arxiv_ids.py data/bib/references.bib out.tsv
 python3 scripts/verify_dois.py data/bib/references.bib out.tsv
@@ -70,6 +74,8 @@ python3 scripts/openalex_supplement.py data/harvest/screening.csv data/bib/refer
 (cd data/coding && python3 ../../scripts/kappa.py second_coder_all_filled.tsv dp_coding_pre_adjudication.tsv)      # kappa, all 107 items
 python3 scripts/adjudication_direction.py   # Appendix A: adjudication outcome per disagreeing code
 python3 scripts/adjudication_check_summary.py   # Appendix A: second author's blind check of the adjudication
+python3 scripts/dp5_split.py   # Section IX-B / Table VI: coverage without DP5 and the split of DP5
+python3 scripts/update_search.py data/harvest/harvest.json data/bib/references.bib out_dir 20261117   # Section II-F: update search (live APIs)
 ```
 
 The harvest and network-based checks query live APIs (arXiv, Crossref, Semantic Scholar, OpenAlex),
@@ -89,6 +95,20 @@ outputs used in the paper.
 
 Scripts: MIT. Data in `data/`: CC BY 4.0. See `LICENSE`. Records derived from arXiv, Crossref, and
 OpenAlex metadata keep the terms of those services (arXiv metadata and OpenAlex are CC0).
+
+## Changes in version 1.7 (November 2026)
+
+- Update search to November 17, 2026 (§II-F, `data/coverage/update_2026-11-17/`, `scripts/update_search.py`): the arXiv
+  harvest stays frozen (window to Oct. 31, 2026); the same queries and the title retrieval re-run to Nov. 17 found 52
+  records outside it (11 late-indexed in the original window), 24 pass the title rule, 14 added; OpenAlex for Nov. 1-17
+  added 2 peer-reviewed works and the AISec version of one arXiv record. Two pool taxonomies (Yuan et al., Sander et al.)
+  were added to Table I. The survey now cites 300 works (224 research, 32 standards, 44 grey); `provenance.py` has two new
+  categories, and `uncited_flagged_pool.tsv` lists 141 records. The OAuth client ID metadata document entry now cites draft -03.
+- `data/coding/dp5_split.tsv` and `scripts/dp5_split.py`: DP5 ("smaller core, extensions, and rigor") split into the
+  two kinds of change its codebook definition lists: 10 changes make the core smaller or modular, 33 tighten schemas,
+  names, error models, or normative definitions (17 of them in A2A 1.0). Without DP5 the six pressures fit 48 of 113
+  changes (42%; MCP 38 of 71, A2A 10 of 42); without its tightening part, 58 of 113 (51%). The split was made after
+  adjudication by a single coder and was not double-coded. The codebook is unchanged.
 
 ## Changes in version 1.6 (November 2026)
 
