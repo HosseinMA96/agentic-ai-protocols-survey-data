@@ -96,6 +96,12 @@ outputs used in the paper.
 Scripts: MIT. Data in `data/`: CC BY 4.0. See `LICENSE`. Records derived from arXiv, Crossref, and
 OpenAlex metadata keep the terms of those services (arXiv metadata and OpenAlex are CC0).
 
+## Changes in version 1.8 (November 2026)
+
+- Wording only: the DP5 split (`data/coding/dp5_split.tsv`) was proposed by the first author with an AI assistant and
+  reviewed by the second author; it was not coded independently by two coders. README and the `scripts/dp5_split.py`
+  docstring now say so (version 1.7 said "single coder"). Data, scripts, and results are unchanged from version 1.7.
+
 ## Changes in version 1.7 (November 2026)
 
 - Update search to November 17, 2026 (§II-F, `data/coverage/update_2026-11-17/`, `scripts/update_search.py`): the arXiv
